@@ -1,0 +1,2093 @@
+{
+ "versao": "1.1.0",
+ "atualizado_em": "2026-10-19",
+ "idioma": "pt-BR",
+ "legenda": {
+  "t": "template: troque o que está entre [colchetes]",
+  "e": "exemplo pronto em português do Brasil",
+  "p": "prova: hook real minerado no Instagram (criador, views e envios na data da coleta). Sem 'p' = modelo escrito a partir do padrão."
+ },
+ "categorias": [
+  {
+   "id": "VE",
+   "nome": "Verdade escondida (dissonância cognitiva)",
+   "gatilho": "Contradição entre o que a pessoa acredita (A) e um fato real (B). Se não existe verdade escondida, é só notícia e ela rola o feed.",
+   "quando_usar": "Cases de empresas, marcas, pessoas famosas, mercado. É o motor do formato do Fernando Miranda.",
+   "referencias": [
+    "Fernando Miranda",
+    "Kallaway (Investigator)"
+   ],
+   "hooks": [
+    {
+     "t": "[Marca famosa] é proibida de se chamar de [categoria óbvia]. Na real, ela é [categoria inesperada].",
+     "e": "O Dove é proibido de se chamar de sabonete nos Estados Unidos. Na real, ele é um detergente.",
+     "p": "@fernandomiranda777 · 557 mil views · 16 mil envios"
+    },
+    {
+     "t": "[Pessoa/empresa] fatura [número] sendo [característica negativa].",
+     "e": "A Ryanair fatura bilhões sendo a companhia aérea mais odiada da Europa.",
+     "p": "@fernandomiranda777 (citado por ele como viral, 51 mil curtidas)"
+    },
+    {
+     "t": "O homem mais rico de [país] vende [produto banal].",
+     "e": "O homem mais rico do Japão vende camiseta básica.",
+     "p": "@fernandomiranda777 (citado por ele como viral)"
+    },
+    {
+     "t": "Essa [pessoa] fatura milhões [fazendo algo aparentemente absurdo].",
+     "e": "Como que pode essa mulher faturar milhões alugando a mesma bolsa 15 vezes?",
+     "p": "@fernandomiranda777 · 68 mil views"
+    },
+    {
+     "t": "Esse produto era literalmente jogado fora. Hoje fatura [número] e você paga [X] vezes mais por ele achando que [crença].",
+     "e": "Esse produto era literalmente jogado fora. Hoje fatura mais de 500 milhões por ano e você paga 8 vezes mais por ele achando que tá fazendo a escolha mais saudável da sua vida.",
+     "p": "Roteiro da Staage para Dener Lippert (caso YoPro)"
+    },
+    {
+     "t": "Você paga [X] vezes mais por [produto] e acha que é normal.",
+     "e": "Você paga 18 vezes mais pelo quilo do café quando compra em cápsula e acha isso normal.",
+     "p": "Padrão citado por Fernando Miranda (caso Nespresso)"
+    },
+    {
+     "t": "[Empresa] não vende [o que parece]. Ela vende [o que realmente vende].",
+     "e": "O Coco Bambu não vende comida. Ele vende evento.",
+     "p": "Roteiro reescrito ao vivo por Fernando Miranda"
+    },
+    {
+     "t": "[Empresa conhecida] na verdade é [algo que ninguém imagina].",
+     "e": "Transformers, na verdade, é um comercial de brinquedo de duas horas.",
+     "p": "Padrão citado por Fernando Miranda"
+    },
+    {
+     "t": "O produto que mais vende em [mercado] não é [chute óbvio 1], nem [chute óbvio 2]. É [resposta inesperada].",
+     "e": "Você não sabia, mas o produto que mais vende no e-commerce brasileiro não é tênis, nem celular, nem cosmético. É o envelope em que tudo isso chega.",
+     "p": "@fernandomiranda777 · 76 mil views"
+    },
+    {
+     "t": "[Marca] chegou do nada, virou [conquista]… e você foi enganado: [fato que quebra a crença].",
+     "e": "A Shopee chegou no Brasil do nada, virou o app de compras mais baixado do país e você foi enganado: nem chinesa ela é.",
+     "p": "@fernandomiranda777 · 102 mil views"
+    },
+    {
+     "t": "[Empresa] criou [algo] tão poderoso que [consequência enorme]. Depois [fez o oposto do esperado]. Por quê?",
+     "e": "A Seiko criou uma tecnologia tão poderosa que matou a Suíça. Depois deu essa tecnologia de graça pro mundo inteiro. Por quê?",
+     "p": "@fernandomiranda777 · 85 mil views"
+    },
+    {
+     "t": "A agência mais lucrativa que eu conheço [faz o oposto do que todo mundo faz].",
+     "e": "A agência mais lucrativa que eu conheço não posta nada no próprio Instagram."
+    },
+    {
+     "t": "A ferramenta de IA que mais dá dinheiro hoje no Brasil não é [a óbvia]. É [a inesperada].",
+     "e": "A IA que mais tá dando dinheiro pra pequena empresa no Brasil não é o ChatGPT. É uma planilha com um robô de WhatsApp."
+    },
+    {
+     "t": "[Coisa que parece cara/luxo] é, na verdade, a estratégia mais barata de [resultado].",
+     "e": "O cafezinho grátis da concessionária é, na verdade, a estratégia de venda mais barata que existe."
+    },
+    {
+     "t": "Ninguém percebeu, mas [empresa] ganha dinheiro com [fonte escondida], não com [fonte óbvia].",
+     "e": "Ninguém percebeu, mas o cinema não ganha dinheiro com o filme. Ganha com a pipoca."
+    },
+    {
+     "t": "Por que ninguém consegue copiar [marca] mesmo depois de [N] anos vendendo o mesmo produto, [na mesma embalagem], [pelo mesmo canal]?",
+     "e": "Por que ninguém consegue copiar Yakult mesmo depois de 90 anos, eles venderam o mesmo produto na mesma garrafa pelo mesmo canal?",
+     "p": "@fernandomiranda777 · 1,6 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "A pessoa mais [rica/bem-sucedida] de cada [lugar] é [papel inesperado], não [papel óbvio].",
+     "e": "A pessoa mais rica de cada continente é um comprador de empresa, não um fundador de empresa.",
+     "p": "@denerlippert · 155 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Setor] faturou [número gigante]. O número impressiona. Agora, enquanto [métrica boa] sobe, [métrica real] está [caindo] em silêncio.",
+     "e": "O setor de alimentação fora do lar no Brasil faturou 495 bi em 2025. O número impressiona.",
+     "p": "@camilafarani · 124 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "RV",
+   "nome": "Revelação de status (“agora é bilionário”, “agora é dono”)",
+   "gatilho": "Mudança de status de alguém que o público já conhece. O cérebro reage: “desde quando?”",
+   "quando_usar": "Celebridades, jogadores, cantores, marcas brasileiras. Quanto mais conhecido o nome, mais forte.",
+   "referencias": [
+    "Fernando Miranda"
+   ],
+   "hooks": [
+    {
+     "t": "[Famoso] agora é bilionário.",
+     "e": "O Neymar agora é bilionário.",
+     "p": "@fernandomiranda777 · 3 milhões de views (citado no vídeo com Dener Lippert)"
+    },
+    {
+     "t": "Você não sabia, mas [famoso] agora é bilionário.",
+     "e": "Você não sabia, mas o Ronaldo Fenômeno agora é bilionário.",
+     "p": "@fernandomiranda777 · 3,4 milhões de views, 272 mil curtidas"
+    },
+    {
+     "t": "[Famoso] agora é bilionário e é [o mais X do Brasil].",
+     "e": "O Luan Santana agora é bilionário e é o cantor mais rico do Brasil.",
+     "p": "@fernandomiranda777 · 621 mil views · 15 mil envios"
+    },
+    {
+     "t": "[Famoso A] agora é dono de [famoso/marca B].",
+     "e": "O Neymar agora é dono do Pelé.",
+     "p": "Padrão citado por Fernando Miranda"
+    },
+    {
+     "t": "[Marca brasileira tradicional] agora é [nacionalidade inesperada].",
+     "e": "A Mercedes agora é uma marca chinesa.",
+     "p": "Padrão citado por Fernando Miranda (hook com confirmação logo na primeira frase)"
+    },
+    {
+     "t": "[Pessoa comum de um nicho] agora fatura mais que [referência famosa].",
+     "e": "Esse cara que vende marmita em Goiânia agora fatura mais que muito restaurante de shopping."
+    },
+    {
+     "t": "O [apelido] de [produto] fatura [número] vendendo [produto banal].",
+     "e": "O Rei do Ovo fatura 17 bilhões vendendo ovo.",
+     "p": "Padrão citado por Fernando Miranda (com visual da coroa)"
+    },
+    {
+     "t": "Essa senhora de [idade] tem [patrimônio] e você nunca ouviu falar dela.",
+     "e": "Essa senhora de 84 anos tem 30 bilhões de reais e você nunca ouviu falar dela.",
+     "p": "@fernandomiranda777 · 1 milhão de views em 24h · 50 mil+ envios"
+    },
+    {
+     "t": "Ela tinha [idade] quando salvou [marca] da falência.",
+     "e": "Ela tinha 48 anos quando salvou a Lupo da falência.",
+     "p": "@fernandomiranda777 (viral citado por ele)"
+    },
+    {
+     "t": "[Famoso] foi [fato chocante da infância].",
+     "e": "O Donald Trump foi expulso de casa aos 12 anos por ser violento demais.",
+     "p": "Padrão citado por Fernando Miranda"
+    },
+    {
+     "t": "A [marca da sua infância] tá voltando? Mais ou menos.",
+     "e": "A Texaco tá voltando pro Brasil? Mais ou menos.",
+     "p": "@fernandomiranda777 · 319 mil views"
+    },
+    {
+     "t": "O dono do [app/rede] acabou de [ação dramática] contra [rival].",
+     "e": "O dono do Instagram acabou de declarar guerra à Apple.",
+     "p": "@izabela.anholett · 3 milhões de views · 247 mil envios"
+    },
+    {
+     "t": "[Famoso hoje] me pediu [ajuda/investimento] em [ano] e eu disse não.",
+     "e": "Ele ainda era novinho, em 2013 me pediu investimento. E eu disse não.",
+     "p": "@joaokepler · 2 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Saiu a lista dos [N] mais [X]. E o que mais me chamou atenção é que [mercado] está passando por uma mudança profunda.",
+     "e": "Olha aí, turma, saiu a lista dos 30 profissionais mais influentes em 21 setores. E o que me chamou mais a atenção é que o mercado de influência, como a gente conhecia, está passando por uma mudança bem profunda",
+     "p": "@rafaelkiso · 76,6 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "IN",
+   "nome": "Investigador (“quem é o dono”, “o que aconteceu com”)",
+   "gatilho": "Lacuna de curiosidade sobre algo que a pessoa usa ou conhece, mas nunca parou pra pensar.",
+   "quando_usar": "Marcas do dia a dia, nostalgia, empresas que sumiram, bastidores de mercado.",
+   "referencias": [
+    "Fernando Miranda",
+    "Kallaway (Investigator)"
+   ],
+   "hooks": [
+    {
+     "t": "Afinal de contas, quem é o dono de [coisa do dia a dia]? Se você já [ação comum], você deixou dinheiro no bolso do mesmo cara.",
+     "e": "Afinal de contas, quem é o dono dos shoppings do Brasil? Se você já entrou no Morumbi, no BarraShopping ou no BH Shopping, deixou dinheiro no bolso do mesmo cara.",
+     "p": "@fernandomiranda777 · 472 mil views · 18 mil envios"
+    },
+    {
+     "t": "O que aconteceu com [marca]? [Fato dramático em uma frase].",
+     "e": "O que aconteceu com a Arezzo? A maior empresa de moda do Brasil resolveu se divorciar. E o casamento nem tinha feito dois anos.",
+     "p": "@fernandomiranda777 · 679 mil views · 22 mil envios"
+    },
+    {
+     "t": "O que aconteceu com [marca]? [Fez algo estranho], mas hoje fatura [número]. Como isso é possível?",
+     "e": "O que aconteceu com as tintas Renner? Venderam a linha mais famosa, sumiram do varejo por 20 anos, mas hoje faturam 5 bilhões de reais. Como isso é possível?",
+     "p": "@fernandomiranda777 · 559 mil views"
+    },
+    {
+     "t": "Por que ninguém consegue copiar [marca], mesmo depois de [tempo] [fazendo a mesma coisa]?",
+     "e": "Por que ninguém consegue copiar a Yakult, mesmo depois de 90 anos vendendo o mesmo produto, na mesma garrafa, pelo mesmo canal?",
+     "p": "@fernandomiranda777 · 1,48 milhão de views · 78 mil envios"
+    },
+    {
+     "t": "Quem é o dono do [time/marca]? [Descrição surpreendente da pessoa].",
+     "e": "Quem é o dono do Real Madrid? Um engenheiro que comprou o Figo do Barcelona com dinheiro que não existia.",
+     "p": "@fernandomiranda777 · 552 mil views"
+    },
+    {
+     "t": "Tá bom, mas quem é [nome da marca] de [marca]? [Empresa gigante] pagou caro pra descobrir e nunca contou pra ninguém.",
+     "e": "Tá bom, mas quem é a Elma da Elma Chips? A Pepsi pagou caro pra descobrir e nunca contou pra ninguém.",
+     "p": "@fernandomiranda777 · 108 mil views"
+    },
+    {
+     "t": "Como que [origem improvável] vira [potência]?",
+     "e": "Como que a Consul, uma fábrica de anzol, virou a maior fábrica de geladeira do planeta?",
+     "p": "@fernandomiranda777 · 234 mil views"
+    },
+    {
+     "t": "Lembra de [marca nostálgica]? [Empresa gigante] pagou uma fortuna por ela. E aqui tá o motivo.",
+     "e": "Lembra do Matte Leão? A Coca-Cola pagou uma fortuna pela empresa. E aqui tá o motivo.",
+     "p": "@fernandomiranda777 · 88 mil views"
+    },
+    {
+     "t": "Como que a família [sobrenome] perdeu a própria empresa que leva o nome dela?",
+     "e": "Como que a família Hering acabou perdendo a Hering?",
+     "p": "@fernandomiranda777 · 117 mil views"
+    },
+    {
+     "t": "O que aconteceu com o império de [figura famosa]? [Número surpreendente].",
+     "e": "O que aconteceu com o império do Silvio Santos? Ele fundou mais de 150 empresas e sobraram 34.",
+     "p": "@fernandomiranda777 · 132 mil views"
+    },
+    {
+     "t": "Por que [empresa] que faz uma única coisa já vale [valuation]?",
+     "e": "Por que essa empresa que só corta podcast em vídeo curto com IA já vale mais de um bilhão de reais?",
+     "p": "@fernandomiranda777 · 115 mil views"
+    },
+    {
+     "t": "Tá, mas o que aconteceu com [líder antigo] quando todo mundo começou a usar [novo concorrente]?",
+     "e": "Tá, mas o que aconteceu com o Google quando todo mundo começou a perguntar tudo pro ChatGPT?"
+    },
+    {
+     "t": "Quem diria que isso aqui é [coisa inesperada]?",
+     "e": "Quem diria que isso aqui é uma farmácia?",
+     "p": "@joaoadibemarques · 326 mil views"
+    },
+    {
+     "t": "Isso é [referência grandiosa]? Não! Isso é [coisa brasileira real].",
+     "e": "Isso é a NASA? Não! Isso é saúde em tempo real no SUS.",
+     "p": "@hosp_einstein · 2,7 milhões de views"
+    },
+    {
+     "t": "Eu li [documento longo que ninguém lê] inteiro. Fui direto na parte que mexe no seu bolso. E em [N] páginas não existe [coisa esperada].",
+     "e": "Eu li o plano de governo do Flávio Bolsonaro que entregou ao TSE e do Lula. Fui direto ali na parte de economia, trabalho e contas públicas, que é a parte que mexe no seu bolso, dos dois.",
+     "p": "@nathfinancas · 1,4 mi views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "NQ",
+   "nome": "Notícia quente (newsjacking com “acabou de”)",
+   "gatilho": "Urgência + relevância + impacto no bolso. Funciona porque a pessoa sente que vai ficar por fora.",
+   "quando_usar": "Assim que sair a notícia (janela de 24 a 72h). É o formato do Thiago Nigro, com vídeos de 5 a 15 milhões de views.",
+   "referencias": [
+    "Thiago Nigro (Primo Rico)",
+    "Izabela Anholett",
+    "Rafael Kiso"
+   ],
+   "hooks": [
+    {
+     "t": "É oficial: [instituição] acabou de admitir que [fato grave]. E adivinha de onde [consequência]?",
+     "e": "É oficial: o governo acabou de admitir que não tem dinheiro pra pagar as contas desse ano. E adivinha de onde ele vai cortar os gastos?",
+     "p": "@thiago.nigro · 15 milhões de views · 420 mil envios"
+    },
+    {
+     "t": "Galera, [empresa conhecida] acabou de anunciar que vai [fato com número], de uma vez só.",
+     "e": "Galera, a Casas Bahia acabou de anunciar que vai fechar 298 lojas e demitir quase 2 mil funcionários, de uma vez só.",
+     "p": "@thiago.nigro · 11,2 milhões de views · 334 mil envios"
+    },
+    {
+     "t": "Como se não bastasse [notícia anterior], agora chegou a vez de [nova empresa].",
+     "e": "Como se não bastasse a Casas Bahia fechando 298 lojas, agora chegou a vez do Bradesco fechar 324 agências.",
+     "p": "@thiago.nigro · 8 milhões de views · 211 mil envios"
+    },
+    {
+     "t": "Galera, [indicador] acabou de bater [número absurdo]. E você precisa ter ideia do tamanho desse número.",
+     "e": "Galera, a dívida pública do Brasil acabou de bater 11 trilhões de reais. E você precisa ter ideia do tamanho desse número.",
+     "p": "@thiago.nigro · 6,8 milhões de views"
+    },
+    {
+     "t": "Hoje foi um péssimo dia pra quem [grupo]. O motivo: [anúncio inesperado].",
+     "e": "Hoje foi um péssimo dia pra quem investe em ações de farmácia. O motivo: um anúncio do Mercado Livre.",
+     "p": "@thiago.nigro · 3,8 milhões de views · 127 mil envios"
+    },
+    {
+     "t": "Amanhã [algo bom vai acontecer com muita gente]. Só que muita gente vai [perder] sem nem perceber.",
+     "e": "Amanhã o governo vai depositar 13 bilhões na conta de milhares de brasileiros. Só que muita gente vai perder dinheiro sem nem perceber.",
+     "p": "@thiago.nigro · 2,9 milhões de views"
+    },
+    {
+     "t": "Se [cenário] não acontecer agora, então pode fechar as portas. Porque olha o que acabou de sair.",
+     "e": "Se o Brasil não decolar daqui pra frente, então pode fechar as portas desse país. Porque olha o que acabou de sair.",
+     "p": "@thiago.nigro · 5,3 milhões de views · 159 mil envios"
+    },
+    {
+     "t": "Galera, parece que [pessoa] acertou dessa vez. [Empresa] acabou de lançar [produto] e já tá virando febre.",
+     "e": "Galera, parece que o Mark Zuckerberg acertou dessa vez. A Meta acabou de lançar um agente de IA que já tá virando febre nos Estados Unidos.",
+     "p": "@thiago.nigro · 2,4 milhões de views · 52 mil envios"
+    },
+    {
+     "t": "Olha essa notícia aí: [pergunta alarmante]? Não, calma lá. Mas [o que realmente mudou].",
+     "e": "Olha essa notícia aí: o Instagram agora vai ser pago? Não, calma lá. Mas a Meta mudou a lógica das assinaturas pra quem usa o Instagram profissionalmente.",
+     "p": "@rafaelkiso · 256 mil views · 9,7 mil envios"
+    },
+    {
+     "t": "[Ferramenta] acabou de lançar uma atualização que pode ser o começo do fim de [algo]. Mas quase ninguém percebeu.",
+     "e": "O ChatGPT acabou de lançar uma atualização que pode ser o começo do fim dos empregos que a gente conhece. Mas quase ninguém percebeu.",
+     "p": "@izabela.anholett · 740 mil views"
+    },
+    {
+     "t": "[Rede social] acabou de mudar [regra] e isso muda tudo pra quem [público].",
+     "e": "O Instagram acabou de mudar o jeito de contar visualização e isso muda tudo pra quem vende pelo Reels."
+    },
+    {
+     "t": "Saiu agora: [fato]. Se você [perfil], presta atenção nos próximos 30 segundos.",
+     "e": "Saiu agora: a Meta vai liberar anúncio dentro do WhatsApp. Se você tem negócio local, presta atenção nos próximos 30 segundos."
+    },
+    {
+     "t": "Faltando [X dias] pra [evento], [instituição] acabou de [ação]. E tem um contexto aqui que ninguém tá contando.",
+     "e": "Faltando 12 dias pra Black Friday, o Mercado Livre acabou de mudar a taxa pros vendedores. E tem um contexto aqui que ninguém tá contando."
+    },
+    {
+     "t": "Um aplicativo [origem] acabou de se tornar um dos mais baixados do Brasil. E provavelmente você nunca ouviu falar dele.",
+     "e": "Um aplicativo chinês, da mesma empresa do TikTok, acabou de se tornar um dos mais baixados do Brasil. E provavelmente você nunca ouviu falar dele.",
+     "p": "@rafaelkiso · 44 mil views"
+    },
+    {
+     "t": "[Fato quente], isso provavelmente vocês já sabem. O que vocês não sabem é que [consequência escondida].",
+     "e": "É galera, Bolsonaro na frente do Lula o primeiro turno, isso provavelmente vocês já sabem. O que vocês não sabem é que por mais que a eleição ainda não esteja decidida, (...) os mercados já estão precificando uma vitória da direita",
+     "p": "@thiago.nigro · 13,8 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Galera, [autoridade] acabou de anunciar, faltando [prazo], que vai [medida com número]. Isso vai atingir [N pessoas].",
+     "e": "Galera, o Lula acabou de anunciar, faltam só 12 dias para o segundo turno, que ele vai perdoar 12,6 bilhões em dívidas dos MEIs. Essa medida vai atingir 3,6 milhões de microempreendedores espalhados pelo Brasil inteiro.",
+     "p": "@thiago.nigro · 9,5 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Agora é oficial, galera: [instituição] aprovou agora há pouco [mudança que afeta todo mundo].",
+     "e": "Agora é oficial galera, o Senado aprovou agora pouco por 75 votos a um o fim da escala 6 por 1",
+     "p": "@thiago.nigro · 5,9 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "O dono do [app que você usa] acabou de declarar guerra a [gigante rival], usando uma arma que [promessa enorme] e o campo de batalha é [lugar íntimo seu].",
+     "e": "O dono do Instagram acabou de declarar guerra a Apple, usando uma arma que pode literalmente mudar o mundo que a gente conhece e o campo de batalha é o seu rosto, tá?",
+     "p": "@izabela.anholett · 3,2 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "(tela) [Pessoa da notícia trágica] deu entrevista [dias antes]. (fala) Eu venho de [origem difícil].",
+     "e": "Então, eu tive, obviamente, ao passar dos anos, mudar a minha mentalidade, porque eu venho de uma família muito escassa.",
+     "p": "@joaokepler · 1,7 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Marca de paixão popular] vai ser [o maior X], isso foi dito pelo [novo dono] ontem.",
+     "e": "O Vasco da Gama vai ser o maior projeto esportivo da América Latina, isso foi dito pelo novo dono ontem, tá?",
+     "p": "@rony · 479 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Será que vai dar [A] ou [B] em [assunto quente]? Tá todo mundo falando de [outra coisa], e isso pode ser mais importante pro seu bolso do que [assunto quente].",
+     "e": "Será que vai dar 13 ou vai dar 22 nas eleições? Tá todo mundo falando desse relatório da Sequoia, que é um dos maiores fundos de investimento do mundo",
+     "p": "@pedrosobral · 293 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Mudança polêmica] vai à votação. Você já fez a conta? O que muda pra [grupo 1], [grupo 2] e [grupo 3]?",
+     "e": "A escala 6x1 vai à votação. Você já fez a conta? O que que muda pra quem trabalha, pra quem contrata, pra quem paga pelo produto no fim da cadeia?",
+     "p": "@camilafarani · 208 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Marca icônica] entrou com [notícia ruim]. [Explicações óbvias]. Tudo verdade. E tudo insuficiente pra explicar.",
+     "e": "As Casas Bahia entraram com pedido de recuperação judicial na segunda-feira.",
+     "p": "@camilafarani · 120 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Agora [instituição] tem maioria para [ação histórica]. Estão deixando a gente sonhar.",
+     "e": "Agora o Senado tem maioria para o impeachment de ministro, acredito que estão deixando a gente sonhar.",
+     "p": "@jhon_freitas · 120 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "FU",
+   "nome": "Futuro / contagem regressiva",
+   "gatilho": "O cérebro é programado pra prever e se proteger do que vem. “Vai mudar tudo” ativa medo de ficar pra trás.",
+   "quando_usar": "Tecnologia, IA, tendências, mudanças de mercado. Precisa de um visual que pareça futuro.",
+   "referencias": [
+    "Kallaway (Fortune Teller)",
+    "Izabela Anholett",
+    "Marcelo Toledo"
+   ],
+   "hooks": [
+    {
+     "t": "A contagem regressiva pro fim de [algo cotidiano] como a gente conhece começou.",
+     "e": "A contagem regressiva pro fim dos supermercados brasileiros como a gente conhece começou.",
+     "p": "@izabela.anholett · 495 mil views · 23 mil envios"
+    },
+    {
+     "t": "A contagem regressiva começou. [Pessoa poderosa] declarou que [fato futurista] já nos próximos meses.",
+     "e": "A contagem regressiva começou. O Elon Musk declarou que vai implantar chip cerebral em humanos já nos próximos meses.",
+     "p": "@izabela.anholett · 388 mil views · 25 mil envios"
+    },
+    {
+     "t": "O homem mais rico do mundo acabou de decretar o fim de [coisa que te ensinaram a valorizar].",
+     "e": "O homem mais rico do mundo acabou de decretar o fim da coisa que mais te ensinaram a valorizar.",
+     "p": "@marcelotoledo · 1,2 milhão de views · 42 mil envios"
+    },
+    {
+     "t": "[Produto] vai mudar [categoria] pra sempre.",
+     "e": "Esse óculos vai mudar o jeito que a gente compra roupa pra sempre."
+    },
+    {
+     "t": "Eu acho que isso aqui é o futuro de como [as pessoas] vão [fazer algo].",
+     "e": "Eu acho que isso aqui é o futuro de como as pessoas vão escolher restaurante."
+    },
+    {
+     "t": "Daqui a [X anos], [profissão/hábito] vai parecer tão antigo quanto [coisa antiga].",
+     "e": "Daqui a 5 anos, montar campanha de anúncio na mão vai parecer tão antigo quanto mandar fax."
+    },
+    {
+     "t": "A gente tá assistindo a maior virada de [mercado] desde [marco histórico].",
+     "e": "A gente tá assistindo a maior virada do marketing desde a chegada do Google."
+    },
+    {
+     "t": "Em [ano], quem não [ação] vai ficar pra trás. E não é exagero.",
+     "e": "Em 2027, empresa que não responde cliente com IA no WhatsApp vai ficar pra trás. E não é exagero."
+    },
+    {
+     "t": "O mundo tá em contagem regressiva pra [grande evento]. Você vai ficar assombrado com o que [tecnologia] acabou de fazer.",
+     "e": "O mundo tá em contagem regressiva pra cura do câncer. Você vai ficar assombrado com o que essa IA acabou de fazer.",
+     "p": "@izabela.anholett · 284 mil views"
+    },
+    {
+     "t": "Essa é a última geração que vai [hábito comum].",
+     "e": "Essa é a última geração que vai pagar alguém pra editar vídeo curto."
+    },
+    {
+     "t": "Guarda esse vídeo. Daqui a [tempo] você vai lembrar que eu avisei.",
+     "e": "Guarda esse vídeo. Daqui a um ano você vai lembrar que eu avisei sobre agente de IA."
+    },
+    {
+     "t": "Tem uma profissão que vai explodir nos próximos [X] anos e quase ninguém tá olhando pra ela.",
+     "e": "Tem uma profissão que vai explodir nos próximos 3 anos no Brasil e quase ninguém tá olhando pra ela: quem sabe treinar IA pra empresa pequena."
+    },
+    {
+     "t": "[Instituição conhecida], como a gente conhece, vai acabar. Enquanto todo mundo fala de [crise], [setor] está resolvendo de um jeito diferente.",
+     "e": "O Shopping Center, como a gente conhece o Shopping Center, vai acabar.",
+     "p": "@conradoadolpho · 182 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Esse é o [objeto] que vai substituir [algo humano]. Acabei de visitar [lugar exclusivo].",
+     "e": "Esse é o robô que vai substituir o trabalho do ser humano. Acabei de visitar aqui a fábrica da Tesla",
+     "p": "@jhon_freitas · 169 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Logo após [bilionário] lançar [produto], [concorrente] anunciou em menos de 24h que vai [reação drástica].",
+     "e": "Logo após o Elon Musk lançar aí o táxi da Tesla, a Uber já anunciou em menos de 24 horas que vai cortar 10% da sua equipe pra enfrentar aí os robotaxis do Elon Musk.",
+     "p": "@jhon_freitas · 117 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "CT",
+   "nome": "Contrário (opinião impopular)",
+   "gatilho": "Afirma o oposto do senso comum logo de cara. Quem concorda compartilha; quem discorda comenta.",
+   "quando_usar": "Quando você tem uma opinião real e prova. Não use em todo vídeo: o perfil vira conta de polêmica.",
+   "referencias": [
+    "Kallaway (Contrarian)",
+    "Guilherme Benchimol",
+    "Caio Carneiro",
+    "Rafael Kiso"
+   ],
+   "hooks": [
+    {
+     "t": "Os [grupo admirado] são sempre os primeiros a [consequência ruim].",
+     "e": "Os otimistas são sempre os primeiros a morrer.",
+     "p": "@guilhermebenchimol · 1,25 milhão de views · 18 mil envios"
+    },
+    {
+     "t": "[Frase de senso comum]. [Contra-argumento curto e seco].",
+     "e": "Dinheiro não traz felicidade. E o que importa é ser feliz. Então faz dinheiro.",
+     "p": "@caiocarneiro · 677 mil views (vídeo de 24s)"
+    },
+    {
+     "t": "Vou te falar uma bomba que talvez você não queira ouvir: [verdade incômoda].",
+     "e": "Vou te falar uma bomba que talvez você não queira ouvir: o alcance orgânico do Instagram tá caindo, sim. E postar mais não vai resolver.",
+     "p": "@rafaelkiso · 112 mil views"
+    },
+    {
+     "t": "Segura essa bomba: o que separa [quem ganha pouco] de [quem ganha muito]? Não é [o que todo mundo acha].",
+     "e": "Segura essa bomba: o que separa o social media que cobra mil reais daquele que cobra 5 mil? Não é talento.",
+     "p": "@rafaelkiso · 108 mil views"
+    },
+    {
+     "t": "Você ainda acha que [crença comum]? Os dados tão mostrando outra coisa.",
+     "e": "Você ainda acha que Reels curto é sinônimo de Reels que viraliza? Os dados tão mostrando outra coisa.",
+     "p": "@rafaelkiso"
+    },
+    {
+     "t": "Pare de [conselho popular]. Isso tá te deixando [resultado ruim].",
+     "e": "Pare de postar todo dia. Isso tá deixando seu perfil mais fraco."
+    },
+    {
+     "t": "Todo mundo ama [coisa], mas se você [usa de verdade], é superestimado.",
+     "e": "Todo mundo ama o ChatGPT, mas se você usa pra escrever roteiro todo dia, ele é superestimado."
+    },
+    {
+     "t": "Eu não [faz algo que todo mundo faz] e [resultado positivo].",
+     "e": "Eu não pago comissão pro meu time de vendas e ele vende mais que o mercado.",
+     "p": "Corte com 1 milhão de views citado por Dener Lippert"
+    },
+    {
+     "t": "[Conselho clássico] é o pior conselho que você pode seguir em [contexto].",
+     "e": "“Faça o que você ama” é o pior conselho que você pode seguir se quer ter uma agência lucrativa."
+    },
+    {
+     "t": "Ninguém vai te falar isso, mas [verdade desconfortável].",
+     "e": "Ninguém vai te falar isso, mas seu conteúdo não flopa por causa do algoritmo. Flopa porque os 3 primeiros segundos são ruins."
+    },
+    {
+     "t": "[Tendência] não é [o que vendem]. É [o que é de verdade].",
+     "e": "Tráfego pago não é sobre anúncio. É sobre oferta."
+    },
+    {
+     "t": "Eu sei que pode parecer loucura o que eu vou dizer agora, mas [tese].",
+     "e": "Eu sei que pode parecer loucura o que eu vou dizer agora, mas o melhor gestor de tráfego do Brasil vai ser uma IA.",
+     "p": "Estrutura usada por @thiago.nigro"
+    },
+    {
+     "t": "Eu acho que a gente tá cometendo um erro enorme ao [ação comum]. Fica comigo que você vai entender.",
+     "e": "Eu acho que a gente tá cometendo um erro enorme ao medir crescimento no Instagram. Fica comigo que você vai entender.",
+     "p": "@rafaelkiso"
+    },
+    {
+     "t": "Quem fala que [crença] nunca [fez a coisa de verdade].",
+     "e": "Quem fala que IA vai substituir o criador de conteúdo nunca tentou viralizar com um roteiro só de IA."
+    },
+    {
+     "t": "O que você mais escuta do [grupo comum] é '[frase defensiva]'. E é aqui que vive a grande oportunidade.",
+     "e": "O que você mais escuta do trabalhador comum é: eu não vou fazer mais do que me pediram. Sabe por quê? Porque eu não estou sendo pago para isso.",
+     "p": "@guilhermebenchimol · 6,5 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Tô nem aí. Sabe qual é a real? [Verdade desconfortável que todos evitam].",
+     "e": "Tô nem aí. Sabe por que eu não tô? Sabe qual é a real? Depois que eu morrer, cara, a gente vai ser esquecido.",
+     "p": "@geracaodevalor · 4,8 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Data próxima], quem decide [resultado grande] não é quem [grupo óbvio], é quem [grupo ignorado].",
+     "e": "Amanhã, quem decide o futuro do Brasil é quem ainda não sabe em quem vai votar.",
+     "p": "@marcelotoledo · 4,3 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Dos [idade] aos [idade] é a fase da vida em que você só tem que fazer [o oposto do que o público quer].",
+     "e": "Dos 20 aos 40 anos de idade, é a fase da vida que você só tem que fazer o que você não quer fazer.",
+     "p": "@guilhermebenchimol · 3,6 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Quando [filho/pessoa próxima] foi para [desafio público], foi porque eu não [ajudei].",
+     "e": "Quando o Davi foi para o Shark Tank, ele foi porque eu não investi nele. Lá atrás, com 13 anos.",
+     "p": "@joaokepler · 1,5 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Sabe o que eu penso quando [situação ruim comum]? Que bom que [situação ruim], que privilégio [situação ruim].",
+     "e": "Sabe o que eu penso assim, ó, quando eu chego exausto na minha casa? Que bom que eu tô exausto, que privilégio tá exausto.",
+     "p": "@joeljota · 1,1 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Coisas que a internet viralizou, mas pra mim é [crítica]: [item amado pelo público].",
+     "e": "Coisas que a internet viralizou, mas pra mim é consumismo. Body splash.",
+     "p": "@nathfinancas · 371 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Famoso A] tinha a maior audiência, mas o mais influente era [famoso B menor].",
+     "e": "O Whindersson Nunes tinha a maior audiência do Brasil de influenciadores, mas o mais influente era o Jovem Nerd.",
+     "p": "@denerlippert · 215 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "EX",
+   "nome": "Experimento / teste ao vivo",
+   "gatilho": "Prova social em tempo real. A pessoa fica pra ver o resultado. O visual é a própria demonstração.",
+   "quando_usar": "Ferramentas, IA, métodos, desafios. Melhor ainda se o resultado for inesperado.",
+   "referencias": [
+    "Kallaway (Experimenter)",
+    "Jenny Hoyos",
+    "Dener Lippert"
+   ],
+   "hooks": [
+    {
+     "t": "Eu testei [coisa] por [tempo] e [resultado inesperado].",
+     "e": "Eu deixei uma IA responder meus clientes no WhatsApp por 7 dias e ela vendeu mais que eu."
+    },
+    {
+     "t": "Isso aqui parece [coisa comum], mas olha só que bizarro o que [faz].",
+     "e": "Isso aqui parece só uma mala comum, mas olha só que bizarro o que ela faz.",
+     "p": "@izabela.anholett · 61 mil views"
+    },
+    {
+     "t": "Tem algo estranho nesse vídeo? [Revelação]: [o vídeo foi feito com X].",
+     "e": "Tem algo estranho nesse vídeo? Eu não gravei nada disso. Foi tudo feito com IA em 10 minutos."
+    },
+    {
+     "t": "Vou [fazer algo] e no final [promessa de resultado]. Vamos ver se funciona.",
+     "e": "Vou pedir pra IA criar um anúncio do zero e no final colocar 50 reais pra rodar. Vamos ver se vende."
+    },
+    {
+     "t": "Gastamos [valor alto] pra fazer [coisa]. Tudo isso porque [motivo].",
+     "e": "Gastamos 120 mil reais pra fazer o nosso maior vídeo.",
+     "p": "@viniblogger · 1,8 milhão de views"
+    },
+    {
+     "t": "Vamos [experiência cara] pra saber se vale a pena pagar [valor].",
+     "e": "Vamos jantar no primeiro restaurante 3 estrelas Michelin do Brasil pra saber se vale a pena pagar quase 10 mil reais pra 4 pessoas.",
+     "p": "@jhon_freitas · 850 mil views · 35 mil envios"
+    },
+    {
+     "t": "Coloquei [ferramenta A] contra [ferramenta B] fazendo [tarefa]. O resultado me assustou.",
+     "e": "Coloquei o ChatGPT contra o Claude escrevendo o mesmo roteiro de Reels. O resultado me assustou."
+    },
+    {
+     "t": "Peguei o roteiro de quem tem [X seguidores] e gravei no meu perfil. Olha o que aconteceu.",
+     "e": "Peguei o roteiro de um criador com 1 milhão de seguidores e gravei no meu perfil. Olha o que aconteceu.",
+     "p": "Formato do vídeo de Dener Lippert com Fernando Miranda"
+    },
+    {
+     "t": "Fiz [tarefa] do jeito que [pessoa famosa] faz por [tempo].",
+     "e": "Fiz a rotina de conteúdo do Primo Rico por 30 dias."
+    },
+    {
+     "t": "Eu criei [quantidade] [coisas] com IA em [tempo]. Olha o resultado.",
+     "e": "Eu criei 30 roteiros de Reels com IA em uma hora. Olha quantos prestaram."
+    },
+    {
+     "t": "Estão fazendo [teste] com [ferramenta] e as respostas tão deixando todo mundo em choque.",
+     "e": "Estão fazendo dois testes com o ChatGPT e as respostas tão deixando todo mundo em choque.",
+     "p": "@izabela.anholett · 636 mil views"
+    },
+    {
+     "t": "Eu postei o mesmo vídeo com [variação A] e [variação B]. Um deles teve [X] vezes mais views.",
+     "e": "Eu postei o mesmo vídeo com dois ganchos diferentes. Um deles teve 11 vezes mais views."
+    },
+    {
+     "t": "Agora me venda [objeto do dia a dia]. Você falou muito, quero ver na prática.",
+     "e": "Então agora me venda este copo Stanley.",
+     "p": "@caiocarneiro · 4,1 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Vamos [experiência cara] pra saber se vale a pena pagar [valor], que daria [equivalente popular].",
+     "e": "Vamos jantar no primeiro restaurante 3 Estrelas Michelin no Brasil, saber se vale a pena pagar pra 4 pessoas quase 10 mil reais, que dariam aí quase 10 meses de PF comendo todos os dias.",
+     "p": "@jhon_freitas · 975 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Estão fazendo [N] testes com [ferramenta] e as respostas estão deixando todo mundo em choque.",
+     "e": "Estão fazendo dois testes com o ChatGPT e as respostas estão deixando todo mundo em choque",
+     "p": "@izabela.anholett · 713 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "PR",
+   "nome": "Professor (lista, passo a passo, método)",
+   "gatilho": "Promessa clara de valor rápido + número específico. Ótimo pra salvamentos e envios.",
+   "quando_usar": "Conteúdo educativo. Diga o tema em 1 segundo e prometa algo concreto.",
+   "referencias": [
+    "Kallaway (Teacher)",
+    "Alex Hormozi (listas e passos)",
+    "Flávio Augusto"
+   ],
+   "hooks": [
+    {
+     "t": "[Número] conselhos práticos pra quem quer [sair de A] e [chegar em B].",
+     "e": "Três conselhos práticos pra quem quer sair do zero e chegar ao topo.",
+     "p": "@geracaodevalor · 682 mil views"
+    },
+    {
+     "t": "[Número] coisas pra você [fazer] e parar de [hábito ruim].",
+     "e": "3 coisas legais pra você consumir na internet e parar de ficar rolando o feed infinitamente.",
+     "p": "@isadorabitten · 542 mil views · 11 mil envios"
+    },
+    {
+     "t": "Vou te ensinar a [resultado rápido]. Faz isso aqui, ó.",
+     "e": "Vou te ensinar a fazer um vídeo rápido com IA. Faz isso aqui, ó.",
+     "p": "@mantovan · 482 mil views · 15 mil envios"
+    },
+    {
+     "t": "Como fazer esse [resultado] que [muita gente cobra pra ensinar], mas que eu vou te ensinar de graça.",
+     "e": "Como fazer esse vídeo super realista com IA que várias pessoas cobram pra ensinar, mas que eu vou te ensinar de graça.",
+     "p": "@eupatriciamapa · 185 mil views · 7,9 mil envios"
+    },
+    {
+     "t": "Se eu tivesse que [objetivo] de novo, do zero, em [prazo], eu faria exatamente isso.",
+     "e": "Se eu tivesse que crescer um perfil de 0 a 100 mil seguidores de novo, em 90 dias, eu faria exatamente isso."
+    },
+    {
+     "t": "O método [nome] que fez [resultado] em [tempo].",
+     "e": "O método que fez uma loja de bairro faturar 1 milhão em 12 meses só com Reels."
+    },
+    {
+     "t": "Aqui tá o passo a passo pra [resultado] sem [obstáculo].",
+     "e": "Aqui tá o passo a passo pra criar um agente de IA no WhatsApp sem saber programar."
+    },
+    {
+     "t": "[Número] prompts que [substituem algo caro].",
+     "e": "5 prompts que substituem uma agência de conteúdo inteira."
+    },
+    {
+     "t": "Se você tem [problema], faz esses [número] testes antes de [desistir/gastar].",
+     "e": "Se seu Reels não passa de 500 views, faz esses 3 testes antes de desistir do Instagram."
+    },
+    {
+     "t": "Três coisas que você pode aprender com [marca/pessoa famosa].",
+     "e": "Três coisas que você pode aprender com o marketing do Coco Bambu."
+    },
+    {
+     "t": "Salva esse vídeo: é o único [checklist/roteiro] que você vai precisar pra [objetivo].",
+     "e": "Salva esse vídeo: é o único roteiro que você vai precisar pra gravar Reels esse ano."
+    },
+    {
+     "t": "O jeito certo de [ação comum] que ninguém te ensinou.",
+     "e": "O jeito certo de responder um cliente que pergunta “quanto custa?” que ninguém te ensinou."
+    },
+    {
+     "t": "Em [tempo] eu te mostro como [resultado].",
+     "e": "Em 40 segundos eu te mostro como escrever um gancho que segura a pessoa no seu vídeo."
+    },
+    {
+     "t": "A regra dos [número] que [resultado].",
+     "e": "A regra dos 3 segundos que separa vídeo de 300 views de vídeo de 300 mil."
+    },
+    {
+     "t": "Eu nunca conheci alguém que não quisesse [desejo universal]. Mas por que tão pouca gente [consegue]? Existem [N] motivos.",
+     "e": "Eu nunca conheci alguém que não quisesse mudar de vida, nunca, mas por que então tão pouca gente muda?",
+     "p": "@marcelotoledo · 1,5 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Profissão comum] é um atleta de [X]. Por isso [fato curioso do mercado].",
+     "e": "E o vendedor, ele é um atleta de um produto ou serviço, por isso que é muito comum em convenções de vendas empresas contratarem atletas para palestrar",
+     "p": "@caiocarneiro · 1,3 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Qual o tipo de [profissional] que eu gosto de contratar? [Sigla], [letra 1] de [palavra polêmica].",
+     "e": "Qual o tipo de vendedor que eu gosto de contratar? Eu gosto de contratar vendedor PATI, P-A-T-I, P de pobre",
+     "p": "@conradoadolpho · 31,7 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "AL",
+   "nome": "Erro / alerta / dor",
+   "gatilho": "Aversão à perda. Ninguém quer ser a pessoa que está errando sem saber.",
+   "quando_usar": "Quando você conhece um erro comum do seu público e a correção.",
+   "referencias": [
+    "Hormozi (comandos e condicionais)",
+    "Kallaway (dor + contraste)",
+    "Nath Finanças"
+   ],
+   "hooks": [
+    {
+     "t": "Se você [tem esse perfil], presta atenção nisso aqui, porque [motivo forte].",
+     "e": "Se você é empresário, presta atenção nisso aqui, porque eu nunca tinha visto um banco oferecer uma coisa dessas.",
+     "p": "@denerlippert"
+    },
+    {
+     "t": "Se você [ação comum], você tá [perdendo algo] sem perceber.",
+     "e": "Se você usa o ChatGPT pra escrever legenda, você tá deixando seu perfil com cara de robô sem perceber."
+    },
+    {
+     "t": "Para de [ação comum] agora.",
+     "e": "Para de começar seus vídeos com “oi, gente”."
+    },
+    {
+     "t": "O erro que [faz algo ruim] e quase todo [público] comete.",
+     "e": "O erro que mata o alcance do seu Reels e quase todo dono de negócio comete."
+    },
+    {
+     "t": "Você tá [fazendo X] errado. E eu posso provar.",
+     "e": "Você tá usando hashtag errado. E eu posso provar."
+    },
+    {
+     "t": "Você foi enganado a vida toda e eu posso provar.",
+     "e": "Você foi enganado a vida toda e eu posso provar.",
+     "p": "@philipsaudioevideo · 711 mil views"
+    },
+    {
+     "t": "[Frase que o público fala]. Parabéns, você acabou de [consequência ruim] por causa dessa frase.",
+     "e": "“Tô tão cansada, vou comprar um mimo pra mim.” Parabéns, você acabou de consumir algo desnecessário por causa dessa frase.",
+     "p": "@nathfinancas"
+    },
+    {
+     "t": "Se você conhece alguém que [perfil], essa pessoa precisa assistir esse vídeo.",
+     "e": "Se você conhece alguém que tem 70 anos ou mais, essa pessoa precisa assistir esse vídeo.",
+     "p": "@nathfinancas · 60 mil views"
+    },
+    {
+     "t": "Nunca [ação] antes de [checagem].",
+     "e": "Nunca contrate uma agência antes de fazer essas 3 perguntas."
+    },
+    {
+     "t": "[Número]% dos [público] erram isso e nem sabem.",
+     "e": "9 em cada 10 donos de restaurante erram isso no Google e nem sabem."
+    },
+    {
+     "t": "Esse [hábito pequeno] tá custando [valor] por mês pra você.",
+     "e": "Esse “vou te mandar o orçamento depois” tá custando milhares de reais por mês pra você."
+    },
+    {
+     "t": "Se o seu [métrica] tá [ruim], o problema não é [culpado comum]. É isso aqui.",
+     "e": "Se o seu vídeo tem menos de 50% de retenção nos 3 primeiros segundos, o problema não é o algoritmo. É isso aqui."
+    },
+    {
+     "t": "Cuidado com [coisa aparentemente inofensiva].",
+     "e": "Cuidado com prompt pronto que você salva do Instagram."
+    },
+    {
+     "t": "A pior coisa que você pode fazer quando [situação] é [reação comum].",
+     "e": "A pior coisa que você pode fazer quando o cliente pede desconto é dar desconto."
+    },
+    {
+     "t": "Em [ano] vai ficar praticamente impossível [ação básica], agora que [mudança tecnológica]. [N] dicas pra você não [cair no golpe].",
+     "e": "Em 2026 vai ficar praticamente impossível saber o que é real ou não, agora que qualquer pessoa pode ser qualquer coisa.",
+     "p": "@paulo.ia · 30,5 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Isso aqui deveria te preocupar: [tipo de perfil falso] dando dica de [tema sensível], e eles têm um inimigo em comum.",
+     "e": "Isso aqui deveria te preocupar: perfil de IA dando dica de saúde, e é claro que eles têm um inimigo em comum.",
+     "p": "@paulo.ia · 2,2 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Ferramenta que todo mundo usa] mudou. Sua empresa já sabe o que fazer diferente?",
+     "e": "O Pix mudou, mas sua empresa já sabe o que fazer diferente? Uma das regras antifraude que entraram em vigor nessa terça-feira podem travar operações que antes passavam sem problema.",
+     "p": "@camilafarani · 846 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Pessoal, meu [canal] está sendo limitado por [motivo polêmico]. Então o que eu vou pedir pra vocês…",
+     "e": "Pessoal, meu Instagram está sendo limitado pela Meta por eu estar postando conteúdo sobre política e economia, comparando os planos do Flávio Bolsonaro e do Lula.",
+     "p": "@nathfinancas · 697 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Perdi [algo valioso] porque eu fui [defeito com gíria popular].",
+     "e": "Perdi um contrato do meu apartamento porque eu fui boca de sacola.",
+     "p": "@nathfinancas · 309 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "SU",
+   "nome": "Confirma a suspeita (o público usa você como argumento)",
+   "gatilho": "As pessoas compartilham quando o vídeo confirma algo que elas já desconfiavam. Elas te usam como argumento na conversa.",
+   "quando_usar": "China, bancos, grandes empresas, algoritmo, governo, “sempre desconfiei”. Use dados, não acusação sem prova.",
+   "referencias": [
+    "Fernando Miranda (“ou inspira ou confirma uma suspeita”)",
+    "Thiago Nigro"
+   ],
+   "hooks": [
+    {
+     "t": "Eu sempre desconfiei disso, e agora tá provado: [fato].",
+     "e": "Eu sempre desconfiei disso, e agora tá provado: o Instagram mostra menos o seu post quando tem link na legenda."
+    },
+    {
+     "t": "[País/empresa] tá dominando [mercado] e quase ninguém percebeu.",
+     "e": "A China tá dominando o carro elétrico no Brasil e quase ninguém percebeu."
+    },
+    {
+     "t": "Não é coincidência que [observação comum]. É estratégia.",
+     "e": "Não é coincidência que o restaurante canta parabéns tão alto. É estratégia."
+    },
+    {
+     "t": "Lembra quando falaram que [teoria] era exagero? Pois é.",
+     "e": "Lembra quando falaram que a IA ia tirar emprego e todo mundo achou exagero? Pois é."
+    },
+    {
+     "t": "O motivo real de [fato irritante] é [motivo escondido].",
+     "e": "O motivo real do seu banco te ligar oferecendo crédito é que ele lucra mais com você endividado."
+    },
+    {
+     "t": "Agora faz sentido por que [observação do público].",
+     "e": "Agora faz sentido por que todo vídeo de Reels parece igual."
+    },
+    {
+     "t": "Eles não querem que você saiba disso, mas [fato verificável].",
+     "e": "As plataformas não fazem questão que você saiba disso, mas vídeo acima de 3 minutos quase não sai da sua bolha no Instagram."
+    },
+    {
+     "t": "Você não tá louco: [percepção comum] é real.",
+     "e": "Você não tá louco: o engajamento no Instagram caiu mesmo, e os dados mostram quanto."
+    },
+    {
+     "t": "Isso explica por que [frustração comum].",
+     "e": "Isso explica por que o seu concorrente pior que você vende mais."
+    },
+    {
+     "t": "Manda esse vídeo pra quem acha que [crença oposta].",
+     "e": "Manda esse vídeo pra quem ainda acha que Instagram é só postar foto bonita."
+    },
+    {
+     "t": "Vou te falar uma bomba que talvez você não queira ouvir: [suspeita do público] tá acontecendo sim.",
+     "e": "Vou te falar uma bomba aí que talvez você não queira ouvir, hein? O alcance orgânico do Instagram tá caindo sim.",
+     "p": "@rafaelkiso · 113 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "HP",
+   "nome": "História pessoal / vulnerabilidade",
+   "gatilho": "Narrativa em primeira pessoa com perda ou erro logo no início. Gera empatia e curiosidade sobre o desfecho.",
+   "quando_usar": "Para criar conexão e marca pessoal. O “eu” só funciona quando a história é o gancho.",
+   "referencias": [
+    "Nath Finanças",
+    "Dener Lippert",
+    "Marcelo Toledo",
+    "Joel Jota"
+   ],
+   "hooks": [
+    {
+     "t": "Perdi [algo importante] porque [erro bobo e identificável]!",
+     "e": "Perdi o contrato do meu apartamento porque fui boca de sacola!",
+     "p": "@nathfinancas · 309 mil views"
+    },
+    {
+     "t": "Meu primeiro negócio quebrou antes dos [idade].",
+     "e": "Meu primeiro negócio quebrou antes dos 19.",
+     "p": "@denerlippert"
+    },
+    {
+     "t": "Na [situação pública] de ontem me perguntaram [pergunta]. Minha resposta decepcionou muita gente.",
+     "e": "Na palestra de ontem me perguntaram como ter um time de alta performance. Minha resposta decepcionou muita gente.",
+     "p": "@marcelotoledo · 152 mil views"
+    },
+    {
+     "t": "Há exatamente [tempo], [pessoa] me fez uma pergunta que eu nunca esqueci.",
+     "e": "Há exatamente dois anos, um menino de 12 anos me fez uma pergunta que eu nunca esqueci.",
+     "p": "Estrutura da legenda de @joeljota · 3 milhões de views"
+    },
+    {
+     "t": "Eu quase desisti de [algo] no dia em que [fato].",
+     "e": "Eu quase desisti da minha agência no dia em que perdi meu maior cliente por WhatsApp."
+    },
+    {
+     "t": "Eu era [situação ruim] até [virada inesperada].",
+     "e": "Eu era o cara que postava todo dia e ninguém via, até mudar só os 3 primeiros segundos dos vídeos."
+    },
+    {
+     "t": "A coisa mais cara que eu já aprendi custou [valor].",
+     "e": "A lição mais cara que eu já aprendi custou 80 mil reais e um sócio."
+    },
+    {
+     "t": "Infelizmente vazou e eu preciso dar um esclarecimento.",
+     "e": "É, galera, infelizmente vazou e eu preciso dar um esclarecimento pra vocês.",
+     "p": "@thiago.nigro · 3,7 milhões de views"
+    },
+    {
+     "t": "Eu prometi que ia falar [algo pessoal]. Mas antes, eu quero te explicar o porquê.",
+     "e": "Eu prometi que ia contar quanto eu faturo com conteúdo. Mas antes, eu quero te explicar o porquê.",
+     "p": "Estrutura de @denerlippert (63 mil views)"
+    },
+    {
+     "t": "Hábitos tóxicos que eu já tive pra [objetivo].",
+     "e": "Hábitos tóxicos que eu já tive pra guardar mais dinheiro.",
+     "p": "@nathfinancas"
+    },
+    {
+     "t": "Quando [perda], eu achei que [crença]. Hoje eu sei que [aprendizado].",
+     "e": "Quando minha mãe morreu, eu achei que tinha perdido ela. Hoje eu sei que eu ganhei ela dentro de mim.",
+     "p": "@caiocarneiro · 171 mil views"
+    },
+    {
+     "t": "Esse vídeo é sobre [tema emocional]. [Fato pessoal].",
+     "e": "Esse vídeo é sobre legado. Eu perdi um amigaço essa semana.",
+     "p": "@joeljota · 948 mil views"
+    },
+    {
+     "t": "A pergunta [de alguém improvável] que fez [plateia] [reação emocional].",
+     "e": "Eu escuto seus podcasts todos os dias antes de ir para a aula e eu queria fazer uma pergunta para vocês: que conselho você daria para eu crescer?",
+     "p": "@joeljota · 16,3 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Tem uma história que eu conto com frequência na [empresa], que é a história do [objeto + situação].",
+     "e": "Tem uma história que eu conto com frequência na empresa, que é a história do carro enguiçado na estrada.",
+     "p": "@guilhermebenchimol · 8,2 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Eu falei pra [pessoa próxima] que quando [marco futuro], eu ia contar pra ela [o segredo de X].",
+     "e": "Eu falei pra minha filha mais velha que quando ela fizesse 13 anos de idade, eu ia contar pra ela o segredo da vida.",
+     "p": "@guilhermebenchimol · 6,5 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Esse é um vídeo sobre [tema grande], onde eu perdi [algo/alguém importante].",
+     "e": "Esse é um vídeo sobre legado, gente, onde eu perdi um amigaço, não só eu, amigo de tanta gente",
+     "p": "@joeljota · 949 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Eu preciso falar sobre [pessoa]. [Conteúdo] foi gravado [N] dias antes [de evento trágico].",
+     "e": "Eu sou João Kepler, apresentador do programa Pivotando aqui no canal SBT News. Eu preciso falar sobre o meu amigo Bruno Avelar, que é o entrevistado deste episódio.",
+     "p": "@joaokepler · 216 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "OR",
+   "nome": "Origem improvável (do zero ao topo)",
+   "gatilho": "Contraste extremo entre começo humilde e resultado gigante. É a história inspiradora que as pessoas encaminham.",
+   "quando_usar": "Empreendedores brasileiros, histórias de superação com números. Pede uma lição moral no fim.",
+   "referencias": [
+    "Fernando Miranda",
+    "Rony Meisler",
+    "Joel Jota"
+   ],
+   "hooks": [
+    {
+     "t": "Esse cara era [emprego humilde], [erro/azar] e exatamente por isso virou [resultado enorme].",
+     "e": "Esse cara era faxineiro numa churrascaria, quebrou um prato, foi demitido e exatamente por isso virou dono do grupo de botecos mais foda do país.",
+     "p": "@rony · 486 mil views · 20 mil envios"
+    },
+    {
+     "t": "Esse [profissão] de [cidade pequena] deu uma surra em [gigante global] e obrigou [gigante] a [fazer algo].",
+     "e": "Esse farmacêutico do Maranhão deu uma surra na Coca-Cola e obrigou a Coca-Cola a escrever um cheque pra ele.",
+     "p": "@fernandomiranda777 · 345 mil views · 16 mil envios"
+    },
+    {
+     "t": "Como [grupo improvável] fundou [algo de nível mundial] aqui no Brasil?",
+     "e": "Como que 27 mulheres fundaram um dos melhores hospitais do mundo aqui no Brasil?",
+     "p": "@fernandomiranda777 · 553 mil views · 32 mil envios"
+    },
+    {
+     "t": "[Pessoa] colocou [valor pequeno] em [algo]. No primeiro dia [ganho], no segundo [ganho], no terceiro perdeu tudo. Hoje [resultado gigante].",
+     "e": "Ele colocou 100 reais no day trade. No primeiro dia virou 200, no segundo 500, no terceiro perdeu tudo. Hoje ele aconselha mais de 5 bilhões de reais.",
+     "p": "@fernandomiranda777 · 63 mil views"
+    },
+    {
+     "t": "Esse cara vendia [muito] até tomar um golpe de [valor]. Mudou tudo e agora vai faturar [valor].",
+     "e": "Esse cara vendia 300 carros por mês até tomar um golpe de 16 milhões de reais. Mudou tudo e agora vai faturar 85 milhões esse ano.",
+     "p": "@fernandomiranda777 · 227 mil views"
+    },
+    {
+     "t": "De [valor] emprestado pra [atividade humilde] a [conquista grande].",
+     "e": "De 10 reais emprestados pra vender água em Copacabana a palcos que pareciam impossíveis.",
+     "p": "@joeljota · 632 mil views · 16 mil envios"
+    },
+    {
+     "t": "Esse brasileiro largou [lugar de prestígio] no auge pra criar [algo]. [Tempo] depois, [gigante] pagou [valor] por isso.",
+     "e": "Esse brasileiro formado na USP largou o Google no auge da carreira pra criar uma IA. Três anos depois, o Google pagou 13,7 bilhões pra ter acesso a ela.",
+     "p": "@izabela.anholett"
+    },
+    {
+     "t": "Essa rede que nasceu em [região] começou como [negócio pequeno] e hoje fatura [valor].",
+     "e": "Essa rede que nasceu no Ceará começou como pastelaria e hoje fatura 2 bilhões por ano.",
+     "p": "Roteiro reescrito ao vivo por Fernando Miranda (caso Coco Bambu)"
+    },
+    {
+     "t": "Com [idade], [pessoa] [fazia algo humilde]. Hoje [resultado].",
+     "e": "Aos 17 anos ele vendia água no farol vestido de palhaço. Hoje fatura 85 milhões por ano.",
+     "p": "Abertura do caso Rafael Oleinik (@fernandomiranda777)"
+    },
+    {
+     "t": "Esse estudante [origem] criou [solução] que resolve um problema que [número] de brasileiros enfrentam todo dia.",
+     "e": "Esse estudante carioca criou uma IA que resolve um problema que 2,6 milhões de brasileiros enfrentam todos os dias.",
+     "p": "@izabela.anholett · 321 mil views"
+    },
+    {
+     "t": "Ela começou [negócio] na cozinha de casa com [valor]. Hoje [resultado].",
+     "e": "Ela começou a vender brigadeiro na cozinha de casa com 50 reais. Hoje tem 40 lojas."
+    },
+    {
+     "t": "Minha mãe me criou sozinha e não podia me dar mesada. Então [o que fiz].",
+     "e": "Minha mãe me criou sozinha e não podia me dar mesada. Então eu comecei a vender doce na escola.",
+     "p": "@clarisseganley · 2,3 milhões de views"
+    },
+    {
+     "t": "Tem essa [coisa comum] em [lugar] que não tem [elemento essencial 1], não tem [2], não tem [3].",
+     "e": "Tem essa fazenda nos Estados Unidos que não tem terra, não tem sol, não tem nenhum agricultor.",
+     "p": "@rony · 1 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Se você [suspeitar de ameaça tecnológica], a internet aconselha que você [solução absurda e inesperada].",
+     "e": "Se você suspeitar que alguém está te filmando com óculos inteligentes sem a sua permissão, a internet aconselha que você comece a cantar uma música da Disney.",
+     "p": "@izabela.anholett · 817 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "O [produto] mais [defeito] do mundo tem os donos mais [defeito] do mundo. E justamente por isso vale [número].",
+     "e": "A sandália mais feia do mundo tem os donos mais cabeças-duras do mundo! E justamente por isso vale 9 bilhões de dólares e virou uma febre global.",
+     "p": "@rony · 405 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Essa [pessoa] saiu de [origem improvável] e enxergou um mercado de [número] que [indústria] ignorou por décadas.",
+     "e": "Essa mulher aqui saiu da maior favela da América Latina, enxergou o mercado de um trilhão que a indústria brasileira ignorou por décadas.",
+     "p": "@conradoadolpho · 53,8 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "NU",
+   "nome": "Número chocante",
+   "gatilho": "Números específicos provam, chocam e criam contraste ao mesmo tempo. Arredonde (R$ 300 bate R$ 287,90).",
+   "quando_usar": "Sempre que existir um dado forte. Coloque o número no texto da tela.",
+   "referencias": [
+    "Kallaway (Objective + Proof)",
+    "Thiago Nigro",
+    "Fernando Miranda"
+   ],
+   "hooks": [
+    {
+     "t": "[Número]% das pessoas [comportamento]. [Implicação].",
+     "e": "70% das pessoas pulam o seu vídeo nos 3 primeiros segundos. Se você não segura elas ali, o vídeo morreu.",
+     "p": "Dado usado por Fernando Miranda"
+    },
+    {
+     "t": "[Valor] por [unidade]. Esse é o preço de [coisa] que [público] paga sem perceber.",
+     "e": "300 reais por um prato. É o que você aceita pagar quando o restaurante te faz achar que é um evento."
+    },
+    {
+     "t": "[Empresa] fatura [valor] por [período] com [algo simples].",
+     "e": "Essa empresa fatura 200 milhões por ano vendendo só uma coisa: caixa de papelão."
+    },
+    {
+     "t": "Com [valor pequeno] por mês você [resultado grande].",
+     "e": "Com 3 mil reais por mês de anúncio, um pequeno negócio já consegue aprender o que vende."
+    },
+    {
+     "t": "Foram [número] [tentativas] até [resultado].",
+     "e": "Foram 100 vídeos flopados até o primeiro passar de 1 milhão de views.",
+     "p": "Relato de Fernando Miranda"
+    },
+    {
+     "t": "[Número] em [tempo curto].",
+     "e": "100 milhões de views em menos de um ano. Sem anúncio."
+    },
+    {
+     "t": "O fruto de [produto], quando [ação], [estraga/acaba] em [tempo]. [Tempo] repetido.",
+     "e": "O açaí, quando você colhe do pé, apodrece totalmente em 48 horas. 48 horas.",
+     "p": "@gzhdigital · 443 mil views · 28 mil envios"
+    },
+    {
+     "t": "Você compraria [quantidade absurda] de uma vez? [Pessoa] comprou.",
+     "e": "Você compraria 78 peças de uma vez numa única loja? Essa lojista de Minas comprou.",
+     "p": "@kaliemodas · 100 mil views"
+    },
+    {
+     "t": "[Número] [unidade] de [coisa]. Repete comigo: [número].",
+     "e": "11 trilhões de reais. Esse é o tamanho da dívida. E pra você ter ideia do tamanho desse número…"
+    },
+    {
+     "t": "Uma IA fez em [tempo] o que [profissional] leva [tempo].",
+     "e": "Uma IA fez em 4 minutos o que meu designer leva uma semana pra fazer."
+    },
+    {
+     "t": "[Pessoa] ganha [valor] por [ano/mês] fazendo [algo que parece simples].",
+     "e": "Tem vendedor no Google que ganha 2 milhões de reais por ano. E não é programador.",
+     "p": "Estrutura de @fernandomiranda777"
+    },
+    {
+     "t": "Paguei [valor] em [coisa] pra você não precisar pagar.",
+     "e": "Paguei 12 mil reais em cursos de tráfego pra você não precisar pagar. Isso aqui é o resumo."
+    },
+    {
+     "t": "Se o cara ganha [valor], ele recebe [valor menor] na mão. Só que ele custa pra empresa [valor maior]. E do que sobra, [fração] é [vilão].",
+     "e": "Se o cara ganha R$ 10 mil, ele vai ter uns R$ 3,5 mil de desconto. Ele recebe R$ 6,5 mil na mão. Só que o seguinte, ele custa para a empresa R$ 19 mil.",
+     "p": "@geracaodevalor · 13,2 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Galera, pela primeira vez na história, [indicador] passou de [marco]. Olha ali: [número exato].",
+     "e": "Galera, pela primeira vez na história, a nossa bolsa passou dos 200 mil pontos. Olha ali em cima, 209 mil pontos.",
+     "p": "@thiago.nigro · 8,9 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Como que é possível [lugar/serviço grátis] faturar [número] por ano se você [não paga nada]?",
+     "e": "Como que é possível o Parque Ibirapuera faturar 160 milhões por ano se você entra de graça?",
+     "p": "@fernandomiranda777 · 799 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "BR",
+   "nome": "Brasil x mundo / regional",
+   "gatilho": "Orgulho, indignação ou identidade regional. O brasileiro é muito regionalista: caso do Nordeste viraliza no Nordeste, caso de Minas em Minas.",
+   "quando_usar": "Cases de empresas regionais (Zaffari, Supermercado BH, Araújo, Lupo, Coco Bambu, Guaraná Jesus) e comparações com outros países.",
+   "referencias": [
+    "Fernando Miranda (“quanto mais regional, mais performa”)",
+    "Dener Lippert",
+    "Marcelo Toledo"
+   ],
+   "hooks": [
+    {
+     "t": "Quando eu cheguei em [país], me perguntei por que o Brasil ainda trata como [preconceito] uma coisa que lá é [normal].",
+     "e": "Quando eu cheguei no Japão, me perguntei por que o Brasil ainda trata como frescura um produto que lá faz parte da rotina há décadas.",
+     "p": "@denerlippert"
+    },
+    {
+     "t": "Eu vou te dizer o dia em que o Brasil vai dar certo. Vai ser o dia em que [cena cotidiana].",
+     "e": "Eu vou te dizer o dia em que o Brasil vai dar certo. Vai ser o dia em que você entrar num banheiro público e ele estiver limpo.",
+     "p": "@marcelotoledo · 1,2 milhão de views · 31 mil envios"
+    },
+    {
+     "t": "Essa empresa nasceu em [cidade/estado] e hoje [domina o Brasil].",
+     "e": "Essa rede nasceu em Belo Horizonte e hoje vende mais que muito gigante de São Paulo."
+    },
+    {
+     "t": "O [estado/região] tem [algo único] que o resto do Brasil não conhece.",
+     "e": "O Rio Grande do Sul tem uma rede de supermercado que é estudada até fora do país."
+    },
+    {
+     "t": "Isso aqui é o Brasil que funciona.",
+     "e": "Isso aqui é o Brasil que funciona.",
+     "p": "@joaoadibemarques (legenda) · 326 mil views"
+    },
+    {
+     "t": "Lá fora [prática] é [normal]. Aqui no Brasil [realidade].",
+     "e": "Nos Estados Unidos, todo restaurante responde avaliação no Google. Aqui no Brasil, quase ninguém responde."
+    },
+    {
+     "t": "O [produto brasileiro] que [país rico] copiou.",
+     "e": "A ideia brasileira que os bancos americanos copiaram: o Pix."
+    },
+    {
+     "t": "Hoje, antes de [começar algo] no Brasil, você precisa de [número absurdo de etapas].",
+     "e": "Hoje, antes de vender o primeiro pastel no Brasil, você precisa de 18 licenças.",
+     "p": "@oficialdanimarques · 737 mil views · 17 mil envios"
+    },
+    {
+     "t": "Nordestino vai entender: [referência regional].",
+     "e": "Nordestino vai entender: essa marca de Fortaleza tá ensinando marketing pro Brasil inteiro."
+    },
+    {
+     "t": "Só no Brasil [situação curiosa].",
+     "e": "Só no Brasil uma loja de bairro vende mais pelo grupo de WhatsApp da família do que pelo site."
+    },
+    {
+     "t": "A [cidade] que [fato surpreendente].",
+     "e": "A cidade de Santa Catarina que fabrica geladeira pro planeta inteiro."
+    },
+    {
+     "t": "O que [empresa estrangeira famosa] aprendeu com [empresa brasileira].",
+     "e": "O que a Amazon aprendeu com o Magalu."
+    },
+    {
+     "t": "Você não sabia, mas é assim que o rei do [setor banal] fatura [número] e vende bem mais do que só [produto óbvio].",
+     "e": "Você não sabia, mas é assim que o rei do ônibus fatura 19 bilhões e venderam bem mais do que só passagem.",
+     "p": "@fernandomiranda777 · 1,4 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Profissão brasileira] está sendo substituída por [tecnologia]. Pouca gente sabe, mas o Brasil acaba de apresentar [o primeiro X].",
+     "e": "A polícia brasileira está sendo substituída por robôs, pouca gente sabe, mas o Brasil acaba de apresentar seu primeiro robô humanoide policial",
+     "p": "@izabela.anholett · 911 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "ID",
+   "nome": "Identificação / chamada do público (“se você…”)",
+   "gatilho": "A pessoa se reconhece no primeiro segundo e sente que o vídeo é pra ela. Filtra o público certo.",
+   "quando_usar": "Sempre que você precisa de relevância. Troque “eu” por “você” quando a história não for o gancho.",
+   "referencias": [
+    "Alex Hormozi (labels e condicionais)",
+    "Kallaway (irrelevância: troque eu por você)"
+   ],
+   "hooks": [
+    {
+     "t": "Se você é [perfil] e [dor específica], esse vídeo é pra você.",
+     "e": "Se você é social media e cobra menos de 2 mil por cliente, esse vídeo é pra você."
+    },
+    {
+     "t": "Atenção, [público]: [aviso].",
+     "e": "Atenção, dono de restaurante: o Google mudou a forma de mostrar o seu negócio no mapa."
+    },
+    {
+     "t": "[Público], dá uma olhada nisso aqui.",
+     "e": "Gestor de tráfego, dá uma olhada nisso aqui.",
+     "p": "@oreidotrafego"
+    },
+    {
+     "t": "Se você já [situação comum e frustrante], você vai entender.",
+     "e": "Se você já passou 3 horas editando um vídeo que teve 200 views, você vai entender."
+    },
+    {
+     "t": "Esse é pra quem [característica do público].",
+     "e": "Esse é pra quem tem negócio e tem vergonha de aparecer no Instagram."
+    },
+    {
+     "t": "Você que [ação/identidade], me responde uma coisa.",
+     "e": "Você que já foi no Coco Bambu, me responde uma coisa: vale o preço?"
+    },
+    {
+     "t": "Toda [pessoa do público] precisa ouvir isso pelo menos uma vez.",
+     "e": "Todo dono de agência precisa ouvir isso pelo menos uma vez."
+    },
+    {
+     "t": "Se você tem [idade/fase] e ainda não [ação], calma.",
+     "e": "Se você tem 30 anos e ainda não sabe usar IA no trabalho, calma. Dá pra aprender em uma semana."
+    },
+    {
+     "t": "Lembrou de quem?",
+     "e": "Lembrou de quem? Marca aqui aquele amigo que só posta quando tá tudo perfeito.",
+     "p": "@larasantana (legenda) · 4 milhões de views"
+    },
+    {
+     "t": "Isso é pra você que [comportamento muito específico].",
+     "e": "Isso é pra você que salva 50 prompts por semana e não usa nenhum."
+    },
+    {
+     "t": "Se você tem um negócio pequeno, você não precisa de [coisa cara]. Você precisa disso.",
+     "e": "Se você tem um negócio pequeno, você não precisa de agência. Você precisa disso aqui."
+    },
+    {
+     "t": "Empresário que [ação] vai se arrepender em [prazo].",
+     "e": "Empresário que ainda não usa IA pra atender cliente vai se arrepender em 2027."
+    },
+    {
+     "t": "E o meu [parceiro] que estava na [palestra] quando [especialista] disse isso: [frase que me dá razão].",
+     "e": "E o meu marido que estava na palestra do Caio Carneiro quando ele disse isso: ouça a sua mulher.",
+     "p": "@caiocarneiro · 3,7 mi views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "PG",
+   "nome": "Pergunta provocativa",
+   "gatilho": "Pergunta que a pessoa responde na cabeça e fica pra conferir. Funciona melhor quando a resposta não é óbvia.",
+   "quando_usar": "Abertura de reflexão, debate, mito. Evite perguntas de sim/não óbvias.",
+   "referencias": [
+    "Hormozi (perguntas de sim/abertas)",
+    "Marcelo Toledo",
+    "Rafael Kiso"
+   ],
+   "hooks": [
+    {
+     "t": "Você aguenta [situação atual] por mais [tempo]?",
+     "e": "Você aguenta a sua vida do jeito que tá por mais 10 anos?",
+     "p": "@marcelotoledo · 791 mil views"
+    },
+    {
+     "t": "[Pergunta alarmante sobre algo do Brasil]?",
+     "e": "A polícia brasileira tá sendo substituída por robôs?",
+     "p": "@izabela.anholett · 854 mil views · 57 mil envios"
+    },
+    {
+     "t": "[Marca] é [acusação absurda]?",
+     "e": "A maionese Hellmann's é satanista?",
+     "p": "@fernandomiranda777 · 52 mil views"
+    },
+    {
+     "t": "Tem como você que [vício] ficar com nojo de [coisa]?",
+     "e": "Tem como você que fuma ficar com nojo do cigarro?",
+     "p": "@pablomarcal1 · 1,6 milhão de views"
+    },
+    {
+     "t": "Por que [concorrente pior] vende mais que você?",
+     "e": "Por que o seu concorrente com conteúdo pior vende mais que você?"
+    },
+    {
+     "t": "Você compraria [algo] de [alguém] que [contradição]?",
+     "e": "Você contrataria uma agência de marketing que não tem nenhum seguidor?"
+    },
+    {
+     "t": "O que acontece com [mercado] se [mudança grande]?",
+     "e": "As bets acabaram. O que acontece com o mercado de infoproduto agora?",
+     "p": "Estrutura de @alexandreabramo"
+    },
+    {
+     "t": "Qual o melhor [formato/opção]: [A], [B] ou [C]?",
+     "e": "Qual formato dá mais alcance hoje no Instagram: Reels, carrossel ou foto?",
+     "p": "@rafaelkiso"
+    },
+    {
+     "t": "Você também sente que [percepção comum]?",
+     "e": "Você também sente que a gente tá se acostumando com migalha de engajamento?",
+     "p": "@rafaelkiso"
+    },
+    {
+     "t": "Quanto você acha que [algo] custa? [Pausa]. Erra quem disse [valor óbvio].",
+     "e": "Quanto você acha que custa um vídeo de 15 segundos feito com IA? Errou quem disse zero."
+    },
+    {
+     "t": "E se [cenário hipotético com algo famoso]?",
+     "e": "E se o Messi e o Yamal tivessem tirado uma foto juntos todo mês desde 2007?",
+     "p": "@paulo.ia · 36 milhões de views · 148 mil envios"
+    },
+    {
+     "t": "Por que todo [lugar/categoria] [comportamento padrão]?",
+     "e": "Por que toda loja de shopping tem o provador no fundo?"
+    }
+   ]
+  },
+  {
+   "id": "AF",
+   "nome": "Aforismo curto (vídeo de 8 a 30 segundos)",
+   "gatilho": "Frase de efeito que a pessoa quer mandar pra alguém. Vídeo curto faz loop e passa de 100% de retenção.",
+   "quando_usar": "Cortes de podcast, motivação, liderança, relacionamento. Funciona com uma frase só, bem dita.",
+   "referencias": [
+    "Caio Carneiro",
+    "Joel Jota",
+    "Jenny Hoyos (abaixo de 30s precisa de mais de 100% de retenção)"
+   ],
+   "hooks": [
+    {
+     "t": "Se a gente trocasse [sentimento ruim] por [sentimento bom], [benefício].",
+     "e": "Se a gente trocasse a inveja pela admiração, o sucesso de alguém seria um convite pra nossa superação.",
+     "p": "@caiocarneiro · 452 mil views (vídeo de 8,6s)"
+    },
+    {
+     "t": "A gente só [reage] ao que [verdade incômoda].",
+     "e": "A gente só se incomoda com a crítica que no fundo concorda.",
+     "p": "@caiocarneiro · 461 mil views"
+    },
+    {
+     "t": "Quando estiver [emoção], [ação contraintuitiva].",
+     "e": "Quando estiver com raiva, fique em silêncio.",
+     "p": "@joeljota · 904 mil views"
+    },
+    {
+     "t": "Cuida bem do que você [fala/pensa] pra você.",
+     "e": "Cuida bem do que você fala pra você. Ninguém te faz mais mal do que você mesmo.",
+     "p": "@joeljota · 750 mil views"
+    },
+    {
+     "t": "Tudo dá trabalho. [Lista curta]. Então escolhe [qual trabalho].",
+     "e": "Tudo dá trabalho. Família dá trabalho. Saúde dá trabalho. Então escolhe o trabalho que vale a pena.",
+     "p": "@caiocarneiro · 259 mil views"
+    },
+    {
+     "t": "[Empresa rica, dono pobre]: [frase famosa]. Eu discordo.",
+     "e": "Empresa rica, dono pobre. Eu acreditei nisso por anos. Até entender que é um péssimo modelo de negócio.",
+     "p": "@joeljota"
+    },
+    {
+     "t": "Antes de [decisão importante], olha [critério simples].",
+     "e": "Antes de amar alguém, olha pra vida da pessoa: tá andando ou tá parada?",
+     "p": "@marcelotoledo · 773 mil views"
+    },
+    {
+     "t": "[Algo que você pediu] já [aconteceu]. Você só não reconheceu porque [veio disfarçado].",
+     "e": "A oração que você fez já foi respondida. Você só não reconheceu porque a resposta chegou em forma de problema.",
+     "p": "@marcelotoledo · 708 mil views · 19 mil envios"
+    },
+    {
+     "t": "Quem pede [coisa boa] tem que suportar [consequência].",
+     "e": "Quem pede a chuva tem que suportar a lama.",
+     "p": "@joeljota (legenda) · 1,2 milhão de views"
+    },
+    {
+     "t": "Treine todo dia pra [objetivo interno].",
+     "e": "Treine todo dia pra confiar em você mais do que em qualquer pessoa no planeta.",
+     "p": "@joeljota · 1,4 milhão de views (21s)"
+    },
+    {
+     "t": "Cliente não compra [o que você vende]. Compra [o que ele sente].",
+     "e": "Cliente não compra post. Compra a sensação de que alguém tá cuidando do negócio dele."
+    },
+    {
+     "t": "Conteúdo não é [crença]. Conteúdo é [verdade].",
+     "e": "Conteúdo não é sobre você aparecer. É sobre o cliente se enxergar."
+    },
+    {
+     "t": "Quem é [qualidade vista como virtude] demais só serve para duas coisas: [consequência ruim 1] e [consequência ruim 2].",
+     "e": "Quem é bonzinho demais, só serve para duas coisas, ser usado e depois descartado.",
+     "p": "@marcelotoledo · 18,4 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Não se distraia: conviva com pessoas que [critério 1], [critério 2] e que estão voltando de onde você quer ir.",
+     "e": "Não se distraia, conviva com pessoas que querem o seu bem, mas além de querer o seu bem, que saibam que falam para você, que têm empatia por você, que fizeram alguma coisa notável",
+     "p": "@joeljota · 4,2 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Uma coisa que eu aprendi: os [tipo A] constroem [X] e os [tipo B] constroem [oposto de X].",
+     "e": "Uma coisa que eu aprendi é que os protagonistas constroem pontes e os vitimistas constroem muros.",
+     "p": "@guilhermebenchimol · 3,9 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Tudo que eu for fazer, eu vou fazer [padrão alto] pra [motivo interno, não externo].",
+     "e": "Tudo que eu for fazer, eu vou fazer bem feito pra eu sentir orgulho de mim.",
+     "p": "@caiocarneiro · 1 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Diante de tudo que eu tenho visto [lugar/momento], quero te falar uma coisa: [aforismo de autor].",
+     "e": "Diante de tudo que eu tenho visto aqui na internet, quero te falar uma coisa: o fanatismo e a inteligência nunca habitam a mesma casa.",
+     "p": "@camilafarani · 115 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Guarda uma coisa: [profissional bom] não aceita [líder] fraco.",
+     "e": "Guarda uma coisa: vendedor bom não aceita líder fraco, líder de vendas fraco",
+     "p": "@conradoadolpho · 24 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "MI",
+   "nome": "Mito / desmistificação",
+   "gatilho": "Corrige uma crença popular com autoridade. A pessoa fica pra saber se ela também acreditava.",
+   "quando_usar": "Nichos com muita desinformação: dinheiro, saúde, algoritmo, marketing, IA.",
+   "referencias": [
+    "Nath Finanças",
+    "nutricionistas brasileiros",
+    "Rafael Kiso"
+   ],
+   "hooks": [
+    {
+     "t": "Coisas que a internet viralizou, mas que pra mim é [crítica].",
+     "e": "Coisas que a internet viralizou, mas que pra mim é consumismo: ter mais de três gloss.",
+     "p": "@nathfinancas · 112 mil views"
+    },
+    {
+     "t": "[Item 1]? Não [efeito]. [Item 2]? Não [efeito]. [Item 3]? Aí [efeito].",
+     "e": "Pão francês com queijo? Não engorda. Frango desfiado? Não engorda. Castanha? Aí pode engordar.",
+     "p": "@probrunosantos · 529 mil views"
+    },
+    {
+     "t": "O que [coisa comum] esconde e ninguém te conta.",
+     "e": "O que a uva esconde e ninguém te conta.",
+     "p": "@nossareceitabr · 176 mil views · 8 mil envios"
+    },
+    {
+     "t": "[Número] verdades sobre [tema] que ninguém te conta.",
+     "e": "Cinco verdades sobre o algoritmo do Instagram que ninguém te conta.",
+     "p": "Estrutura de @dogsferasdobrasil"
+    },
+    {
+     "t": "[Mito popular] é mentira. E eu vou te mostrar com número.",
+     "e": "“Postar no horário certo” é mentira. E eu vou te mostrar com número."
+    },
+    {
+     "t": "[Coisa] não é [o que dizem]. É [o que é].",
+     "e": "Hashtag não é pra alcance. É pra categorizar o seu conteúdo."
+    },
+    {
+     "t": "Por que [grupo] acredita que [mito]? A história começa em [ano].",
+     "e": "Por que todo mundo acha que perfume tem que ser caro? A história começa num anúncio de 1919.",
+     "p": "Estrutura de @nathfinancas"
+    },
+    {
+     "t": "[Coisa que todo mundo faz] não [funciona como pensam].",
+     "e": "Lavar o frango antes de cozinhar não limpa nada.",
+     "p": "Estrutura de @ceciliamaiac"
+    },
+    {
+     "t": "Você não precisa de [coisa cara] pra [resultado].",
+     "e": "Você não precisa de câmera cara pra viralizar. O estúdio inteiro do Fernando Miranda custou uns 7 mil reais.",
+     "p": "Relato de Fernando Miranda"
+    },
+    {
+     "t": "O algoritmo não [crença]. Ele [verdade].",
+     "e": "O algoritmo não liga pra quantos seguidores você tem. Ele liga se o seu vídeo é bom.",
+     "p": "Frase de Fernando Miranda"
+    },
+    {
+     "t": "Vídeo curto sempre dá mais views? Os dados dizem o contrário.",
+     "e": "Vídeo curto sempre dá mais views? Os dados dizem o contrário.",
+     "p": "@rafaelkiso"
+    },
+    {
+     "t": "Parece [X], mas é [Y].",
+     "e": "Parece golpe, mas é só uma estratégia de preço muito bem feita."
+    },
+    {
+     "t": "[Ditado popular] não traz? [plateia completa]. E o que importa é? [plateia completa]. Aí o cara [contradição].",
+     "e": "Dinheiro não traz? Felicidade. E o que importa é ser? Feliz.",
+     "p": "@caiocarneiro · 685 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Você ainda acha que [crença do nicho]? Os dados estão mostrando uma coisa diferente.",
+     "e": "Você ainda acha que o Reels é o melhor formato do Instagram? Sempre o melhor formato?",
+     "p": "@rafaelkiso · 48,5 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "BS",
+   "nome": "Bastidores / exclusivo / segredo de mercado",
+   "gatilho": "Sensação de acesso privilegiado. “Estou vendo algo que não devia.”",
+   "quando_usar": "Mostrar processos, números internos, ferramentas, reuniões, clientes (com autorização).",
+   "referencias": [
+    "Kallaway (Investigator)",
+    "Dener Lippert",
+    "Fernando Miranda (bastidores da Staage)"
+   ],
+   "hooks": [
+    {
+     "t": "Esse é o [processo/ferramenta] que [empresa conhecida] usa e não mostra pra ninguém.",
+     "e": "Esse é o roteiro que agência grande usa pra viralizar cliente e não mostra pra ninguém."
+    },
+    {
+     "t": "Eu vou abrir aqui [informação sensível] do meu negócio.",
+     "e": "Eu vou abrir aqui quanto cada vídeo meu trouxe de cliente esse mês."
+    },
+    {
+     "t": "Eu tô entregando tudo nesse vídeo.",
+     "e": "Eu tô entregando tudo nesse vídeo: o prompt que escreve meus roteiros virais."
+    },
+    {
+     "t": "Grava minha tela. Vou te mostrar como [processo] de verdade.",
+     "e": "Grava minha tela, produção. Vou mostrar como a gente escreve um roteiro viral com IA.",
+     "p": "Fernando Miranda no vídeo com Dener Lippert"
+    },
+    {
+     "t": "Minha IA escreve meus roteiros. E eu vou te mostrar como ela foi treinada.",
+     "e": "Meus roteiros não são escritos por mim. São escritos por uma IA treinada nos meus vídeos mais virais.",
+     "p": "Frase de Fernando Miranda"
+    },
+    {
+     "t": "O que acontece numa reunião de [tipo] que ninguém posta.",
+     "e": "O que acontece numa reunião de planejamento de conteúdo que ninguém posta."
+    },
+    {
+     "t": "Esse é o print que [empresa] não queria que você visse.",
+     "e": "Esse é o print do painel do Instagram que mostra por que meu vídeo flopou."
+    },
+    {
+     "t": "Eu não deveria estar te mostrando isso, mas [revelação].",
+     "e": "Eu não deveria estar te mostrando isso, mas esse é o briefing de um cliente que fatura 10 milhões."
+    },
+    {
+     "t": "Por dentro do [lugar/ferramenta], episódio [número].",
+     "e": "Por dentro do meu ChatGPT, episódio 3: o projeto que escreve roteiro.",
+     "p": "Formato de série de @biancaguedesm"
+    },
+    {
+     "t": "A conversa que eu tive com [pessoa relevante] mudou como eu [faço algo].",
+     "e": "A conversa que eu tive com um diretor de criação mudou como eu escrevo os primeiros 3 segundos."
+    },
+    {
+     "t": "Cheguei aqui pra investigar como [pessoa/empresa] conseguiu [resultado absurdo].",
+     "e": "Hoje eu vim investigar como um perfil fez 100 milhões de views em menos de um ano.",
+     "p": "@denerlippert (vídeo com Fernando Miranda)"
+    },
+    {
+     "t": "Essa [pessoa] criou [feito] e ninguém fala sobre o sistema por trás disso.",
+     "e": "Essa mulher criou uma das primeiras marcas brasileiras de maquiagem a disputar prateleira com marcas de luxo internacionais e ninguém fala sobre o sistema por trás disso.",
+     "p": "@conradoadolpho · 58 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "IA",
+   "nome": "Inteligência artificial (nicho)",
+   "gatilho": "Medo + maravilha. IA funciona com “parece ficção, mas é real” e com utilidade prática imediata.",
+   "quando_usar": "Perfis de IA, produtividade, tecnologia, marketing. Sempre com visual da IA funcionando na tela.",
+   "referencias": [
+    "Izabela Anholett",
+    "Thiago Nigro",
+    "Marcelo Toledo",
+    "Mantovan"
+   ],
+   "hooks": [
+    {
+     "t": "Isso aqui é perturbador. Uma IA acabou de [fato assustador].",
+     "e": "Isso aqui é perturbador. Uma inteligência artificial acabou de criar 16 vírus que não existem em lugar nenhum da natureza.",
+     "p": "@izabela.anholett · 405 mil views · 24 mil envios"
+    },
+    {
+     "t": "Parece Black Mirror, mas [pessoa] realmente criou [invenção].",
+     "e": "Parece Black Mirror, mas esse cara realmente criou um colar de IA que ouve tudo que você fala.",
+     "p": "@izabela.anholett"
+    },
+    {
+     "t": "Se você suspeitar que [ameaça tecnológica], a internet aconselha que você [ação inusitada].",
+     "e": "Se você suspeitar que alguém tá te filmando com óculos inteligentes, a internet aconselha que você comece a cantar uma música da Disney.",
+     "p": "@izabela.anholett · 757 mil views · 43 mil envios"
+    },
+    {
+     "t": "[Empresa] acabou de lançar uma IA que prova que [ditado popular].",
+     "e": "O Google acabou de lançar uma IA que prova que os humilhados serão exaltados.",
+     "p": "@izabela.anholett · 141 mil views"
+    },
+    {
+     "t": "O dono do [empresa] tá preparando um golpe contra [rival], mas quase ninguém percebeu.",
+     "e": "O dono do Instagram tá preparando um golpe contra o ChatGPT, mas quase ninguém percebeu.",
+     "p": "@izabela.anholett"
+    },
+    {
+     "t": "Na [país], as pessoas começaram a [comportamento bizarro com IA]. Parece Black Mirror, mas é real.",
+     "e": "Na China, as pessoas começaram a alugar o próprio rosto pra inteligência artificial. Parece Black Mirror, mas é real.",
+     "p": "@izabela.anholett"
+    },
+    {
+     "t": "Eu acabei de demitir [funções] com essa única funcionalidade do [ferramenta].",
+     "e": "Eu acabei de tirar 4 tarefas do meu time com uma única função do Claude.",
+     "p": "Estrutura de @janailsonpulca (adaptada; use só se for verdade)"
+    },
+    {
+     "t": "Esse cara revelou uma coisa perturbadora que tá acontecendo agora, e todo mundo precisa saber.",
+     "e": "Esse cara ajudou a construir as IAs mais poderosas do mundo e revelou uma coisa perturbadora que tá acontecendo agora.",
+     "p": "@izabela.anholett"
+    },
+    {
+     "t": "A IA que [faz algo humano impressionante] em [tempo].",
+     "e": "Esse garoto de 17 anos criou uma IA que identifica TDAH olhando só pros olhos da pessoa.",
+     "p": "@izabela.anholett"
+    },
+    {
+     "t": "Pela primeira vez eu vi algo em que o ser humano tá ganhando da IA: [área].",
+     "e": "Pela primeira vez eu vi uma coisa em que o ser humano tá ganhando da inteligência artificial: criação de conteúdo.",
+     "p": "@rafaelkiso"
+    },
+    {
+     "t": "Você usa [ferramenta] todo dia, mas não sabe que ela [função escondida].",
+     "e": "Você usa o ChatGPT todo dia, mas não sabe que ele lê a sua planilha inteira e monta o relatório pra você."
+    },
+    {
+     "t": "Esse vídeo não existe. Nada disso é real.",
+     "e": "Não é CGI. Nem é real.",
+     "p": "@forbesbr · 4,3 milhões de views (vídeo de 15s)"
+    },
+    {
+     "t": "Eu pedi pra IA [tarefa humana difícil]. Olha o que ela respondeu.",
+     "e": "Eu pedi pra IA analisar meu Instagram como se fosse um diretor de marketing. Olha o que ela respondeu."
+    },
+    {
+     "t": "[Ferramenta grátis] faz o que [ferramenta paga cara] cobra [valor] pra fazer.",
+     "e": "Essa IA grátis faz o que uma ferramenta de 400 reais por mês faz."
+    },
+    {
+     "t": "A IA não vai roubar seu emprego. Quem vai roubar é [pessoa que usa IA].",
+     "e": "A IA não vai roubar o seu emprego. Quem vai roubar é o estagiário que sabe usar IA."
+    },
+    {
+     "t": "Tier list de [categoria]: [item] — foda, bom, dá pra usar ou perda de tempo?",
+     "e": "Rony, [ferramenta]? Foda. [ferramenta]? Bom, dá pra usar, não precisa de tempo. ChatGPT? Dá pra usar.",
+     "p": "@rony · 280 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "MK",
+   "nome": "Marketing, agência e negócios (nicho)",
+   "gatilho": "Dinheiro, cliente e status profissional. O dono de negócio para quando vê lucro, perda ou ideia aplicável.",
+   "quando_usar": "Perfis de marketing, agência, tráfego, vendas, empreendedorismo.",
+   "referencias": [
+    "Fernando Miranda",
+    "Rafael Kiso",
+    "Dener Lippert",
+    "O Rei do Tráfego"
+   ],
+   "hooks": [
+    {
+     "t": "[Empresa] domina [momento social] e ninguém percebe que é estratégia.",
+     "e": "O Coco Bambu domina um dos momentos mais lucrativos da vida social: o aniversário. E ninguém percebe que é estratégia."
+    },
+    {
+     "t": "[Prática] que faz o cliente [comportamento lucrativo] achando que [percepção].",
+     "e": "O truque do cardápio que faz você gastar mais achando que economizou."
+    },
+    {
+     "t": "O que separa [profissional que cobra pouco] de [quem cobra muito]? Não é [o óbvio].",
+     "e": "O que separa o gestor de tráfego que cobra 1.500 daquele que cobra 15 mil? Não é saber subir campanha."
+    },
+    {
+     "t": "A [plataforma] tá tornando [processo] automático e jogando o papel do [profissional] pelo ralo.",
+     "e": "A Meta tá automatizando a criação de campanha e jogando o papel do gestor de tráfego pelo ralo. Quer continuar relevante? Faz isso.",
+     "p": "Estrutura de @oreidotrafego"
+    },
+    {
+     "t": "Esse [elemento barato] vende mais que [elemento caro].",
+     "e": "Esse vídeo gravado no celular vende mais que o comercial de 50 mil reais da mesma marca."
+    },
+    {
+     "t": "A [marca] nunca fez [ação comum de marketing] e vale [valor].",
+     "e": "A Zara nunca fez comercial na TV e vale bilhões. Mas o motivo não é o que você pensa."
+    },
+    {
+     "t": "Se comida boa fosse suficiente pra fazer o negócio crescer, [este produto] já valia milhões.",
+     "e": "Se comida boa fosse o suficiente pra fazer negócio crescer, esse hambúrguer já tava valendo milhões.",
+     "p": "@mais_receitas_ · 493 mil views"
+    },
+    {
+     "t": "Todo [empreendedor] disputa a mesma coisa: [recurso].",
+     "e": "Todo empreendedor disputa a mesma coisa: atenção.",
+     "p": "@denerlippert (legenda)"
+    },
+    {
+     "t": "O cliente acha que [crença]. A empresa sabe que [verdade].",
+     "e": "O cliente acha que economizou dividindo a conta. O restaurante sabe que ele gastou mais."
+    },
+    {
+     "t": "Você não perdeu [o cliente]. Você foi eliminado antes de [momento].",
+     "e": "Você não perdeu aquele cliente grande. Você foi eliminado antes de mandar a proposta.",
+     "p": "@rafaelkiso (legenda)"
+    },
+    {
+     "t": "A profissão que [paga muito] e quase ninguém quer fazer.",
+     "e": "A profissão número dois pra ganhar bem rápido: vendas enterprise.",
+     "p": "@fernandomiranda777 · 66 mil views"
+    },
+    {
+     "t": "Esse [tipo de negócio] fatura [valor] com [estratégia improvável].",
+     "e": "Esse cara fatura milhões organizando despedida de solteiro de filme.",
+     "p": "@fernandomiranda777 · 63 mil views"
+    },
+    {
+     "t": "Seu concorrente não é [concorrente óbvio]. É [concorrente real].",
+     "e": "O concorrente da sua pizzaria não é a outra pizzaria. É o iFood."
+    },
+    {
+     "t": "A pergunta que eu faço antes de aceitar qualquer cliente.",
+     "e": "A pergunta que eu faço antes de aceitar qualquer cliente na minha agência."
+    },
+    {
+     "t": "O dia que eu perdi [valor] porque [erro de marketing].",
+     "e": "O dia que eu perdi 40 mil reais porque escolhi o gancho errado num anúncio."
+    },
+    {
+     "t": "Essa ideia vale pra qualquer [tipo de negócio].",
+     "e": "Essa ideia do Coco Bambu vale pra qualquer restaurante: transforma o aniversário do cliente em mídia gratuita."
+    },
+    {
+     "t": "Olha essa notícia: [plataforma] agora vai ser [mudança temida]? Não, calma lá. Mas [mudança real] para quem [usa profissionalmente].",
+     "e": "Olha essa notícia: o Instagram agora vai ser pago? Não, calma lá. Mas a Meta mudou a lógica das assinaturas para quem usa Instagram profissionalmente.",
+     "p": "@rafaelkiso · 258 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Plataforma] está derrubando o alcance de [prática comum].",
+     "e": "Primeiro que o Instagram está derrubando o alcance de conteúdo copiado",
+     "p": "@rafaelkiso · 48,5 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "PV",
+   "nome": "Prova visual / “olha isso”",
+   "gatilho": "Palavras que puxam o olho pra tela (“olha isso”, “dá uma olhada”). Camada que se soma a qualquer outra categoria.",
+   "quando_usar": "Quando você tem um visual forte. Nunca sozinha: precisa de contraste logo depois.",
+   "referencias": [
+    "Kallaway (Magician)",
+    "Jenny Hoyos (primeiro frame)"
+   ],
+   "hooks": [
+    {
+     "t": "Olha isso aqui. [Descrição do que está na tela + contraste].",
+     "e": "Olha isso aqui. Esse restaurante não tem cardápio e tem fila de 2 horas."
+    },
+    {
+     "t": "Fala, pessoal, dá uma olhada nesse vídeo aqui. Ele é revelador.",
+     "e": "Dá uma olhada nesse vídeo aqui. Ele mostra exatamente por que seu anúncio não converte."
+    },
+    {
+     "t": "Repara [no detalhe] desse vídeo.",
+     "e": "Repara na mão dela nesse vídeo. Agora entende por que ele tem 10 milhões de views?"
+    },
+    {
+     "t": "Isso não é [o que parece].",
+     "e": "Isso não é uma loja. É um estúdio de conteúdo disfarçado."
+    },
+    {
+     "t": "Escuta o [som] disso.",
+     "e": "Escuta o barulho disso.",
+     "p": "Estrutura de @barbecueking · 988 mil views"
+    },
+    {
+     "t": "Pausa o vídeo e repara em [detalhe].",
+     "e": "Pausa o vídeo e repara quantas vezes a marca aparece nos primeiros 3 segundos."
+    },
+    {
+     "t": "Antes e depois: [o que mudou].",
+     "e": "Antes e depois: o mesmo vídeo, só com o gancho trocado."
+    },
+    {
+     "t": "Isso aqui é sinistro.",
+     "e": "Isso aqui é sinistro. Essa empresa lançou faxina com robô por 30 dólares a hora.",
+     "p": "@izabela.anholett"
+    },
+    {
+     "t": "Esse é o [objeto] mais [superlativo] do Brasil.",
+     "e": "Esse é o escritório mais estranho do Brasil, e ele fatura 50 milhões."
+    },
+    {
+     "t": "Pare. [Situação absurda dita com seriedade].",
+     "e": "Pare. Sim, eu vou acordar feliz às 4 da manhã de domingo pra correr 21 km e ainda pagar por isso.",
+     "p": "@larasantana · 4 milhões de views"
+    },
+    {
+     "t": "Hoje eu vou te ensinar a [resultado de Hollywood] com [ferramenta acessível]. Sim, tudo isso foi feito só com [ferramenta].",
+     "e": "Hoje eu vou te ensinar a criar efeitos especiais com inteligência artificial. Sim, todas essas cenas foram criadas usando apenas IA. Sério, olha isso.",
+     "p": "@paulo.ia · 13,3 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Ontem [bilionário] lançou [produto]. [3 specs absurdas]. Olha isso!",
+     "e": "Ontem o Elon Musk lançou o Tesla Roadster. Fica de cabeça para baixo, de 0 a 100 em menos de um segundo, elétrico, potente, poderoso, voa, gira. Olha isso!",
+     "p": "@joeljota · 3,3 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "(tela) O aplicativo que está acabando com [gigante] (não tem [elemento essencial]).",
+     "e": "Amanhã começa a nossa missão para o Vale do Silício, agora estou indo para Palo Alto para entrar na onda da IA. Chamei um Waymo, que é um carro que não tem motorista",
+     "p": "@jhon_freitas · 1,3 mi views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "DB",
+   "nome": "Debate / divide opiniões",
+   "gatilho": "Gera comentários e envios dos dois lados. Política e polarização dão muito alcance, mas o risco para a marca é alto.",
+   "quando_usar": "Com moderação. Prefira debates do seu nicho (Reels x carrossel, IA x humano, preço x valor) a política partidária.",
+   "referencias": [
+    "Fernando Miranda (CTA de debate no Coco Bambu)",
+    "Os Sócios Podcast",
+    "Pablo Marçal e Marcelo Toledo (polarização política: alcance alto, risco alto)"
+   ],
+   "hooks": [
+    {
+     "t": "Isso vai dividir opiniões, mas [tese].",
+     "e": "Isso vai dividir opiniões, mas eu prefiro um vídeo feio com gancho bom do que um vídeo lindo com gancho ruim."
+    },
+    {
+     "t": "Você concorda com [pessoa]?",
+     "e": "Você concorda com ele? “Quem posta todo dia não tem tempo de pensar.”",
+     "p": "Estrutura da legenda de @ossociospodcast · 676 mil views"
+    },
+    {
+     "t": "Time [A] ou time [B]? Eu vou defender o [B].",
+     "e": "Time Reels ou time carrossel? Eu vou defender o carrossel."
+    },
+    {
+     "t": "[Coisa cara], vale o preço?",
+     "e": "Coco Bambu: vale o preço? Comenta aqui que eu quero ver a briga.",
+     "p": "CTA criado por Fernando Miranda"
+    },
+    {
+     "t": "O problema de [instituição/consenso] é que [opinião forte].",
+     "e": "O problema do marketing digital no Brasil é que todo mundo ensina e quase ninguém vende."
+    },
+    {
+     "t": "Eu sou contra [prática] e falo isso há anos. Mas antes da opinião, você precisa entender como chegamos aqui.",
+     "e": "Eu sou contra curso de 30 dias que promete agência de 50 mil. Mas antes da opinião, você precisa entender como chegamos aqui.",
+     "p": "Estrutura de @marcelotoledo · 2,2 milhões de views"
+    },
+    {
+     "t": "Aposto que você não sabia o [terceiro item].",
+     "e": "Aposto que você não sabia o terceiro.",
+     "p": "@philipsaudioevideo (legenda)"
+    },
+    {
+     "t": "Vou falar uma coisa que vai me fazer perder seguidor.",
+     "e": "Vou falar uma coisa que vai me fazer perder seguidor: não é todo negócio que precisa de Instagram."
+    },
+    {
+     "t": "Se [grupo] aceitar a realidade, nunca mais [comportamento]. Não é minha opinião, são os números. Fica comigo até o fim que eu vou te fazer uma pergunta que ninguém teve coragem.",
+     "e": "Se o eleitor do Lula aceitar a realidade, ele nunca mais vota nele. Não é a minha opinião, são os números.",
+     "p": "@marcelotoledo · 2,1 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Grupo] chamou você de [rótulo] por [N] anos. Agora precisa do seu [apoio].",
+     "e": "A esquerda chamou você de extrema direita há 10 anos. Agora precisa do seu voto.",
+     "p": "@marcelotoledo · 2 mi views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Todo mundo tá discutindo por que [fato polêmico]. Eu não acredito em [explicação conspiratória], eu acredito no seguinte:",
+     "e": "Pessoal, eu tenho lido nos jornais, é uma discussão gigantesca sobre o porquê as pesquisas eleitorais erram tanto. Eu não sou adepto a teorias de conspiração, eu não acredito nisso",
+     "p": "@rony · 433 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Lado A] ou [Lado B]: quem [culpa de algo grande]? Colocamos [IA 1] contra [IA 2] sem filtro.",
+     "e": "Esquerda ou direita, quem quebrou o Brasil? Foi a esquerda estatista, que sempre achou que o estado é a solução pra tudo.",
+     "p": "@primorico · 305 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "HU",
+   "nome": "Humor e cotidiano brasileiro",
+   "gatilho": "Identificação instantânea com situações do dia a dia. O brasileiro envia pra marcar alguém.",
+   "quando_usar": "Para alcance de topo de funil e marca. Ótimo com POV, encenação e referências da cultura pop brasileira.",
+   "referencias": [
+    "Tiago Souza",
+    "Lara Santana",
+    "Marcelo Toledo (Chaves)"
+   ],
+   "hooks": [
+    {
+     "t": "POV: você [situação do público] e [reviravolta].",
+     "e": "POV: você explica pro cliente que conteúdo leva tempo e ele pergunta se dá pra viralizar até sexta."
+    },
+    {
+     "t": "Rapaz, tudo nessa vida acaba, viu? Menos [coisa].",
+     "e": "Rapaz, tudo nessa vida acaba, viu? Menos a alteração que o cliente pede no último minuto.",
+     "p": "Estrutura de @tiagosouzacs · 10,8 milhões de views"
+    },
+    {
+     "t": "[Personagem da TV brasileira] explicando [conceito do nicho].",
+     "e": "O Seu Madruga explicando fluxo de caixa pro Chaves.",
+     "p": "Estrutura de @marcelotoledo · 2 milhões de views · 35 mil envios"
+    },
+    {
+     "t": "Coisas que só [público] entende.",
+     "e": "Coisas que só quem trabalha com social media entende."
+    },
+    {
+     "t": "Meu [familiar] [comportamento engraçado] de novo.",
+     "e": "Meu marido voltou de novo do Japão com duas malas cheias de boneco.",
+     "p": "@midorithais · 979 mil views"
+    },
+    {
+     "t": "Quando o [profissional] precisa de mais treinamento.",
+     "e": "Quando o vendedor precisa de mais treinamento.",
+     "p": "@palestranteandreortiz1 (legenda)"
+    },
+    {
+     "t": "Ninguém: … [Pessoa do nicho]: [comportamento exagerado].",
+     "e": "Ninguém: … O dono de agência: “vamos fazer uma trend?”"
+    },
+    {
+     "t": "No Tinder: “[lista de qualidades]”. Na vida real: [contraste].",
+     "e": "No LinkedIn: “especialista em growth”. Na vida real: posta uma vez por mês.",
+     "p": "Estrutura de @gugafigu · 430 mil views"
+    },
+    {
+     "t": "A mãe brasileira quando [situação].",
+     "e": "A mãe brasileira quando descobre que o filho ganha dinheiro com Instagram."
+    },
+    {
+     "t": "Eu tentando explicar meu trabalho pra [família].",
+     "e": "Eu tentando explicar pra minha família que eu trabalho com inteligência artificial."
+    },
+    {
+     "t": "(tela) Pai educa, vô estraga! (fala) [Avô rígido] fez [presente gigante] pro neto.",
+     "e": "Filho, você agradece bem muito esse teu avô, porque ele fez um fundo de pensão, de investimento de 15 milhões pra você, não foi?",
+     "p": "@joaokepler · 206 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Quando o [marketing/vendas] é feito pela [pessoa improvável próxima do dono]:",
+     "e": "Meu filho é dono dessa empresa aqui, V4, se quiser contratar.",
+     "p": "@denerlippert · 191 mil views · out/2026 (Claude in Chrome)"
+    }
+   ]
+  },
+  {
+   "id": "HZ",
+   "nome": "Formatos clássicos de Hormozi adaptados",
+   "gatilho": "Os 7 a 9 formatos básicos de abertura do Alex Hormozi ($100M Leads): rótulo, pergunta, condicional, comando, afirmação, lista, narrativa, exclamação.",
+   "quando_usar": "Para gerar variações rápidas de um mesmo tema e testar (Trial Reels).",
+   "referencias": [
+    "Alex Hormozi ($100M Leads)"
+   ],
+   "hooks": [
+    {
+     "t": "Rótulo: Atenção, [público específico].",
+     "e": "Atenção, dono de clínica que depende de indicação."
+    },
+    {
+     "t": "Pergunta de sim: Você gostaria de [resultado] sem [esforço]?",
+     "e": "Você gostaria de gravar uma semana de conteúdo em uma tarde?"
+    },
+    {
+     "t": "Pergunta aberta: Qual é [o maior/o pior] [coisa] que [público] faz?",
+     "e": "Qual é o maior erro de quem começa a usar IA no negócio?"
+    },
+    {
+     "t": "Condicional: Se você [condição], então [resultado].",
+     "e": "Se você responde cliente depois de uma hora, você já perdeu metade das vendas."
+    },
+    {
+     "t": "Comando: Para de [ação]. Faz [ação] no lugar.",
+     "e": "Para de pedir “post” pra IA. Pede “gancho” no lugar."
+    },
+    {
+     "t": "Afirmação: [Declaração forte e específica].",
+     "e": "Seu cliente decide se vai te contratar nos 3 primeiros segundos do seu vídeo."
+    },
+    {
+     "t": "Lista: [Número] [coisas] que [resultado].",
+     "e": "4 frases que fazem qualquer pessoa assistir seu vídeo até o fim."
+    },
+    {
+     "t": "Narrativa: [Quando/onde], [personagem] [conflito].",
+     "e": "Em 2019, eu tinha 200 seguidores e uma conta de luz atrasada."
+    },
+    {
+     "t": "Exclamação: [Reação forte]! [Motivo].",
+     "e": "Isso é insano! A Meta liberou de graça o que a Adobe cobra caro."
+    }
+   ]
+  }
+ ]
+}
