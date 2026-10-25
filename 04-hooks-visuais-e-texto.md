@@ -1,6 +1,10 @@
 # 04 · Hook visual e texto na tela
 
-Kallaway: texto na tela e visual importam **mais** que a fala, porque a pessoa lê e vê antes de ouvir, e mais da metade assiste sem som. Jenny Hoyos: “O hook precisa ser entendido sem ouvir.”
+A pessoa lê e vê antes de ouvir, e mais da metade assiste sem som. Jenny Hoyos: “O hook precisa ser entendido sem ouvir.”
+
+**Peso de cada camada.** Em 2026 o Kallaway ordenou assim: o **texto na tela** é o que mais pesa, porque o olho caça palavra e reconhece nome e termo forte mais rápido do que entende a imagem. Depois vem a **fala**. O **visual** é o que menos pesa para quem fala para a câmera: dá pra ganhar só com texto e fala bem feitos. Tem ainda um quarto hook, a **primeira linha da legenda** (o que aparece antes do “mais”), que influencia de leve se a pessoa fica.
+
+> **Se o perfil não mostra o rosto**, essa ordem muda: sem rosto, o primeiro quadro é a prova (o print, o produto, a tela, o número). Aí texto e visual pesam juntos, e a fala vem depois. É o que a coleta de outubro mostrou no `12-outliers-outubro-2026.md`.
 
 ## Regras do primeiro frame
 
@@ -11,20 +15,89 @@ Kallaway: texto na tela e visual importam **mais** que a fala, porque a pessoa l
 5. **Movimento na medida.** Parado demais entedia, movimento demais confunde. Um zoom leve, uma mão entrando, um objeto girando.
 6. **Teste do mudo:** assista sem som. Dá pra entender o tema em 1 segundo? Se não, refaça.
 
+## Como escrever o texto na tela
+
+Fonte: Kallaway, “The Psychology of Killer Hooks” (ago/2026). Para ele, redigir o texto da tela é a alavanca que mais melhora um vídeo.
+
+### O que entra: o nome do assunto + uma de três coisas
+
+| Peça | O que é | Exemplo |
+|---|---|---|
+| **Nome do assunto** (sempre) | O nome próprio, a marca ou o termo que a pessoa reconhece. Nome é ímã de olho, ainda mais em caixa alta | `CHATGPT`, `PIX`, `NUBANK`, `COPO STANLEY` |
+| + **Lembrete da dor** | A dor que o vídeo resolve | `PIX` + “golpe que ninguém percebe” |
+| + **Amostra do resultado** | O resultado que a pessoa quer | `CHATGPT` + “vende por você” |
+| + **Mudança no futuro** | Algo aconteceu e vai mudar como as coisas funcionam | `CLAUDE` + “mudou o Instagram” |
+
+Escolha o nome do assunto e só **uma** das outras três. A curiosidade nasce da distância entre o que a pessoa tem hoje e o resultado que ela quer amanhã. É o contraste A → B do `01-fundamentos.md` dito em poucas palavras.
+
+### As regras
+
+1. **Específico ganha de vago.** “22 dias” e não “umas semanas”. “R$ 2.700” e não “uns mil reais”.
+2. **Use uma palavra de impacto** para encurtar a frase sem perder força (veja a seção abaixo).
+3. **No máximo duas linhas.** Quebre onde a frase se lê junto: `CHATGPT ACABOU DE MUDAR` / `O FUTURO DO TRABALHO`, e nunca `CHATGPT ACABOU DE MUDAR O` / `FUTURO DO TRABALHO`. Três linhas só com tipografia caprichada e uma linha bem maior que as outras.
+4. **Sem pontuação**, só aspas ou parênteses. Sem ponto, vírgula, exclamação ou interrogação.
+5. **Sem conectivo:** nada de “e”, “mas”, “porque”, “então”, “que” ligando frases. Não é frase, é placa.
+6. **Fica pelo menos 3 segundos na tela.** A pessoa olha o centro, sobe pro texto, desce pra imagem, sobe de novo e decide. Se o texto some antes, perde o efeito.
+7. **Lugar:** no terço de cima, ou mais perto do meio, onde o olho chega primeiro, sem cobrir rosto, boca nem a prova.
+8. **Dois estilos que funcionam:**
+   - **Fonte do sistema** (a do Reels ou do CapCut): o texto vem separado da legenda, que fica menor embaixo. Fonte simples repetindo a fala palavra por palavra fica sem graça.
+   - **Tipografia caprichada:** pode ser a própria fala palavra por palavra, desde que bem desenhada.
+9. **Escolha o estilo olhando o mercado:** abra os 3 vídeos de maior alcance dos 15 a 20 maiores perfis do seu nicho, um atrás do outro, só para ver como cada um desenha o texto. Não copie: remixe.
+
+> **Se o perfil não mostra o rosto:** o texto vai em cima da prova, sem tapar o número ou o print que sustenta a frase. Mantenha o mesmo estilo de texto em todo vídeo: sem rosto, a tipografia vira a cara do perfil.
+
+## Palavras de impacto: como achar e remixar
+
+Palavra de impacto é um grupo de uma a três palavras que puxa o olho porque é inesperado e aumenta a dor ou o resultado. “Máquina de vender” diz em três palavras o que “ferramenta que ajuda muito nas vendas” diz em sete.
+
+**Nível 1, remixar o formato.** Pegue um hook que funcionou, tire o assunto e preencha com o seu: “Como planejar 30 dias de conteúdo em 30 minutos” vira “Como [tarefa grande] em [tempo curto]”. Todo mundo já faz isso (é o que o `data/hooks.json` guarda no campo `t`).
+
+**Nível 2, remixar a palavra de impacto.**
+1. Ordene os hooks do seu nicho por alcance (o `data/reels-minerados.csv`, o radar diário no `13-radar-diario.md` ou os seus Insights).
+2. Leia de cima pra baixo marcando os grupos de palavras com força. Se o mesmo grupo aparece em dois ou mais campeões, está validado.
+3. **Não copie o grupo.** Troque uma palavra mantendo a mesma ideia:
+
+| Achado | Remixes |
+|---|---|
+| “impossível de pular” | “impossível de ignorar”, “difícil de esquecer” |
+| “máquina de vender” | “máquina de conteúdo”, “máquina de leads”, “máquina de agendar” |
+| “dinheiro parado” | “cliente parado”, “estoque parado”, “seguidor parado” |
+| “golpe que ninguém percebe” | “erro que ninguém percebe”, “taxa que ninguém percebe” |
+
+4. Junte o formato remixado com a palavra de impacto remixada. O hook fica novo, mas com prova de que a estrutura funciona.
+
+**Limite com o anti-slop (`09`):** palavra de impacto boa é imagem concreta e falada (“máquina”, “parado”, “golpe”), não adjetivo inflado. “Revolucionário”, “insano” e “absurdo” sem número são o contrário disso e reprovam. Se a palavra promete mais do que o vídeo entrega, corte.
+
 ## Fórmulas de texto na tela (3 a 7 palavras)
+
+Todas seguem as regras acima: sem pontuação, no máximo duas linhas, com o nome do assunto quando houver.
 
 | Fórmula | Exemplo |
 |---|---|
-| [Marca] + contradição | “Yakult: impossível de copiar” |
+| [Marca] + contradição | “Yakult impossível de copiar” |
 | [Famoso] agora é [status] | “Ronaldo agora é bilionário” |
 | Número + objeto | “R$ 300 num prato” |
-| Pergunta curta | “Vale o preço?” |
+| Pergunta curta (sem o ponto de interrogação) | “Vale o preço” |
 | “Ninguém percebeu” + objeto | “O golpe da Meta no ChatGPT” |
 | Antes → depois | “200 views → 2 milhões” |
 | Alerta | “Pare de fazer isso” |
-| Contagem regressiva | “O fim do gestor de tráfego?” |
-| Rótulo do público | “Dono de restaurante, olha isso” |
+| Contagem regressiva | “O fim do gestor de tráfego” |
+| Rótulo do público | “Dono de restaurante olha isso” |
 | Segredo | “O que o cardápio esconde” |
+
+## As 5 categorias de hook visual
+
+Toda ideia visual cai numa destas cinco (Kallaway, 2026). Princípio: um pouco de **movimento**, **cor** e **contraste**, sempre alinhado com o texto e a fala.
+
+| Categoria | O que é | Ideias da lista abaixo | Se o perfil não mostra o rosto |
+|---|---|---|---|
+| **1. Gráfico ou texto sobre a imagem** | Elemento por cima de uma imagem que você já tem | 7, 33, 40, 44, 48 | O caminho principal: número, grifo ou seta em cima do print ou do produto |
+| **2. Interrupção ou troca de visual** | Sai de uma imagem para outra de repente, efeito de choque | 15, 39, 41, 42 | Corte seco da prova para o resultado (antes → depois, pergunta → resposta) |
+| **3. Movimento do assunto** | O assunto entra, sai ou se mexe no quadro | 13, 14, 18 | O assunto é o objeto: produto entrando no quadro, cursor clicando, celular sendo virado |
+| **4. Efeito ou transição** | Um efeito por cima que faz algo acontecer na imagem | 38, 45, 49 | Zoom na palavra-chave do print, câmera lenta no momento da prova |
+| **5. Escolha do visual** | A imagem escolhida já faz parar (o ovo de coroa, a nota de R$ 200) | 1 a 6, 21 a 27, 30 a 32 | Escolher o print ou a cena que a pessoa reconhece em 1 segundo (`10-familiaridade.md`) |
+
+**Pra começar (o 80/20 dele):** escolha um de três: mexer o corpo no quadro, mexer a imagem no quadro ou mexer o texto em cima da imagem. Sem rosto, fica: **mexer a prova no quadro** (entra, gira, dá zoom), **mexer o texto em cima da prova** ou **trocar de imagem no primeiro segundo**. Hook visual exagerado parece truque: um movimento pequeno e bem alinhado basta.
 
 ## 50 ideias de hook visual
 
@@ -100,7 +173,7 @@ Kallaway: texto na tela e visual importam **mais** que a fala, porque a pessoa l
 | Camada | Pergunta |
 |---|---|
 | Visual | O que aparece no frame 1 mostra o tema sem precisar de som? |
-| Texto | Em até 7 palavras, ele cria contradição ou promessa? |
+| Texto | Em até 7 palavras e 2 linhas, tem o nome do assunto + dor, resultado ou mudança? Fica 3 s na tela? |
 | Fala | A primeira frase tem o tema e o contraste em até cerca de 14 palavras? |
 | Áudio | A música ou efeito reforça a tensão, sem competir com a voz? |
 | Alinhamento | As 4 camadas falam da **mesma coisa**? |

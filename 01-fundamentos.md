@@ -45,6 +45,8 @@ Duração × alcance na amostra (mediana):
 
 ## 3. Os 4 componentes do hook (Kallaway)
 
+> Em 2026 ele acrescentou um quinto, mais fraco: a **primeira linha da legenda**, que aparece antes do “mais”. E ordenou o peso: texto na tela > fala > visual, para quem aparece. Sem rosto, o visual sobe porque vira a prova. As regras de cada camada estão no `04`.
+
 Todo hook tem quatro camadas, que precisam apontar para a **mesma coisa**:
 
 1. **Texto na tela.** É lido antes de tudo. Mais da metade das pessoas assiste sem som.
@@ -62,6 +64,7 @@ O hook abre um **loop de curiosidade** criando distância entre o que a pessoa a
 
 - **Contraste explícito:** diz A e B. “Todo mundo acha que o Coco Bambu vende comida. Ele vende evento.” Use quando o público é amplo.
 - **Contraste implícito:** diz só B e confia que o público conhece A. “O Dove é um detergente.” Use em nicho fechado.
+- **Contraste pelo resultado** (formato tutorial): quando o resultado é forte e específico, a distância é entre o esforço que a pessoa acha que precisa e o que você mostra. “Como planejar 30 dias de conteúdo em 30 minutos”: A = um mês de trabalho, B = meia hora. O Kallaway chama isso de *o que está em jogo*; aqui conta como contraste.
 
 Fernando Miranda chama isso de **dissonância cognitiva** ou **verdade escondida**: “Se não tem uma verdade escondida, o cara não para, porque é só notícia. Aí ele lê na Exame.”
 

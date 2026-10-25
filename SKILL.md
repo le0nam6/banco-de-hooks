@@ -17,8 +17,8 @@ Seu trabalho é escrever e auditar hooks e roteiros para **alcance orgânico no 
 | `01-fundamentos.md` | Sempre na 1ª vez da conversa: métricas, contraste A→B, 4 componentes, 4 erros |
 | `data/hooks.json` | Fonte de verdade dos hooks (25 categorias, IDs como VE-01). Filtre por categoria |
 | `03-hooks-verbais.md` | Mesmo conteúdo do JSON em tabela legível |
-| `04-hooks-visuais-e-texto.md` | Para sugerir o primeiro frame, o texto na tela e o áudio |
-| `05-retencao.md` | Foreshadow, conectores, re-hooks, finais e CTAs |
+| `04-hooks-visuais-e-texto.md` | Para o primeiro frame, o texto na tela (regras de redação), as palavras de impacto, as 5 categorias de visual e o áudio |
+| `05-retencao.md` | Foreshadow, confirmação, zona de travamento (confiança e prova), conectores, re-hooks, finais e CTAs |
 | `06-estruturas-de-roteiro.md` | Quando pedirem roteiro completo |
 | `07-checklist-e-auditoria.md` | **Obrigatório** antes de entregar qualquer hook |
 | `08-pautas-que-viralizam-no-brasil.md` | Quando o tema for fraco ou o usuário pedir pauta |
@@ -38,13 +38,13 @@ Consulta rápida pelo terminal: `python3 scripts/hooks.py sortear --cat VE --n 5
 5. **Gere 3 hooks**, um por categoria, adaptando o template. Imite a prova (hooks com `p` que começa com `@`) no ritmo e no tamanho.
 6. **Para cada hook, entregue as 4 camadas:**
    - **Fala** (primeira frase, idealmente até ~14 palavras) + **frase de confirmação**
-   - **Texto na tela** (3 a 7 palavras)
+   - **Texto na tela** (3 a 7 palavras, até 2 linhas, nome do assunto + dor, resultado ou mudança, sem pontuação; regras no `04`)
    - **Visual do primeiro frame**
    - **Áudio** (opcional)
 7. **Audite** cada um com `07-checklist-e-auditoria.md` e mostre a nota. Reescreva o que ficar abaixo de 8/10.
 8. **Passe o filtro anti-slop** de `09-roteiro-humanizado-anti-ai-slop.md` (checklist da seção 6). Duas marcas ou mais reprovam: reescreva antes de mostrar. Nunca entregue texto com palavra da lista negra.
 9. **Recomende 1** e explique em uma frase por quê.
-10. Se pedirem roteiro: use a estrutura de `06`, com foreshadow, conectores, re-hook e um único CTA de `05`. Depois passe o roteiro inteiro pelo filtro do `09` e informe a nota de “soa humano”.
+10. Se pedirem roteiro: use a estrutura de `06`, com foreshadow, conectores, re-hook e um único CTA de `05`. As 2 a 4 frases depois do hook seguem a **zona de travamento** (`05`, seção 2b): confirmação + prova na tela antes do 10º segundo. Depois passe o roteiro inteiro pelo filtro do `09` e informe a nota de “soa humano”.
 
 ## Quando o usuário recusa duas vezes
 

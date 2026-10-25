@@ -17,6 +17,30 @@ Logo depois do hook, em 1 ou 2 linhas, prometa o que vem no final (Jenny Hoyos).
 
 A **primeira frase depois do hook confirma o hook** (Fernando Miranda). Se o hook foi “A Mercedes agora é chinesa”, a próxima frase é “Um empresário chinês acabou de comprar 10% da Mercedes.” Se você mudar de assunto, a pessoa se sente enganada e sai.
 
+## 2b. Zona de travamento: as 2 a 4 frases depois do hook
+
+O hook só faz a pessoa parar e dar uma chance. Quem decide se ela fica são as **duas a quatro frases seguintes** (uns 5 a 10 segundos). O Kallaway chama esse trecho de *lock-in zone* e diz que ele pesa mais que o próprio hook. Nele acontecem sempre duas coisas:
+
+1. **Confirmar o hook** (a seção 2 acima): provar que não é isca e troca de assunto.
+2. **Avaliação rápida de confiança:** com tanto guru falso, uma promessa forte não basta. A pessoa testa se **quem fala** vai entregar o prometido sem desperdiçar o tempo dela.
+
+### As 4 alavancas de confiança
+
+| Alavanca | Para quem aparece | Se o perfil não mostra o rosto |
+|---|---|---|
+| **Aparência** | Quem é bonito e combina com o assunto segura mais. Não é justo, mas acontece | Não existe. O lugar dela é da **identidade fixa**: a mesma tipografia, as mesmas cores e a mesma voz em todo vídeo. O público reconhece o perfil antes de ler |
+| **Acabamento** | Imagem, luz, som, enquadramento e cenário cuidados. Não é cenário caro: é capricho, e capricho passa confiança | Pesa mais ainda: animação limpa, áudio sem ruído, print nítido, nada torto. Sem rosto, o acabamento é o que mostra que alguém se importou |
+| **Identificação** | Quem assiste confia mais em quem parece com ele (idade, jeito, linguagem). Contador de óculos e camisa social passa mais confiança falando de contabilidade | A identificação vem da **voz e das referências**: falar como o público fala (o `09`), mostrar telas e marcas que ele usa (o `10`) |
+| **Prova** (a mais forte) | Estudo, caso real, fonte de fora, print do resultado logo nas primeiras frases | **É o centro do vídeo.** O print, o número com fonte, a tela do resultado ou a demonstração entram nos primeiros 5 a 10 segundos, não no fim |
+
+### Molde da zona de travamento
+
+`hook` → `confirmação` (a frase que prova o hook) → `prova na tela` (print, número, demonstração) → `foreshadow` (o que vem no fim).
+
+Exemplo sem rosto: “O ChatGPT agora faz a planilha do seu negócio sozinho.” → “Sim, sem fórmula nenhuma.” → (tela: a planilha montando sozinha) → “E no fim eu te mostro o comando exato que eu usei.”
+
+Se o hook é bom e a pessoa sai entre o 5º e o 15º segundo, o problema quase sempre está aqui: faltou confirmação ou faltou prova.
+
 ## 3. Conectores (anti-“pulo”)
 
 Fernando: “Toda vez que tem um pulo, quebra o vídeo.” Pulo é trocar de assunto sem ponte. Use um conector para virar a página sem perder ritmo:

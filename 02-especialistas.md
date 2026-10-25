@@ -15,7 +15,13 @@ Números de views e envios: coleta de outubro de 2026, via índice público de p
 1 bilhão+ de views, 1 milhão+ de seguidores. É a referência mais completa sobre a mecânica do hook.
 
 - **6 arquétipos:** Vidente (futuro), Experimentador, Professor, Mágico (camada visual), Investigador, Contrário. Qualquer ideia cabe em qualquer arquétipo. Escolha pelo **visual** que você tem.
-- **4 componentes alinhados:** texto, visual, fala, áudio. Texto e visual importam mais que a fala.
+- **4 componentes alinhados:** texto, visual, fala, áudio. Em 2026 ele ordenou o peso: texto na tela > fala > visual (para quem fala para a câmera). Sem rosto, o visual sobe, porque vira a prova (ver o `04`).
+- **Teoria da interrupção (2026):** o feed é uma estrada com o polegar no automático. O hook precisa provocar uma *resposta de orientação* (o “pera, o que foi isso?”) e congelar o polegar. Para isso, a pessoa precisa responder duas perguntas na hora: **do que é o vídeo** e **o que eu ganho se ficar**. Os 4 ingredientes: **assunto** claro, **o que está em jogo** (o motivo pra se importar), **rapidez** (assunto e motivo no menor número de palavras, sem falar correndo: 8 palavras cabem na cabeça, 28 não) e **clareza total** (uma interpretação só, sem trocadilho).
+- **Texto na tela:** nome do assunto + dor, resultado ou mudança no futuro; no máximo 2 linhas; sem pontuação nem conectivo; 3 s na tela (regras completas no `04`).
+- **Palavras de impacto:** acha os grupos de palavras que se repetem nos campeões e remixa trocando uma palavra (“impossível de pular” → “impossível de ignorar”). Remixar formato é o nível 1; remixar palavra de impacto é o nível 2 (ver o `04`).
+- **5 categorias de hook visual:** gráfico ou texto sobre a imagem, interrupção ou troca de visual, movimento do assunto, efeito ou transição, escolha do visual (ver o `04`).
+- **Zona de travamento:** as 2 a 4 frases depois do hook pesam mais que o hook. Nelas a pessoa confirma o hook e avalia se confia em quem fala: aparência, acabamento, identificação e, acima de tudo, prova (ver o `05`, seção 2b).
+- Fonte de 2026: [“The Psychology of Killer Hooks”](https://www.youtube.com/watch?v=pNIYikmYsyw), ago/2026. Ele cita a ferramenta dele (Sandcastles) como atalho para minerar; o método funciona sem ela, com o `data/` deste banco e o radar diário (`13`).
 - **Fórmula de 3 tempos:** *Contexto* (tema + motivo pra ficar) → *Interjeição* (“mas”, “só que”) → *Virada contrária* (vai na direção oposta).
 - **Gramática de 6 peças:** sujeito, ação, resultado, contraste, prova, tempo.
 - **4 erros:** demora, confusão, irrelevância, desinteresse.

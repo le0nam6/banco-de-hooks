@@ -40,6 +40,19 @@ Mostre a primeira frase pra alguém de fora do seu nicho. Ela reconhece alguma c
 
 Assista ao primeiro segundo sem som. O texto e o visual explicam o tema? Se não, troque o texto da tela.
 
+## Teste do texto na tela
+
+- Tem o **nome do assunto** e **uma** de três coisas: dor, resultado ou mudança no futuro?
+- Cabe em **duas linhas**, quebradas onde a frase se lê junto?
+- Está **sem pontuação** (só aspas ou parênteses) e **sem conectivo** (“e”, “mas”, “porque”)?
+- Fica **3 segundos ou mais** na tela, sem cobrir o rosto nem a prova?
+
+Se falhar em qualquer um, reescreva antes de gravar (regras no `04`).
+
+## Teste da zona de travamento
+
+Leia as 2 a 4 frases depois do hook. Elas **confirmam** o hook e mostram uma **prova** (print, número com fonte, demonstração) antes do 10º segundo? Sem rosto, essa prova é o que segura a pessoa. Se não tiver, a retenção cai entre o 5º e o 15º segundo, mesmo com hook bom (`05`, seção 2b).
+
 ## Teste do envio
 
 Complete a frase: “Vou mandar isso pro meu amigo porque ___.” Se você não conseguir completar, o vídeo não vai ser enviado.
@@ -54,6 +67,8 @@ Complete a frase: “Vou mandar isso pro meu amigo porque ___.” Se você não 
 - Polêmica política sem ser o posicionamento do perfil.
 - Afirmação factual sem fonte (valores, datas, “é oficial”). **Todo fato precisa ser verificável.**
 - Sem familiaridade: em 2 segundos, alguém de fora do seu nicho não reconhece nada (marca, app, cena, famoso, lugar ou situação que já viveu), ou a frase depende de palavra do nicho pra fazer sentido. Veja o [`10-familiaridade.md`](10-familiaridade.md).
+- Texto na tela com três linhas do mesmo tamanho, com pontuação, ou que some antes de 3 segundos.
+- Palavra de impacto que promete mais do que o vídeo entrega (“o segredo que vai mudar sua vida” num vídeo de dica comum).
 - Cara de IA: duas marcas ou mais no checklist anti-slop do [`09-roteiro-humanizado-anti-ai-slop.md`](09-roteiro-humanizado-anti-ai-slop.md), ou qualquer palavra da lista negra dele.
 
 ## Depois de postar: diagnóstico pelos Insights
@@ -61,7 +76,7 @@ Complete a frase: “Vou mandar isso pro meu amigo porque ___.” Se você não 
 | Sintoma | Diagnóstico | Ação |
 |---|---|---|
 | Skip rate > 50% / retenção aos 3 s < 50% | Hook fraco ou desalinhado | Troque o hook e reposte como Trial Reel |
-| Retenção boa nos 3 s e queda forte aos 10–15 s | Falta foreshadow ou houve um “pulo” | Adicione antecipação e conectores |
+| Retenção boa nos 3 s e queda forte aos 5–15 s | Zona de travamento fraca (sem confirmação ou sem prova), falta foreshadow ou houve um “pulo” | Confirme o hook, ponha a prova na tela antes de 10 s, adicione antecipação e conectores |
 | Assistem até o fim e não enviam | Falta inspiração, confirmação de suspeita ou CTA de envio | Reforce a lição moral e peça o envio |
 | Bom alcance e poucos seguidores | Falta formato de programa | Fechamento fixo com nome + promessa |
 | Muito envio e pouco alcance | Duração acima de 3 min ou tema fora do nicho | Corte para menos de 3 min |
