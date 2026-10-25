@@ -1,6 +1,6 @@
 # 13 · Radar diário (coleta automática de Reels)
 
-Todo dia às 4h a VPS rola o feed de Reels do Instagram por 1 hora, coleta os dados públicos (curtidas, comentários, reposts, áudio, legenda, transcrição da fala) e grava em `~/Developer/radar-reels/dados/<data>/`. Este arquivo resume os padrões da semana e aponta para os relatórios completos no Second Brain.
+Todo dia às 4h a VPS rola o feed de Reels do Instagram por 1 hora, coleta os dados públicos (curtidas, comentários, reposts, áudio, legenda, transcrição da fala) e analisa tudo no dia seguinte. Este arquivo resume os padrões da semana e aponta para os relatórios completos no Second Brain.
 
 ## Padrões da semana (20–25 de outubro de 2026)
 
