@@ -1,6 +1,6 @@
 {
  "versao": "1.1.0",
- "atualizado_em": "2026-10-19",
+ "atualizado_em": "2026-10-25",
  "idioma": "pt-BR",
  "legenda": {
   "t": "template: troque o que está entre [colchetes]",
@@ -678,6 +678,11 @@
      "t": "Estão fazendo [N] testes com [ferramenta] e as respostas estão deixando todo mundo em choque.",
      "e": "Estão fazendo dois testes com o ChatGPT e as respostas estão deixando todo mundo em choque",
      "p": "@izabela.anholett · 713 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Você acabou de virar [papel/cargo que todo mundo conhece], mas [o que parece vantagem] é o que menos importa. [O real] vem de [lugar inesperado].",
+     "e": "Você acabou de virar um presidente corrupto do Brasil, mas o seu salário é o que menos importa. O dinheiro de verdade vem dos esquemas por fora.",
+     "p": "@narrador3d · 3,3 mil curtidas (radar 2026-10-25)"
     }
    ]
   },
@@ -864,6 +869,11 @@
      "t": "Perdi [algo valioso] porque eu fui [defeito com gíria popular].",
      "e": "Perdi um contrato do meu apartamento porque eu fui boca de sacola.",
      "p": "@nathfinancas · 309 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Se você [situação cotidiana] e [sintoma], é [diagnóstico]. Se [outra situação] e [outro sintoma], é [outro diagnóstico].",
+     "e": "Se você está a 100 por hora e o volante trepida, é balanceamento. Se você virar todo o volante pro lado e acelerar e ele fizer toque, toque, toque, é a junta homocinética.",
+     "p": "@gtech.s.a · 366 mil curtidas (radar 2026-10-25)"
     }
    ]
   },
@@ -2039,6 +2049,11 @@
      "t": "Quando o [marketing/vendas] é feito pela [pessoa improvável próxima do dono]:",
      "e": "Meu filho é dono dessa empresa aqui, V4, se quiser contratar.",
      "p": "@denerlippert · 191 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "(tela) [Profissão] [geração]. (fala) [Chefe confronta o jovem com cenas do dia a dia que expõem o contraste geracional].",
+     "e": "Bom dia, Mateus. De Crocs? Vendedor de Crocs, Mateus. Agora, cliente olha pro pé. Tá tomando o quê aí? Um danonizinho. Vendedor de Crocs e tomando danone.",
+     "p": "@gilmaraugustopro · 4,4 mil curtidas (radar 2026-10-25)"
     }
    ]
   },

@@ -2,7 +2,7 @@
 
 > Arquivo gerado por `scripts/hooks.py build` a partir de `data/hooks.json`. Edite o JSON, não este arquivo.
 
-**381 hooks** em **25 categorias**. **237** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
+**384 hooks** em **25 categorias**. **240** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
 
 Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você trocar o que está entre [colchetes]. **Prova** mostra de onde veio e quanto performou.
 
@@ -14,9 +14,9 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 - [NQ · Notícia quente (newsjacking com “acabou de”)](#nq) (24)
 - [FU · Futuro / contagem regressiva](#fu) (15)
 - [CT · Contrário (opinião impopular)](#ct) (22)
-- [EX · Experimento / teste ao vivo](#ex) (15)
+- [EX · Experimento / teste ao vivo](#ex) (16)
 - [PR · Professor (lista, passo a passo, método)](#pr) (17)
-- [AL · Erro / alerta / dor](#al) (19)
+- [AL · Erro / alerta / dor](#al) (20)
 - [SU · Confirma a suspeita (o público usa você como argumento)](#su) (11)
 - [HP · História pessoal / vulnerabilidade](#hp) (17)
 - [OR · Origem improvável (do zero ao topo)](#or) (16)
@@ -31,7 +31,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 - [MK · Marketing, agência e negócios (nicho)](#mk) (18)
 - [PV · Prova visual / “olha isso”](#pv) (13)
 - [DB · Debate / divide opiniões](#db) (12)
-- [HU · Humor e cotidiano brasileiro](#hu) (12)
+- [HU · Humor e cotidiano brasileiro](#hu) (13)
 - [HZ · Formatos clássicos de Hormozi adaptados](#hz) (9)
 
 <a id="ve"></a>
@@ -240,6 +240,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | EX-13 | Então agora me venda este copo Stanley. | Agora me venda [objeto do dia a dia]. Você falou muito, quero ver na prática. | @caiocarneiro · 4,1 mi views · out/2026 (Claude in Chrome) |
 | EX-14 | Vamos jantar no primeiro restaurante 3 Estrelas Michelin no Brasil, saber se vale a pena pagar pra 4 pessoas quase 10 mil reais, que dariam aí quase 10 meses de PF comendo todos os dias. | Vamos [experiência cara] pra saber se vale a pena pagar [valor], que daria [equivalente popular]. | @jhon_freitas · 975 mil views · out/2026 (Claude in Chrome) |
 | EX-15 | Estão fazendo dois testes com o ChatGPT e as respostas estão deixando todo mundo em choque | Estão fazendo [N] testes com [ferramenta] e as respostas estão deixando todo mundo em choque. | @izabela.anholett · 713 mil views · out/2026 (Claude in Chrome) |
+| EX-16 | Você acabou de virar um presidente corrupto do Brasil, mas o seu salário é o que menos importa. O dinheiro de verdade vem dos esquemas por fora. | Você acabou de virar [papel/cargo que todo mundo conhece], mas [o que parece vantagem] é o que menos importa. [O real] vem de [lugar inesperado]. | @narrador3d · 3,3 mil curtidas (radar 2026-10-25) |
 
 <a id="pr"></a>
 ## PR · Professor (lista, passo a passo, método)
@@ -300,6 +301,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | AL-17 | O Pix mudou, mas sua empresa já sabe o que fazer diferente? Uma das regras antifraude que entraram em vigor nessa terça-feira podem travar operações que antes passavam sem problema. | [Ferramenta que todo mundo usa] mudou. Sua empresa já sabe o que fazer diferente? | @camilafarani · 846 mil views · out/2026 (Claude in Chrome) |
 | AL-18 | Pessoal, meu Instagram está sendo limitado pela Meta por eu estar postando conteúdo sobre política e economia, comparando os planos do Flávio Bolsonaro e do Lula. | Pessoal, meu [canal] está sendo limitado por [motivo polêmico]. Então o que eu vou pedir pra vocês… | @nathfinancas · 697 mil views · out/2026 (Claude in Chrome) |
 | AL-19 | Perdi um contrato do meu apartamento porque eu fui boca de sacola. | Perdi [algo valioso] porque eu fui [defeito com gíria popular]. | @nathfinancas · 309 mil views · out/2026 (Claude in Chrome) |
+| AL-20 | Se você está a 100 por hora e o volante trepida, é balanceamento. Se você virar todo o volante pro lado e acelerar e ele fizer toque, toque, toque, é a junta homocinética. | Se você [situação cotidiana] e [sintoma], é [diagnóstico]. Se [outra situação] e [outro sintoma], é [outro diagnóstico]. | @gtech.s.a · 366 mil curtidas (radar 2026-10-25) |
 
 <a id="su"></a>
 ## SU · Confirma a suspeita (o público usa você como argumento)
@@ -693,6 +695,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | HU-10 | Eu tentando explicar pra minha família que eu trabalho com inteligência artificial. | Eu tentando explicar meu trabalho pra [família]. | — |
 | HU-11 | Filho, você agradece bem muito esse teu avô, porque ele fez um fundo de pensão, de investimento de 15 milhões pra você, não foi? | (tela) Pai educa, vô estraga! (fala) [Avô rígido] fez [presente gigante] pro neto. | @joaokepler · 206 mil views · out/2026 (Claude in Chrome) |
 | HU-12 | Meu filho é dono dessa empresa aqui, V4, se quiser contratar. | Quando o [marketing/vendas] é feito pela [pessoa improvável próxima do dono]: | @denerlippert · 191 mil views · out/2026 (Claude in Chrome) |
+| HU-13 | Bom dia, Mateus. De Crocs? Vendedor de Crocs, Mateus. Agora, cliente olha pro pé. Tá tomando o quê aí? Um danonizinho. Vendedor de Crocs e tomando danone. | (tela) [Profissão] [geração]. (fala) [Chefe confronta o jovem com cenas do dia a dia que expõem o contraste geracional]. | @gilmaraugustopro · 4,4 mil curtidas (radar 2026-10-25) |
 
 <a id="hz"></a>
 ## HZ · Formatos clássicos de Hormozi adaptados
