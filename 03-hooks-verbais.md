@@ -2,7 +2,7 @@
 
 > Arquivo gerado por `scripts/hooks.py build` a partir de `data/hooks.json`. Edite o JSON, não este arquivo.
 
-**398 hooks** em **25 categorias**. **254** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
+**411 hooks** em **25 categorias**. **267** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
 
 Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você trocar o que está entre [colchetes]. **Prova** mostra de onde veio e quanto performou.
 
@@ -11,27 +11,27 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 - [VE · Verdade escondida (dissonância cognitiva)](#ve) (19)
 - [RV · Revelação de status (“agora é bilionário”, “agora é dono”)](#rv) (15)
 - [IN · Investigador (“quem é o dono”, “o que aconteceu com”)](#in) (15)
-- [NQ · Notícia quente (newsjacking com “acabou de”)](#nq) (24)
+- [NQ · Notícia quente (newsjacking com “acabou de”)](#nq) (25)
 - [FU · Futuro / contagem regressiva](#fu) (18)
-- [CT · Contrário (opinião impopular)](#ct) (22)
+- [CT · Contrário (opinião impopular)](#ct) (23)
 - [EX · Experimento / teste ao vivo](#ex) (17)
-- [PR · Professor (lista, passo a passo, método)](#pr) (20)
-- [AL · Erro / alerta / dor](#al) (20)
-- [SU · Confirma a suspeita (o público usa você como argumento)](#su) (11)
-- [HP · História pessoal / vulnerabilidade](#hp) (18)
+- [PR · Professor (lista, passo a passo, método)](#pr) (21)
+- [AL · Erro / alerta / dor](#al) (21)
+- [SU · Confirma a suspeita (o público usa você como argumento)](#su) (12)
+- [HP · História pessoal / vulnerabilidade](#hp) (19)
 - [OR · Origem improvável (do zero ao topo)](#or) (17)
-- [NU · Número chocante](#nu) (15)
+- [NU · Número chocante](#nu) (16)
 - [BR · Brasil x mundo / regional](#br) (14)
-- [ID · Identificação / chamada do público (“se você…”)](#id) (13)
+- [ID · Identificação / chamada do público (“se você…”)](#id) (14)
 - [PG · Pergunta provocativa](#pg) (12)
-- [AF · Aforismo curto (vídeo de 8 a 30 segundos)](#af) (19)
-- [MI · Mito / desmistificação](#mi) (15)
-- [BS · Bastidores / exclusivo / segredo de mercado](#bs) (12)
+- [AF · Aforismo curto (vídeo de 8 a 30 segundos)](#af) (20)
+- [MI · Mito / desmistificação](#mi) (16)
+- [BS · Bastidores / exclusivo / segredo de mercado](#bs) (13)
 - [IA · Inteligência artificial (nicho)](#ia) (16)
-- [MK · Marketing, agência e negócios (nicho)](#mk) (18)
+- [MK · Marketing, agência e negócios (nicho)](#mk) (19)
 - [PV · Prova visual / “olha isso”](#pv) (13)
 - [DB · Debate / divide opiniões](#db) (12)
-- [HU · Humor e cotidiano brasileiro](#hu) (14)
+- [HU · Humor e cotidiano brasileiro](#hu) (15)
 - [HZ · Formatos clássicos de Hormozi adaptados](#hz) (9)
 
 <a id="ve"></a>
@@ -154,6 +154,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | NQ-22 | A escala 6x1 vai à votação. Você já fez a conta? O que que muda pra quem trabalha, pra quem contrata, pra quem paga pelo produto no fim da cadeia? | [Mudança polêmica] vai à votação. Você já fez a conta? O que muda pra [grupo 1], [grupo 2] e [grupo 3]? | @camilafarani · 208 mil views · out/2026 (Claude in Chrome) |
 | NQ-23 | As Casas Bahia entraram com pedido de recuperação judicial na segunda-feira. | [Marca icônica] entrou com [notícia ruim]. [Explicações óbvias]. Tudo verdade. E tudo insuficiente pra explicar. | @camilafarani · 120 mil views · out/2026 (Claude in Chrome) |
 | NQ-24 | Agora o Senado tem maioria para o impeachment de ministro, acredito que estão deixando a gente sonhar. | Agora [instituição] tem maioria para [ação histórica]. Estão deixando a gente sonhar. | @jhon_freitas · 120 mil views · out/2026 (Claude in Chrome) |
+| NQ-25 | O homem mais rico do mundo olhou para a eleição do Brasil e cravou, a matemática não fecha. Então a gente fez a conta, sem teoria, só com os fatos, com os números do TSE. | [Pessoa famosa mundial] olhou pra [evento do Brasil] e cravou: [frase polêmica curta]. Então a gente fez a conta. | @alanjhones · 161 mil curtidas (radar 2026-10-27) |
 
 <a id="fu"></a>
 ## FU · Futuro / contagem regressiva
@@ -218,6 +219,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | CT-20 | Sabe o que eu penso assim, ó, quando eu chego exausto na minha casa? Que bom que eu tô exausto, que privilégio tá exausto. | Sabe o que eu penso quando [situação ruim comum]? Que bom que [situação ruim], que privilégio [situação ruim]. | @joeljota · 1,1 mi views · out/2026 (Claude in Chrome) |
 | CT-21 | Coisas que a internet viralizou, mas pra mim é consumismo. Body splash. | Coisas que a internet viralizou, mas pra mim é [crítica]: [item amado pelo público]. | @nathfinancas · 371 mil views · out/2026 (Claude in Chrome) |
 | CT-22 | O Whindersson Nunes tinha a maior audiência do Brasil de influenciadores, mas o mais influente era o Jovem Nerd. | [Famoso A] tinha a maior audiência, mas o mais influente era [famoso B menor]. | @denerlippert · 215 mil views · out/2026 (Claude in Chrome) |
+| CT-23 | Você pode ser extremamente competente, pode entregar resultados, resolver problemas. Se a liderança não vai com a sua cara, você não vai sair do lugar. | Você pode [lista de virtudes]. Se [pessoa com poder] não [condição pessoal], você não vai [consequência]. | @tenoriojaq · 1,8 mil curtidas · 65 repost/mil (radar 2026-10-27) |
 
 <a id="ex"></a>
 ## EX · Experimento / teste ao vivo
@@ -279,6 +281,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | PR-18 | O Enéas era médico, passou a vida inteira estudando, era escritor, era brilhante. E quando colocaram ele ao lado de pessoas que nunca tinham estudado, o povo tem dúvida. | [Pessoa admirada] [lista de qualidades]. E quando colocaram ele ao lado de [pessoa sem qualidades], o povo tem dúvida. | @evertonmirandamacedo · 79 mil curtidas (radar 2026-10-26) |
 | PR-19 | Eu sempre voto com esperança. Mas nesse momento eu estou muito preocupado. | Eu sempre [sentimento positivo]. Mas nesse momento, [sentimento negativo com justificativa]. | @psdbce (Ciro Gomes) · 31 mil curtidas (radar 2026-10-26) |
 | PR-20 | Não acho que o Brasil tem nada para comemorar no momento, ganha quem ganha a eleição. Nós temos pelo menos dois anos muito difíceis. | Não acho que [grupo] tem [o que esperam], [condição que invalida]. [Previsão dura]. | @cortesdoraulsena · 18 mil curtidas (radar 2026-10-26) |
+| PR-21 | Esse queijo me fez comer quase a peça inteira pra gravar esse vídeo, gente. | [Produto] me fez [ação extrema involuntária] pra [contexto do vídeo]. | @queijariadochico · 24 mil curtidas (radar 2026-10-27) |
 
 <a id="al"></a>
 ## AL · Erro / alerta / dor
@@ -311,6 +314,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | AL-18 | Pessoal, meu Instagram está sendo limitado pela Meta por eu estar postando conteúdo sobre política e economia, comparando os planos do Flávio Bolsonaro e do Lula. | Pessoal, meu [canal] está sendo limitado por [motivo polêmico]. Então o que eu vou pedir pra vocês… | @nathfinancas · 697 mil views · out/2026 (Claude in Chrome) |
 | AL-19 | Perdi um contrato do meu apartamento porque eu fui boca de sacola. | Perdi [algo valioso] porque eu fui [defeito com gíria popular]. | @nathfinancas · 309 mil views · out/2026 (Claude in Chrome) |
 | AL-20 | Se você está a 100 por hora e o volante trepida, é balanceamento. Se você virar todo o volante pro lado e acelerar e ele fizer toque, toque, toque, é a junta homocinética. | Se você [situação cotidiana] e [sintoma], é [diagnóstico]. Se [outra situação] e [outro sintoma], é [outro diagnóstico]. | @gtech.s.a · 366 mil curtidas (radar 2026-10-25) |
+| AL-21 | Aqui tem um caldo de camarão sensacional que me falaram. | Aqui tem [comida/serviço] que me falaram. [Confirmação rápida]. | @roleslz · 19 mil curtidas (radar 2026-10-27) |
 
 <a id="su"></a>
 ## SU · Confirma a suspeita (o público usa você como argumento)
@@ -334,6 +338,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | SU-09 | Isso explica por que o seu concorrente pior que você vende mais. | Isso explica por que [frustração comum]. | — |
 | SU-10 | Manda esse vídeo pra quem ainda acha que Instagram é só postar foto bonita. | Manda esse vídeo pra quem acha que [crença oposta]. | — |
 | SU-11 | Vou te falar uma bomba aí que talvez você não queira ouvir, hein? O alcance orgânico do Instagram tá caindo sim. | Vou te falar uma bomba que talvez você não queira ouvir: [suspeita do público] tá acontecendo sim. | @rafaelkiso · 113 mil views · out/2026 (Claude in Chrome) |
+| SU-12 | Vocês estão ligados que existe uma mulher que incorpora um cacique com o poder de controlar o tempo e que muitas organizações pagam uma grana pra ela não fazer chover nos cantos? | Vocês tão ligados que existe [pessoa/entidade absurda] que [poder surreal] e que [consequência inesperada]? | @estrogonofedemiguel · 80 mil curtidas (radar 2026-10-27) |
 
 <a id="hp"></a>
 ## HP · História pessoal / vulnerabilidade
@@ -364,6 +369,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | HP-16 | Esse é um vídeo sobre legado, gente, onde eu perdi um amigaço, não só eu, amigo de tanta gente | Esse é um vídeo sobre [tema grande], onde eu perdi [algo/alguém importante]. | @joeljota · 949 mil views · out/2026 (Claude in Chrome) |
 | HP-17 | Eu sou João Kepler, apresentador do programa Pivotando aqui no canal SBT News. Eu preciso falar sobre o meu amigo Bruno Avelar, que é o entrevistado deste episódio. | Eu preciso falar sobre [pessoa]. [Conteúdo] foi gravado [N] dias antes [de evento trágico]. | @joaokepler · 216 mil views · out/2026 (Claude in Chrome) |
 | HP-18 | Vale a pena pagar essa dívida aqui no Serasa de R$ 5 mil por apenas R$ 4,50? Sim. Porém, existe uma pegadinha do banco. | Vale a pena pagar [dívida absurdamente barata]? Sim. Porém, existe uma pegadinha que você precisa saber. | @ls.advogado · 65 mil curtidas (radar 2026-10-26) |
+| HP-19 | Todo fim de ano, meus amigos e eu, a gente se reúne pra passar um dia inteiro junto próximo ao Natal. E aí saiu uma pergunta que transformou de vez o que eu penso sobre mim mesmo. | Todo [período], [eu/nós] [ritual do grupo]. E aí [um dia] saiu [algo que mudou tudo]. | @hommiegandra · 21 mil curtidas (radar 2026-10-27) |
 
 <a id="or"></a>
 ## OR · Origem improvável (do zero ao topo)
@@ -420,6 +426,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | NU-13 | Se o cara ganha R$ 10 mil, ele vai ter uns R$ 3,5 mil de desconto. Ele recebe R$ 6,5 mil na mão. Só que o seguinte, ele custa para a empresa R$ 19 mil. | Se o cara ganha [valor], ele recebe [valor menor] na mão. Só que ele custa pra empresa [valor maior]. E do que sobra, [fração] é [vilão]. | @geracaodevalor · 13,2 mi views · out/2026 (Claude in Chrome) |
 | NU-14 | Galera, pela primeira vez na história, a nossa bolsa passou dos 200 mil pontos. Olha ali em cima, 209 mil pontos. | Galera, pela primeira vez na história, [indicador] passou de [marco]. Olha ali: [número exato]. | @thiago.nigro · 8,9 mi views · out/2026 (Claude in Chrome) |
 | NU-15 | Como que é possível o Parque Ibirapuera faturar 160 milhões por ano se você entra de graça? | Como que é possível [lugar/serviço grátis] faturar [número] por ano se você [não paga nada]? | @fernandomiranda777 · 799 mil views · out/2026 (Claude in Chrome) |
+| NU-16 | Essas são as 5 Skills do Claude que mais cresceram no GitHub em setembro, e a última é a melhor de todas. | [Número] [coisas do nicho] que mais [métrica] no [plataforma] em [período], e a última é a melhor. | @gabrielbarbosa.oficial · 2,4 mil curtidas · 872 coment/mil (radar 2026-10-27) |
 
 <a id="br"></a>
 ## BR · Brasil x mundo / regional
@@ -471,6 +478,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | ID-11 | Se você tem um negócio pequeno, você não precisa de agência. Você precisa disso aqui. | Se você tem um negócio pequeno, você não precisa de [coisa cara]. Você precisa disso. | — |
 | ID-12 | Empresário que ainda não usa IA pra atender cliente vai se arrepender em 2027. | Empresário que [ação] vai se arrepender em [prazo]. | — |
 | ID-13 | E o meu marido que estava na palestra do Caio Carneiro quando ele disse isso: ouça a sua mulher. | E o meu [parceiro] que estava na [palestra] quando [especialista] disse isso: [frase que me dá razão]. | @caiocarneiro · 3,7 mi views · out/2026 (Claude in Chrome) |
+| ID-14 | Eu moro aqui nos Estados Unidos e eu tenho tempero, porque eu sou Latina. | Eu moro [lugar inesperado pro brasileiro] e eu [coisa que mantém a identidade brasileira]. | @oficial.sww · 42 mil curtidas (radar 2026-10-27) |
 
 <a id="pg"></a>
 ## PG · Pergunta provocativa
@@ -526,6 +534,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | AF-17 | Diante de tudo que eu tenho visto aqui na internet, quero te falar uma coisa: o fanatismo e a inteligência nunca habitam a mesma casa. | Diante de tudo que eu tenho visto [lugar/momento], quero te falar uma coisa: [aforismo de autor]. | @camilafarani · 115 mil views · out/2026 (Claude in Chrome) |
 | AF-18 | Guarda uma coisa: vendedor bom não aceita líder fraco, líder de vendas fraco | Guarda uma coisa: [profissional bom] não aceita [líder] fraco. | @conradoadolpho · 24 mil views · out/2026 (Claude in Chrome) |
 | AF-19 | Se você tem uma meta sem prazo, você tem uma fantasia. Se você tem uma meta, mais um prazo, mais um plano, mais ação consistente, você tem sucesso. | Se você tem [meta] sem [elemento], você tem [resultado fraco]. Se você tem [meta] + [elemento] + [elemento], você tem [resultado forte]. | @dedessacaldas · 41 mil curtidas (radar 2026-10-26) |
+| AF-20 | Quando você aprende a falar não: | (texto na tela) Quando você aprende a [habilidade social difícil]: + cenas dramatizadas de [situações de recusa/mudança]. | @maluumattos · 11 mil curtidas (radar 2026-10-27) |
 
 <a id="mi"></a>
 ## MI · Mito / desmistificação
@@ -553,6 +562,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | MI-13 | Dinheiro não traz? Felicidade. E o que importa é ser? Feliz. | [Ditado popular] não traz? [plateia completa]. E o que importa é? [plateia completa]. Aí o cara [contradição]. | @caiocarneiro · 685 mil views · out/2026 (Claude in Chrome) |
 | MI-14 | Você ainda acha que o Reels é o melhor formato do Instagram? Sempre o melhor formato? | Você ainda acha que [crença do nicho]? Os dados estão mostrando uma coisa diferente. | @rafaelkiso · 48,5 mil views · out/2026 (Claude in Chrome) |
 | MI-15 | Se você quer mudar o sistema, você é escravo dele. O importante não é mudar o sistema, é você criar um outro sistema para você mesmo. | Se você quer mudar [sistema], você é [condição negativa]. O importante é [ação alternativa]. | @icarode.carvalho · 41 mil curtidas (radar 2026-10-26) |
+| MI-16 | Recebi uma mensagem de um cara chamado André, que se dizia sócio do Primo Rico. Nessa mensagem ele tentava me intimidar. Mas me motivou. | Recebi uma mensagem de [pessoa ligada a famoso/empresa grande]. Nessa mensagem [ação intimidatória]. Mas [reação inesperada]. | @olivia.sensata · 6,6 mil curtidas (radar 2026-10-27) |
 
 <a id="bs"></a>
 ## BS · Bastidores / exclusivo / segredo de mercado
@@ -577,6 +587,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | BS-10 | A conversa que eu tive com um diretor de criação mudou como eu escrevo os primeiros 3 segundos. | A conversa que eu tive com [pessoa relevante] mudou como eu [faço algo]. | — |
 | BS-11 | Hoje eu vim investigar como um perfil fez 100 milhões de views em menos de um ano. | Cheguei aqui pra investigar como [pessoa/empresa] conseguiu [resultado absurdo]. | @denerlippert (vídeo com Fernando Miranda) |
 | BS-12 | Essa mulher criou uma das primeiras marcas brasileiras de maquiagem a disputar prateleira com marcas de luxo internacionais e ninguém fala sobre o sistema por trás disso. | Essa [pessoa] criou [feito] e ninguém fala sobre o sistema por trás disso. | @conradoadolpho · 58 mil views · out/2026 (Claude in Chrome) |
+| BS-13 | Welcome to the Bubble Report. Primeiro noticiário dedicado exclusivamente para o que acontece dentro dessa bolha. | Welcome to the [Nome do Programa]. Primeiro [formato] dedicado exclusivamente pra [nicho/bolha]. | @bruno.pohlmannn · 5,9 mil curtidas (radar 2026-10-27) |
 
 <a id="ia"></a>
 ## IA · Inteligência artificial (nicho)
@@ -635,6 +646,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | MK-16 | Essa ideia do Coco Bambu vale pra qualquer restaurante: transforma o aniversário do cliente em mídia gratuita. | Essa ideia vale pra qualquer [tipo de negócio]. | — |
 | MK-17 | Olha essa notícia: o Instagram agora vai ser pago? Não, calma lá. Mas a Meta mudou a lógica das assinaturas para quem usa Instagram profissionalmente. | Olha essa notícia: [plataforma] agora vai ser [mudança temida]? Não, calma lá. Mas [mudança real] para quem [usa profissionalmente]. | @rafaelkiso · 258 mil views · out/2026 (Claude in Chrome) |
 | MK-18 | Primeiro que o Instagram está derrubando o alcance de conteúdo copiado | [Plataforma] está derrubando o alcance de [prática comum]. | @rafaelkiso · 48,5 mil views · out/2026 (Claude in Chrome) |
+| MK-19 | As ofertas white mais escaladas da semana no Brasil, parte 2. | As [coisas] mais [métrica de marketing] da semana no Brasil, parte [N]. | @faelsc_ · 3,5 mil curtidas · 353 coment/mil (radar 2026-10-27) |
 
 <a id="pv"></a>
 ## PV · Prova visual / “olha isso”
@@ -710,6 +722,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | HU-12 | Meu filho é dono dessa empresa aqui, V4, se quiser contratar. | Quando o [marketing/vendas] é feito pela [pessoa improvável próxima do dono]: | @denerlippert · 191 mil views · out/2026 (Claude in Chrome) |
 | HU-13 | Bom dia, Mateus. De Crocs? Vendedor de Crocs, Mateus. Agora, cliente olha pro pé. Tá tomando o quê aí? Um danonizinho. Vendedor de Crocs e tomando danone. | (tela) [Profissão] [geração]. (fala) [Chefe confronta o jovem com cenas do dia a dia que expõem o contraste geracional]. | @gilmaraugustopro · 4,4 mil curtidas (radar 2026-10-25) |
 | HU-14 | Lula acaba de ganhar as eleições com a promessa de que vai mudar o Brasil. Independente do resultado, amanhã voltaremos ao normal. | [Notícia séria do momento]. Independente do resultado, amanhã [volta irônica ao normal]. | @maumeirelles · 94 mil curtidas (radar 2026-10-26) |
+| HU-15 | Oi Lululu, tudo bem? É a Val, eu encomendei um pudim com você e queria te dar um feedback. Todo mundo amou, tá? Porém Lululu, eu tenho algumas considerações. | POV: [situação reconhecível]. (personagem liga/manda mensagem com feedback absurdo, escalando) | @elizeufrancaa · 2,5 mil curtidas · 152 coment/mil (radar 2026-10-27) |
 
 <a id="hz"></a>
 ## HZ · Formatos clássicos de Hormozi adaptados
