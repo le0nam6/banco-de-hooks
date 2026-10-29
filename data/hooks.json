@@ -103,6 +103,11 @@
      "t": "[Setor] faturou [número gigante]. O número impressiona. Agora, enquanto [métrica boa] sobe, [métrica real] está [caindo] em silêncio.",
      "e": "O setor de alimentação fora do lar no Brasil faturou 495 bi em 2025. O número impressiona.",
      "p": "@camilafarani · 124 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Região/grupo] é só [estereótipo negativo], ou tem [realidade surpreendente] lá?",
+     "e": "Afinal de contas, o Nordeste é só bolsa-família ou tem empresa lá?",
+     "p": "@fernandomiranda777 · 109 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -183,6 +188,11 @@
      "t": "Saiu a lista dos [N] mais [X]. E o que mais me chamou atenção é que [mercado] está passando por uma mudança profunda.",
      "e": "Olha aí, turma, saiu a lista dos 30 profissionais mais influentes em 21 setores. E o que me chamou mais a atenção é que o mercado de influência, como a gente conhecia, está passando por uma mudança bem profunda",
      "p": "@rafaelkiso · 76,6 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Objeto que você ia jogar fora] pode virar [coisa valiosa que funciona o dia inteiro].",
+     "e": "Aquele celular velho na gaveta pode virar um servidor de verdade, no ar o dia inteiro gastando quase nada de energia.",
+     "p": "@devai.ana · 21 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -479,6 +489,21 @@
      "t": "Logo após [bilionário] lançar [produto], [concorrente] anunciou em menos de 24h que vai [reação drástica].",
      "e": "Logo após o Elon Musk lançar aí o táxi da Tesla, a Uber já anunciou em menos de 24 horas que vai cortar 10% da sua equipe pra enfrentar aí os robotaxis do Elon Musk.",
      "p": "@jhon_freitas · 117 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Pela primeira vez desde [ano], [fato histórico que quebra padrão].",
+     "e": "Pela primeira vez, desde 1989, quem ficou em segundo no primeiro turno foi eleito presidente.",
+     "p": "@fatocarimbado · 33 mil curtidas (radar 2026-10-26)"
+    },
+    {
+     "t": "[Pessoa/evento] acabou de [acontecer] e [mercado/sistema] reagiu na mesma hora.",
+     "e": "O Lula foi reeleito e o mercado reagiu na mesma hora. O fundo das ações brasileiras em Nova York chegou a cair quase 20%.",
+     "p": "@ludificando.br · 29 mil curtidas (radar 2026-10-26)"
+    },
+    {
+     "t": "No primeiro turno, [resultado A]. No segundo, [resultado B oposto]. [Dado que quantifica a virada].",
+     "e": "No primeiro turno, Flávio Bolsonaro ficou na frente. No segundo, Lula venceu. Duzentas e três cidades viraram de Flávio para Lula.",
+     "p": "@radardovotobrasil · 15 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -683,6 +708,11 @@
      "t": "Você acabou de virar [papel/cargo que todo mundo conhece], mas [o que parece vantagem] é o que menos importa. [O real] vem de [lugar inesperado].",
      "e": "Você acabou de virar um presidente corrupto do Brasil, mas o seu salário é o que menos importa. O dinheiro de verdade vem dos esquemas por fora.",
      "p": "@narrador3d · 3,3 mil curtidas (radar 2026-10-25)"
+    },
+    {
+     "t": "[Renda escondida] pra você [receber/ganhar] [valor], todo santo dia, e eu vou te ensinar aqui agora.",
+     "e": "Raquizinho escondido pra você receber pagamentos com seu MEI todo santo dia, e eu vou te ensinar aqui agora.",
+     "p": "@pedraodalicitacao · 3,8 mil curtidas · 404 coment/mil (radar 2026-10-26)"
     }
    ]
   },
@@ -771,6 +801,21 @@
      "t": "Qual o tipo de [profissional] que eu gosto de contratar? [Sigla], [letra 1] de [palavra polêmica].",
      "e": "Qual o tipo de vendedor que eu gosto de contratar? Eu gosto de contratar vendedor PATI, P-A-T-I, P de pobre",
      "p": "@conradoadolpho · 31,7 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "[Pessoa admirada] [lista de qualidades]. E quando colocaram ele ao lado de [pessoa sem qualidades], o povo tem dúvida.",
+     "e": "O Enéas era médico, passou a vida inteira estudando, era escritor, era brilhante. E quando colocaram ele ao lado de pessoas que nunca tinham estudado, o povo tem dúvida.",
+     "p": "@evertonmirandamacedo · 79 mil curtidas (radar 2026-10-26)"
+    },
+    {
+     "t": "Eu sempre [sentimento positivo]. Mas nesse momento, [sentimento negativo com justificativa].",
+     "e": "Eu sempre voto com esperança. Mas nesse momento eu estou muito preocupado.",
+     "p": "@psdbce (Ciro Gomes) · 31 mil curtidas (radar 2026-10-26)"
+    },
+    {
+     "t": "Não acho que [grupo] tem [o que esperam], [condição que invalida]. [Previsão dura].",
+     "e": "Não acho que o Brasil tem nada para comemorar no momento, ganha quem ganha a eleição. Nós temos pelo menos dois anos muito difíceis.",
+     "p": "@cortesdoraulsena · 18 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -1027,6 +1072,11 @@
      "t": "Eu preciso falar sobre [pessoa]. [Conteúdo] foi gravado [N] dias antes [de evento trágico].",
      "e": "Eu sou João Kepler, apresentador do programa Pivotando aqui no canal SBT News. Eu preciso falar sobre o meu amigo Bruno Avelar, que é o entrevistado deste episódio.",
      "p": "@joaokepler · 216 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Vale a pena pagar [dívida absurdamente barata]? Sim. Porém, existe uma pegadinha que você precisa saber.",
+     "e": "Vale a pena pagar essa dívida aqui no Serasa de R$ 5 mil por apenas R$ 4,50? Sim. Porém, existe uma pegadinha do banco.",
+     "p": "@ls.advogado · 65 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -1119,6 +1169,11 @@
      "t": "Essa [pessoa] saiu de [origem improvável] e enxergou um mercado de [número] que [indústria] ignorou por décadas.",
      "e": "Essa mulher aqui saiu da maior favela da América Latina, enxergou o mercado de um trilhão que a indústria brasileira ignorou por décadas.",
      "p": "@conradoadolpho · 53,8 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Achei [objeto icônico] abandonado [em lugar improvável]. Comprei na hora.",
+     "e": "Achei o Toyota Supra MK4 laranja do Brian de Velozes e Furiosos abandonado numa garagem e comprei na hora.",
+     "p": "@macaco.carlinhos · 63 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -1512,6 +1567,11 @@
      "t": "Guarda uma coisa: [profissional bom] não aceita [líder] fraco.",
      "e": "Guarda uma coisa: vendedor bom não aceita líder fraco, líder de vendas fraco",
      "p": "@conradoadolpho · 24 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Se você tem [meta] sem [elemento], você tem [resultado fraco]. Se você tem [meta] + [elemento] + [elemento], você tem [resultado forte].",
+     "e": "Se você tem uma meta sem prazo, você tem uma fantasia. Se você tem uma meta, mais um prazo, mais um plano, mais ação consistente, você tem sucesso.",
+     "p": "@dedessacaldas · 41 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -1592,6 +1652,11 @@
      "t": "Você ainda acha que [crença do nicho]? Os dados estão mostrando uma coisa diferente.",
      "e": "Você ainda acha que o Reels é o melhor formato do Instagram? Sempre o melhor formato?",
      "p": "@rafaelkiso · 48,5 mil views · out/2026 (Claude in Chrome)"
+    },
+    {
+     "t": "Se você quer mudar [sistema], você é [condição negativa]. O importante é [ação alternativa].",
+     "e": "Se você quer mudar o sistema, você é escravo dele. O importante não é mudar o sistema, é você criar um outro sistema para você mesmo.",
+     "p": "@icarode.carvalho · 41 mil curtidas (radar 2026-10-26)"
     }
    ]
   },
@@ -2054,6 +2119,11 @@
      "t": "(tela) [Profissão] [geração]. (fala) [Chefe confronta o jovem com cenas do dia a dia que expõem o contraste geracional].",
      "e": "Bom dia, Mateus. De Crocs? Vendedor de Crocs, Mateus. Agora, cliente olha pro pé. Tá tomando o quê aí? Um danonizinho. Vendedor de Crocs e tomando danone.",
      "p": "@gilmaraugustopro · 4,4 mil curtidas (radar 2026-10-25)"
+    },
+    {
+     "t": "[Notícia séria do momento]. Independente do resultado, amanhã [volta irônica ao normal].",
+     "e": "Lula acaba de ganhar as eleições com a promessa de que vai mudar o Brasil. Independente do resultado, amanhã voltaremos ao normal.",
+     "p": "@maumeirelles · 94 mil curtidas (radar 2026-10-26)"
     }
    ]
   },

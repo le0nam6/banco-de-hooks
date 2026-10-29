@@ -2,36 +2,36 @@
 
 > Arquivo gerado por `scripts/hooks.py build` a partir de `data/hooks.json`. Edite o JSON, não este arquivo.
 
-**384 hooks** em **25 categorias**. **240** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
+**398 hooks** em **25 categorias**. **254** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
 
 Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você trocar o que está entre [colchetes]. **Prova** mostra de onde veio e quanto performou.
 
 ## Índice
 
-- [VE · Verdade escondida (dissonância cognitiva)](#ve) (18)
-- [RV · Revelação de status (“agora é bilionário”, “agora é dono”)](#rv) (14)
+- [VE · Verdade escondida (dissonância cognitiva)](#ve) (19)
+- [RV · Revelação de status (“agora é bilionário”, “agora é dono”)](#rv) (15)
 - [IN · Investigador (“quem é o dono”, “o que aconteceu com”)](#in) (15)
 - [NQ · Notícia quente (newsjacking com “acabou de”)](#nq) (24)
-- [FU · Futuro / contagem regressiva](#fu) (15)
+- [FU · Futuro / contagem regressiva](#fu) (18)
 - [CT · Contrário (opinião impopular)](#ct) (22)
-- [EX · Experimento / teste ao vivo](#ex) (16)
-- [PR · Professor (lista, passo a passo, método)](#pr) (17)
+- [EX · Experimento / teste ao vivo](#ex) (17)
+- [PR · Professor (lista, passo a passo, método)](#pr) (20)
 - [AL · Erro / alerta / dor](#al) (20)
 - [SU · Confirma a suspeita (o público usa você como argumento)](#su) (11)
-- [HP · História pessoal / vulnerabilidade](#hp) (17)
-- [OR · Origem improvável (do zero ao topo)](#or) (16)
+- [HP · História pessoal / vulnerabilidade](#hp) (18)
+- [OR · Origem improvável (do zero ao topo)](#or) (17)
 - [NU · Número chocante](#nu) (15)
 - [BR · Brasil x mundo / regional](#br) (14)
 - [ID · Identificação / chamada do público (“se você…”)](#id) (13)
 - [PG · Pergunta provocativa](#pg) (12)
-- [AF · Aforismo curto (vídeo de 8 a 30 segundos)](#af) (18)
-- [MI · Mito / desmistificação](#mi) (14)
+- [AF · Aforismo curto (vídeo de 8 a 30 segundos)](#af) (19)
+- [MI · Mito / desmistificação](#mi) (15)
 - [BS · Bastidores / exclusivo / segredo de mercado](#bs) (12)
 - [IA · Inteligência artificial (nicho)](#ia) (16)
 - [MK · Marketing, agência e negócios (nicho)](#mk) (18)
 - [PV · Prova visual / “olha isso”](#pv) (13)
 - [DB · Debate / divide opiniões](#db) (12)
-- [HU · Humor e cotidiano brasileiro](#hu) (13)
+- [HU · Humor e cotidiano brasileiro](#hu) (14)
 - [HZ · Formatos clássicos de Hormozi adaptados](#hz) (9)
 
 <a id="ve"></a>
@@ -63,6 +63,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | VE-16 | Por que ninguém consegue copiar Yakult mesmo depois de 90 anos, eles venderam o mesmo produto na mesma garrafa pelo mesmo canal? | Por que ninguém consegue copiar [marca] mesmo depois de [N] anos vendendo o mesmo produto, [na mesma embalagem], [pelo mesmo canal]? | @fernandomiranda777 · 1,6 mi views · out/2026 (Claude in Chrome) |
 | VE-17 | A pessoa mais rica de cada continente é um comprador de empresa, não um fundador de empresa. | A pessoa mais [rica/bem-sucedida] de cada [lugar] é [papel inesperado], não [papel óbvio]. | @denerlippert · 155 mil views · out/2026 (Claude in Chrome) |
 | VE-18 | O setor de alimentação fora do lar no Brasil faturou 495 bi em 2025. O número impressiona. | [Setor] faturou [número gigante]. O número impressiona. Agora, enquanto [métrica boa] sobe, [métrica real] está [caindo] em silêncio. | @camilafarani · 124 mil views · out/2026 (Claude in Chrome) |
+| VE-19 | Afinal de contas, o Nordeste é só bolsa-família ou tem empresa lá? | [Região/grupo] é só [estereótipo negativo], ou tem [realidade surpreendente] lá? | @fernandomiranda777 · 109 mil curtidas (radar 2026-10-26) |
 
 <a id="rv"></a>
 ## RV · Revelação de status (“agora é bilionário”, “agora é dono”)
@@ -89,6 +90,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | RV-12 | O dono do Instagram acabou de declarar guerra à Apple. | O dono do [app/rede] acabou de [ação dramática] contra [rival]. | @izabela.anholett · 3 milhões de views · 247 mil envios |
 | RV-13 | Ele ainda era novinho, em 2013 me pediu investimento. E eu disse não. | [Famoso hoje] me pediu [ajuda/investimento] em [ano] e eu disse não. | @joaokepler · 2 mi views · out/2026 (Claude in Chrome) |
 | RV-14 | Olha aí, turma, saiu a lista dos 30 profissionais mais influentes em 21 setores. E o que me chamou mais a atenção é que o mercado de influência, como a gente conhecia, está passando por uma mudança bem profunda | Saiu a lista dos [N] mais [X]. E o que mais me chamou atenção é que [mercado] está passando por uma mudança profunda. | @rafaelkiso · 76,6 mil views · out/2026 (Claude in Chrome) |
+| RV-15 | Aquele celular velho na gaveta pode virar um servidor de verdade, no ar o dia inteiro gastando quase nada de energia. | [Objeto que você ia jogar fora] pode virar [coisa valiosa que funciona o dia inteiro]. | @devai.ana · 21 mil curtidas (radar 2026-10-26) |
 
 <a id="in"></a>
 ## IN · Investigador (“quem é o dono”, “o que aconteceu com”)
@@ -179,6 +181,9 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | FU-13 | O Shopping Center, como a gente conhece o Shopping Center, vai acabar. | [Instituição conhecida], como a gente conhece, vai acabar. Enquanto todo mundo fala de [crise], [setor] está resolvendo de um jeito diferente. | @conradoadolpho · 182 mil views · out/2026 (Claude in Chrome) |
 | FU-14 | Esse é o robô que vai substituir o trabalho do ser humano. Acabei de visitar aqui a fábrica da Tesla | Esse é o [objeto] que vai substituir [algo humano]. Acabei de visitar [lugar exclusivo]. | @jhon_freitas · 169 mil views · out/2026 (Claude in Chrome) |
 | FU-15 | Logo após o Elon Musk lançar aí o táxi da Tesla, a Uber já anunciou em menos de 24 horas que vai cortar 10% da sua equipe pra enfrentar aí os robotaxis do Elon Musk. | Logo após [bilionário] lançar [produto], [concorrente] anunciou em menos de 24h que vai [reação drástica]. | @jhon_freitas · 117 mil views · out/2026 (Claude in Chrome) |
+| FU-16 | Pela primeira vez, desde 1989, quem ficou em segundo no primeiro turno foi eleito presidente. | Pela primeira vez desde [ano], [fato histórico que quebra padrão]. | @fatocarimbado · 33 mil curtidas (radar 2026-10-26) |
+| FU-17 | O Lula foi reeleito e o mercado reagiu na mesma hora. O fundo das ações brasileiras em Nova York chegou a cair quase 20%. | [Pessoa/evento] acabou de [acontecer] e [mercado/sistema] reagiu na mesma hora. | @ludificando.br · 29 mil curtidas (radar 2026-10-26) |
+| FU-18 | No primeiro turno, Flávio Bolsonaro ficou na frente. No segundo, Lula venceu. Duzentas e três cidades viraram de Flávio para Lula. | No primeiro turno, [resultado A]. No segundo, [resultado B oposto]. [Dado que quantifica a virada]. | @radardovotobrasil · 15 mil curtidas (radar 2026-10-26) |
 
 <a id="ct"></a>
 ## CT · Contrário (opinião impopular)
@@ -241,6 +246,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | EX-14 | Vamos jantar no primeiro restaurante 3 Estrelas Michelin no Brasil, saber se vale a pena pagar pra 4 pessoas quase 10 mil reais, que dariam aí quase 10 meses de PF comendo todos os dias. | Vamos [experiência cara] pra saber se vale a pena pagar [valor], que daria [equivalente popular]. | @jhon_freitas · 975 mil views · out/2026 (Claude in Chrome) |
 | EX-15 | Estão fazendo dois testes com o ChatGPT e as respostas estão deixando todo mundo em choque | Estão fazendo [N] testes com [ferramenta] e as respostas estão deixando todo mundo em choque. | @izabela.anholett · 713 mil views · out/2026 (Claude in Chrome) |
 | EX-16 | Você acabou de virar um presidente corrupto do Brasil, mas o seu salário é o que menos importa. O dinheiro de verdade vem dos esquemas por fora. | Você acabou de virar [papel/cargo que todo mundo conhece], mas [o que parece vantagem] é o que menos importa. [O real] vem de [lugar inesperado]. | @narrador3d · 3,3 mil curtidas (radar 2026-10-25) |
+| EX-17 | Raquizinho escondido pra você receber pagamentos com seu MEI todo santo dia, e eu vou te ensinar aqui agora. | [Renda escondida] pra você [receber/ganhar] [valor], todo santo dia, e eu vou te ensinar aqui agora. | @pedraodalicitacao · 3,8 mil curtidas · 404 coment/mil (radar 2026-10-26) |
 
 <a id="pr"></a>
 ## PR · Professor (lista, passo a passo, método)
@@ -270,6 +276,9 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | PR-15 | Eu nunca conheci alguém que não quisesse mudar de vida, nunca, mas por que então tão pouca gente muda? | Eu nunca conheci alguém que não quisesse [desejo universal]. Mas por que tão pouca gente [consegue]? Existem [N] motivos. | @marcelotoledo · 1,5 mi views · out/2026 (Claude in Chrome) |
 | PR-16 | E o vendedor, ele é um atleta de um produto ou serviço, por isso que é muito comum em convenções de vendas empresas contratarem atletas para palestrar | [Profissão comum] é um atleta de [X]. Por isso [fato curioso do mercado]. | @caiocarneiro · 1,3 mi views · out/2026 (Claude in Chrome) |
 | PR-17 | Qual o tipo de vendedor que eu gosto de contratar? Eu gosto de contratar vendedor PATI, P-A-T-I, P de pobre | Qual o tipo de [profissional] que eu gosto de contratar? [Sigla], [letra 1] de [palavra polêmica]. | @conradoadolpho · 31,7 mil views · out/2026 (Claude in Chrome) |
+| PR-18 | O Enéas era médico, passou a vida inteira estudando, era escritor, era brilhante. E quando colocaram ele ao lado de pessoas que nunca tinham estudado, o povo tem dúvida. | [Pessoa admirada] [lista de qualidades]. E quando colocaram ele ao lado de [pessoa sem qualidades], o povo tem dúvida. | @evertonmirandamacedo · 79 mil curtidas (radar 2026-10-26) |
+| PR-19 | Eu sempre voto com esperança. Mas nesse momento eu estou muito preocupado. | Eu sempre [sentimento positivo]. Mas nesse momento, [sentimento negativo com justificativa]. | @psdbce (Ciro Gomes) · 31 mil curtidas (radar 2026-10-26) |
+| PR-20 | Não acho que o Brasil tem nada para comemorar no momento, ganha quem ganha a eleição. Nós temos pelo menos dois anos muito difíceis. | Não acho que [grupo] tem [o que esperam], [condição que invalida]. [Previsão dura]. | @cortesdoraulsena · 18 mil curtidas (radar 2026-10-26) |
 
 <a id="al"></a>
 ## AL · Erro / alerta / dor
@@ -354,6 +363,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | HP-15 | Eu falei pra minha filha mais velha que quando ela fizesse 13 anos de idade, eu ia contar pra ela o segredo da vida. | Eu falei pra [pessoa próxima] que quando [marco futuro], eu ia contar pra ela [o segredo de X]. | @guilhermebenchimol · 6,5 mi views · out/2026 (Claude in Chrome) |
 | HP-16 | Esse é um vídeo sobre legado, gente, onde eu perdi um amigaço, não só eu, amigo de tanta gente | Esse é um vídeo sobre [tema grande], onde eu perdi [algo/alguém importante]. | @joeljota · 949 mil views · out/2026 (Claude in Chrome) |
 | HP-17 | Eu sou João Kepler, apresentador do programa Pivotando aqui no canal SBT News. Eu preciso falar sobre o meu amigo Bruno Avelar, que é o entrevistado deste episódio. | Eu preciso falar sobre [pessoa]. [Conteúdo] foi gravado [N] dias antes [de evento trágico]. | @joaokepler · 216 mil views · out/2026 (Claude in Chrome) |
+| HP-18 | Vale a pena pagar essa dívida aqui no Serasa de R$ 5 mil por apenas R$ 4,50? Sim. Porém, existe uma pegadinha do banco. | Vale a pena pagar [dívida absurdamente barata]? Sim. Porém, existe uma pegadinha que você precisa saber. | @ls.advogado · 65 mil curtidas (radar 2026-10-26) |
 
 <a id="or"></a>
 ## OR · Origem improvável (do zero ao topo)
@@ -382,6 +392,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | OR-14 | Se você suspeitar que alguém está te filmando com óculos inteligentes sem a sua permissão, a internet aconselha que você comece a cantar uma música da Disney. | Se você [suspeitar de ameaça tecnológica], a internet aconselha que você [solução absurda e inesperada]. | @izabela.anholett · 817 mil views · out/2026 (Claude in Chrome) |
 | OR-15 | A sandália mais feia do mundo tem os donos mais cabeças-duras do mundo! E justamente por isso vale 9 bilhões de dólares e virou uma febre global. | O [produto] mais [defeito] do mundo tem os donos mais [defeito] do mundo. E justamente por isso vale [número]. | @rony · 405 mil views · out/2026 (Claude in Chrome) |
 | OR-16 | Essa mulher aqui saiu da maior favela da América Latina, enxergou o mercado de um trilhão que a indústria brasileira ignorou por décadas. | Essa [pessoa] saiu de [origem improvável] e enxergou um mercado de [número] que [indústria] ignorou por décadas. | @conradoadolpho · 53,8 mil views · out/2026 (Claude in Chrome) |
+| OR-17 | Achei o Toyota Supra MK4 laranja do Brian de Velozes e Furiosos abandonado numa garagem e comprei na hora. | Achei [objeto icônico] abandonado [em lugar improvável]. Comprei na hora. | @macaco.carlinhos · 63 mil curtidas (radar 2026-10-26) |
 
 <a id="nu"></a>
 ## NU · Número chocante
@@ -514,6 +525,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | AF-16 | Tudo que eu for fazer, eu vou fazer bem feito pra eu sentir orgulho de mim. | Tudo que eu for fazer, eu vou fazer [padrão alto] pra [motivo interno, não externo]. | @caiocarneiro · 1 mi views · out/2026 (Claude in Chrome) |
 | AF-17 | Diante de tudo que eu tenho visto aqui na internet, quero te falar uma coisa: o fanatismo e a inteligência nunca habitam a mesma casa. | Diante de tudo que eu tenho visto [lugar/momento], quero te falar uma coisa: [aforismo de autor]. | @camilafarani · 115 mil views · out/2026 (Claude in Chrome) |
 | AF-18 | Guarda uma coisa: vendedor bom não aceita líder fraco, líder de vendas fraco | Guarda uma coisa: [profissional bom] não aceita [líder] fraco. | @conradoadolpho · 24 mil views · out/2026 (Claude in Chrome) |
+| AF-19 | Se você tem uma meta sem prazo, você tem uma fantasia. Se você tem uma meta, mais um prazo, mais um plano, mais ação consistente, você tem sucesso. | Se você tem [meta] sem [elemento], você tem [resultado fraco]. Se você tem [meta] + [elemento] + [elemento], você tem [resultado forte]. | @dedessacaldas · 41 mil curtidas (radar 2026-10-26) |
 
 <a id="mi"></a>
 ## MI · Mito / desmistificação
@@ -540,6 +552,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | MI-12 | Parece golpe, mas é só uma estratégia de preço muito bem feita. | Parece [X], mas é [Y]. | — |
 | MI-13 | Dinheiro não traz? Felicidade. E o que importa é ser? Feliz. | [Ditado popular] não traz? [plateia completa]. E o que importa é? [plateia completa]. Aí o cara [contradição]. | @caiocarneiro · 685 mil views · out/2026 (Claude in Chrome) |
 | MI-14 | Você ainda acha que o Reels é o melhor formato do Instagram? Sempre o melhor formato? | Você ainda acha que [crença do nicho]? Os dados estão mostrando uma coisa diferente. | @rafaelkiso · 48,5 mil views · out/2026 (Claude in Chrome) |
+| MI-15 | Se você quer mudar o sistema, você é escravo dele. O importante não é mudar o sistema, é você criar um outro sistema para você mesmo. | Se você quer mudar [sistema], você é [condição negativa]. O importante é [ação alternativa]. | @icarode.carvalho · 41 mil curtidas (radar 2026-10-26) |
 
 <a id="bs"></a>
 ## BS · Bastidores / exclusivo / segredo de mercado
@@ -696,6 +709,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | HU-11 | Filho, você agradece bem muito esse teu avô, porque ele fez um fundo de pensão, de investimento de 15 milhões pra você, não foi? | (tela) Pai educa, vô estraga! (fala) [Avô rígido] fez [presente gigante] pro neto. | @joaokepler · 206 mil views · out/2026 (Claude in Chrome) |
 | HU-12 | Meu filho é dono dessa empresa aqui, V4, se quiser contratar. | Quando o [marketing/vendas] é feito pela [pessoa improvável próxima do dono]: | @denerlippert · 191 mil views · out/2026 (Claude in Chrome) |
 | HU-13 | Bom dia, Mateus. De Crocs? Vendedor de Crocs, Mateus. Agora, cliente olha pro pé. Tá tomando o quê aí? Um danonizinho. Vendedor de Crocs e tomando danone. | (tela) [Profissão] [geração]. (fala) [Chefe confronta o jovem com cenas do dia a dia que expõem o contraste geracional]. | @gilmaraugustopro · 4,4 mil curtidas (radar 2026-10-25) |
+| HU-14 | Lula acaba de ganhar as eleições com a promessa de que vai mudar o Brasil. Independente do resultado, amanhã voltaremos ao normal. | [Notícia séria do momento]. Independente do resultado, amanhã [volta irônica ao normal]. | @maumeirelles · 94 mil curtidas (radar 2026-10-26) |
 
 <a id="hz"></a>
 ## HZ · Formatos clássicos de Hormozi adaptados
