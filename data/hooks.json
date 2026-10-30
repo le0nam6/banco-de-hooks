@@ -1,6 +1,6 @@
 {
  "versao": "1.1.0",
- "atualizado_em": "2026-10-25",
+ "atualizado_em": "2026-10-30",
  "idioma": "pt-BR",
  "legenda": {
   "t": "template: troque o que está entre [colchetes]",
@@ -108,6 +108,21 @@
      "t": "[Região/grupo] é só [estereótipo negativo], ou tem [realidade surpreendente] lá?",
      "e": "Afinal de contas, o Nordeste é só bolsa-família ou tem empresa lá?",
      "p": "@fernandomiranda777 · 109 mil curtidas (radar 2026-10-26)"
+    },
+    {
+     "t": "Se você [ação aparentemente simples], você não vai ter [resultado esperado]. Vai ter [resultado real], porque [explicação técnica acessível].",
+     "e": "Se você levantar quatro paredes de tijolo em um quadrado, você não vai ter um quarto. Vai ter um monte de entulho, porque a terra fofa afunda com o peso dos tijolos.",
+     "p": "@desmontandoomundo · 114 mil curtidas (radar 2026-10-30)"
+    },
+    {
+     "t": "Você ganhou [valor alto] e comprou [sonho]. Só que [sonho] é isso aqui: [realidade decepcionante]. Lá se foram [valor], sobraram [resto].",
+     "e": "Você ganhou 10 milhões de reais e comprou seu sonho, uma fazenda. Só que ela é isso aqui, 100 hectares de mato, 45 mil reais o hectare. Lá se foram 4,5 milhões, sobraram 5,5 milhões.",
+     "p": "@maxagroapp · 61 mil curtidas (radar 2026-10-30)"
+    },
+    {
+     "t": "Para [grupo A], [ação] basta para [resultado]. Para [grupo B], [mesma ação] basta para [resultado oposto].",
+     "e": "Para o homem, um motivo basta para decidir. Para a mulher, um motivo basta para desistir.",
+     "p": "@rafaelcenson · 12 mil curtidas (radar 2026-10-30)"
     }
    ]
   },
@@ -429,6 +444,26 @@
      "t": "E se eu te dissesse que [lugar subestimado] pode virar [posição impressionante]? [Dados concretos].",
      "e": "E se eu te dissesse que o Maranhão pode virar um dos grandes motores econômicos do Brasil? Porto, ferrovia e petróleo sendo descoberto na nossa região.",
      "p": "@danielexplicaa · 3,1 mil curtidas · 111 repost/mil (radar 2026-10-29)"
+    },
+    {
+     "t": "Todo mundo fala de [tema hype], mas ninguém te explica [parte prática]. Eu vim te mostrar [número] maneiras e [número] [recursos] que vão te ajudar.",
+     "e": "Todo mundo fala de ganhar dinheiro com inteligência artificial, mas ninguém te explica como. Eu vim te mostrar 6 maneiras de ganhar e 6 projetos gratuitos que vão te ajudar.",
+     "p": "@oigormsantos · 2,8 mil curtidas · 1080 coment/mil (radar 2026-10-30)"
+    },
+    {
+     "t": "[Ferramenta de IA] agora consegue [capacidade surpreendente] e instalar direto no seu [dispositivo].",
+     "e": "O Claude agora consegue construir apps inteiros de iPhone e instalar direto no seu celular.",
+     "p": "@fabianocarvalhojr · 1,5 mil curtidas · 260 coment/mil (radar 2026-10-30)"
+    },
+    {
+     "t": "Nos últimos [período] já foi [ação dramática] do mercado mais de [valor gigante]. [Nome de empresa] perdendo [valor] por conta de [causa].",
+     "e": "Nos últimos 30 dias já foi drenado do mercado mais de um trilhão de reais. O Google perdendo mais de 500 bilhões de valor de mercado. Sabe por conta de quem? Por conta da inteligência artificial.",
+     "p": "@matheusgomes · 1,2 mil curtidas (radar 2026-10-30)"
+    },
+    {
+     "t": "[Entidade pública] fez [ação impactante contra pessoas]. Eu recebi muitas mensagens e vou dar minha opinião de maneira [tom].",
+     "e": "No dia de ontem a Prefeitura Municipal de Paraibano fez diversas demissões dos servidores contratados. Eu recebi muitas mensagens e vou dar minha opinião de maneira real, coerente e respeitosa.",
+     "p": "@priscilaw_torres · 568 curtidas · 98 coment/mil · 59 repost/mil (radar 2026-10-30)"
     }
    ]
   },
@@ -969,6 +1004,11 @@
      "t": "[Lugar] tem [comida/serviço] por [preço absurdamente baixo]. Aqui, bem no centro de [cidade] no [estado].",
      "e": "dos lugares mais baratos do mundo pra você comer. Caldinho grande, R$ 8, salgado, R$ 3. Aqui, bem no centro de Parnaíba no Piauí.",
      "p": "@lucasthetraveller · 2,9 mil curtidas · 69 coment/mil · 62 repost/mil (radar 2026-10-29)"
+    },
+    {
+     "t": "Galera, esse [lugar] aqui me deixou de queixo caído, fazia muito tempo que eu não encontrava [surpresa].",
+     "e": "Galera, esse restaurante aqui me deixou de queixo caído, fazia muito tempo que eu não encontrava um local com essa proposta.",
+     "p": "@turistandoslz · 5 mil curtidas · 22 coment/mil · 22 repost/mil (radar 2026-10-30)"
     }
    ]
   },
@@ -1041,6 +1081,11 @@
      "t": "[Tipo de truques] que [autoridade] não quer que você saiba, parte [número alto].",
      "e": "Truques antiéticos que o governo não quer que você saiba a parte de 19.",
      "p": "@the_fox_hd · 37 mil curtidas (radar 2026-10-29)"
+    },
+    {
+     "t": "Coisas absolutamente normais na vida de [grupo] que a internet faz você acreditar que [crença falsa negativa].",
+     "e": "Coisas absolutamente normais na vida de um casal que a internet faz você acreditar que seu casamento é uma grande bosta.",
+     "p": "@narah.alvess · 54 mil curtidas · 57 repost/mil (radar 2026-10-30)"
     }
    ]
   },
@@ -1157,6 +1202,21 @@
      "t": "[Sonho simples de pessoa humilde], o meu sonho de [ação com famoso]. [Fala com sotaque regional e humildade].",
      "e": "Buscar aquela paia, o meu sonho de conhecer o Carlinho Maia. Carlinho Maia, não sou melhor de quem ninguém, só quero fazer a minha parte.",
      "p": "@faiskamassacreoriginal · 10 mil curtidas (radar 2026-10-29)"
+    },
+    {
+     "t": "Eu recebi a missão [superlativo] da vida: [tarefa emocional ligada a família/herança que tem mais de [tempo]].",
+     "e": "Eu recebi a missão mais importante da vida, mudar o logo da pizzaria do meu pai, que tem mais de 20 anos.",
+     "p": "@julialbergaria · 4,2 mil curtidas (radar 2026-10-30)"
+    },
+    {
+     "t": "[Decisão de confronto]! [Ação de expor]. Eu nunca fiz isso na minha vida, mas hoje não vai ser assim!",
+     "e": "Vou expor mesmo! Expondo haters! Eu nunca fiz isso na minha vida, essa vai ser a primeira vez!",
+     "p": "@_analaura.faria · 2,5 mil curtidas · 48 coment/mil (radar 2026-10-30)"
+    },
+    {
+     "t": "E se eu brotar [em lugar improvável] e fizer [receita/atividade]? [Chamada para ação visual].",
+     "e": "E se eu brotar aqui no Palácio dos Leões e fizer um arroz de cuxá com o mini camarão? Antes de começar, editor, solta aquela pedra!",
+     "p": "@mc13_giovanni · 550 curtidas · 161 coment/mil · 80 repost/mil (radar 2026-10-30)"
     }
    ]
   },
@@ -1963,6 +2023,11 @@
      "t": "Um cliente me pediu pra refazer [trabalho de IA] e se liga no que eu entreguei. [Contexto do problema]. Tudo era feito com IA, [defeito]. Foi aí que ele me deu uma missão.",
      "e": "Um cliente me pediu pra refazer uma logo de AI e se liga no que eu entreguei. O italiano me mandou uma mensagem querendo que eu refizesse toda a marca dele. Ele tinha contratado uma agência e acabou não gostando do resultado, sabe? Tudo era feito com IA, a marca era amadora e sem nenhuma personalidade.",
      "p": "@ojuniorbessa · 3,2 mil curtidas · 56 coment/mil (radar 2026-10-29)"
+    },
+    {
+     "t": "Hoje eu vim responder a pergunta que mais me fazem: por que eu escolhi [ferramenta X] e não [Y] ou [Z]?",
+     "e": "Hoje eu vim responder a pergunta que mais me fazem aqui no Instagram. Por que eu escolhi o Grok Bot e não o Claude ou o ChatGPT?",
+     "p": "@isadoradiogolenz · 744 curtidas · 84 coment/mil (radar 2026-10-30)"
     }
    ]
   },
@@ -2314,6 +2379,11 @@
      "t": "[Pessoa desesperada] perdeu o [objeto caro recém-parcelado]. [Pedido de ajuda] pro [companheiro] que [não pode ajudar].",
      "e": "Meu celular, você não viu ele, não? — Eu não vi, não. — Ah, mas agora que eu peguei só duas parcelas.",
      "p": "@freddbenn · 94 mil curtidas (radar 2026-10-29)"
+    },
+    {
+     "t": "[Profissão inventada com superlativos absurdos] se apresenta e pede [experiência completa] num [estabelecimento local].",
+     "e": "Eu sou um criador do conteúdo, tenho quase 20 milhões de seguidores, falta apenas uns detalhes. Vou fazer um vídeo, mostrando sua casa, seus melhores pratos.",
+     "p": "@rubynho8 · 56 mil curtidas (radar 2026-10-30)"
     }
    ]
   },

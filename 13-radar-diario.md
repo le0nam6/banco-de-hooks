@@ -2,44 +2,48 @@
 
 Todo dia às 4h a VPS rola o feed de Reels do Instagram por 1 hora, coleta os dados públicos (curtidas, comentários, reposts, áudio, legenda, transcrição da fala) e analisa tudo no dia seguinte. Este arquivo resume os padrões da semana e aponta para os relatórios completos no Second Brain.
 
-## Padrões da semana (20–29 de outubro de 2026)
+## Padrões da semana (25–30 de outubro de 2026)
 
-**Dados disponíveis:** 25/10, 26/10, 27/10, 28/10 e 29/10 (5 dias de coleta).
+**Dados disponíveis:** 25/10, 26/10, 27/10, 28/10, 29/10 e 30/10 (6 dias de coleta).
 
-### Candidatos a proposta de teoria (5 dias)
+### Candidatos a proposta de teoria (6 dias)
 
-- **Receita/dica prática fura qualquer bolha temática.** Dia 25: mecânica (366 mil). Dia 26: 5 dos 10 maiores são receitas. Dia 27: queijo 24 mil, caldo 19,5 mil. Dia 28: pavê (@marcio.zago, 31 mil). Dia 29: lista de DJ sets (@bguilobo, 38 mil), vocabulário regional (@luannb_, 7,4 mil), livro de 100 páginas (@evertonmirandamacedo, 6,8 mil).
-- **Texto na tela sincronizado com a fala multiplica retenção.** 5 dias consecutivos. Dia 29: @orodrigo.01 (131 mil), @velosblack (85 mil, tipografia cinética), @camilokronka (26 mil), @the_fox_hd (37 mil, "PARTE 19"). Todos os top 10 com fala usam texto na tela.
-- **Opinião forte sobre política gera repost, não curtida.** 5 dias. Dia 29: @nagila_trajano (29 mil, 12,6 repost/mil), @danielexplicaa (3,1 mil, 111 repost/mil). Repost político continua acima do comentário.
-- **Conteúdo político que performa usa infográfico/humor, não panfleto.** 5 dias. Dia 29: @danielexplicaa (mapa animado do Maranhão, 111 repost/mil), @nagila_trajano (dança + provocação, 29 mil). Talking head político seco fora dos rankings.
-- **CTA "comenta X" gera volume oco — saturando.** 5 dias consecutivos. Dia 29: @marvarrichio ("comente SWITCH"), @fabianocarvalhojr ("comente DA6PR"), @felp_ai ("manda 3D"). Ratio inflado pelo quinto dia.
+- **Receita/dica prática fura qualquer bolha temática.** Dia 30: simulação econômica de fazenda (@maxagroapp, 61 mil), restaurante com vista mar em São Luís (@turistandoslz, 5 mil), importação simplificada (@genioimporta, 150). Conteúdo-utilidade no top 20 mesmo sem pauta quente.
+- **Texto na tela sincronizado com a fala multiplica retenção.** Dia 30: @desmontandoomundo (legenda karaokê palavra por palavra), @rafaelcenson (texto amarelo sincronizado), @maxagroapp (saldo decrescente na tela). 100% dos top 10 com fala usam texto na tela.
+- **Opinião forte sobre política gera repost, não curtida.** Dia 30: @priscilaw_torres (568, demissões na Prefeitura de Paraibano, 98,6 coment/mil + 59,9 repost/mil). Repost político continua acima do comentário.
+- **Conteúdo político que performa usa infográfico/humor, não panfleto.** Dia 30: @priscilaw_torres usou opinião direta com dados locais (demissões + nomes). Talking head político seco fora dos rankings.
+- **CTA "comenta X" gera volume oco — saturando.** Dia 30: @oigormsantos ("comenta GRANA", 1080 coment/mil), @fabianocarvalhojr ("comenta AWEMR", 260 coment/mil). Sexto dia consecutivo. Ratio completamente inflado.
+
+### Confirmados (5 dias)
+
+- **Infográfico animado sem rosto performa em pauta quente** (26/10–30/10). Dia 30: @desmontandoomundo (114 mil, animação 3D de construção civil — líder do dia), @maxagroapp (61 mil, simulação de fazenda 3D low-poly).
+- **Humor de opinião puxa mais comentário que entretenimento** (25/10, 27/10–30/10). Dia 30: @isadoradiogolenz (84,7 coment/mil, "por que escolhi o Grok Bot"), @mc13_giovanni (161,8 coment/mil, cooking show em lugar público).
+- **Forró, funk e música regional são constantes no feed** (25/10, 27/10–30/10). Dia 30: @elitemusic.br (1,5 mil, trio musical ao vivo), @meionorte (6,8 mil, Igor Kannário em Teresina), @coringareels (21 mil, áudio com bebê).
 
 ### Confirmados (4 dias)
 
-- **Infográfico animado sem rosto performa em pauta quente** (26/10, 27/10, 28/10, 29/10). Dia 29: @danielexplicaa (mapa + dados + narração, 111 repost/mil), @felp_ai (vídeo 3D com IA).
-- **Humor de opinião puxa mais comentário que entretenimento** (25/10, 27/10, 28/10, 29/10). Dia 29: @llipe.ensina (96 coment/mil), @luannb_ (79 coment/mil), @ojuniorbessa (56 coment/mil).
-- **Forró, funk e música regional são constantes no feed** (25/10, 27/10, 28/10, 29/10). Dia 29: @melissascostaa (7,6 mil, funk), @velosblack (85 mil, funk + tipografia), @dj.al.jay (3,3 mil, mashup Racionais + Snoop, 76 repost/mil).
+- **Humor de personagem absurdo gera comentário orgânico** (27/10–30/10). Dia 30: @rubynho8 (56 mil, "blogueiro gastronômico com quase 20 milhões de seguidores") — segundo Reel do rubynho8 no top 5 em dias consecutivos.
+- **Escalada de absurdo como retenção** (27/10–30/10). Dia 30: @desmontandoomundo (114 mil, cada solução gera novo problema), @maxagroapp (61 mil, cada compra diminui o saldo).
+- **Narração por IA não impede viralização** (27/10–30/10). Dia 30: @desmontandoomundo (voz robótica, 114 mil), @maxagroapp (narração com cadência de IA, 61 mil). Dois líderes do dia com narração gerada.
+- **Referência geográfica precisa multiplica envio local** (27/10–30/10). Dia 30: @turistandoslz (Raposa, MA, 22 repost/mil), @rubynho8 (Torre, Recife/PE), @mc13_giovanni (Palácio dos Leões, São Luís).
 
 ### Confirmados (3 dias)
 
-- **Humor de personagem absurdo gera comentário orgânico** (27/10, 28/10, 29/10). Dia 29: @rubynho8 (210 mil, "Rubi Tsubasa, crítico japonês"). Persona exagerada + avaliação = curiosidade + humor.
-- **Escalada de absurdo como retenção** (27/10, 28/10, 29/10). Dia 29: @orodrigo.01 (131 mil, trocadilhos cada vez piores), @bruno.pohlmannn (4,4 mil, destinos cada vez mais absurdos).
-- **Narração por IA não impede viralização** (27/10, 28/10, 29/10). Dia 29: @felp_ai (vídeo 3D com IA), @danielexplicaa (infográfico animado com narração processada).
-- **Referência geográfica precisa multiplica envio local** (27/10, 28/10, 29/10). Dia 29: @lucasthetraveller (Parnaíba, Piauí, 69 coment/mil + 62 repost/mil), @turistandoslz (São Luís), @danielexplicaa (Porto do Itaqui).
+- **Opinião em escalada satírica como formato de repost masculino** (28/10–30/10). Dia 30: @lucasnetotribo (78,4 repost/mil, "internet vende exagero, sua vida tá boa").
 
 ### Confirmados (2 dias)
 
-- **Opinião em escalada satírica como formato de repost masculino** (28/10, 29/10). Dia 29: @camilokronka (85 repost/mil, "paradoxo do resolvedor de problemas").
+- **Série numerada serial como prova de formato** (29/10, 30/10). Dia 30: @julialbergaria ("Repaginando o Tomate, episódio 1", 4,2 mil).
+- **IA com demonstração prática de processo gera engagement em nicho** (29/10, 30/10). Dia 30: @fabianocarvalhojr (Claude + xtool, 260 coment/mil), @isadoradiogolenz (Grok Bot vs Claude, 84 coment/mil).
+- **Tipografia cinética sem rosto como conteúdo de status** (29/10, 30/10). Dia 30: @calixtowkkjk (83 mil, "eu até precisava de terapia, mas entrou dinheiro", 108 repost/mil).
+- **Formato "ajudar o pequeno comerciante" como reality em miniatura** (28/10, 30/10). Dia 30: @rubynho8 (56 mil, Bar do Tadeu, Recife), @mc13_giovanni (550, arroz de cuxá, São Luís).
 
 ### Com 1 dia (observar)
 
-- **Formato "ajudar o pequeno comerciante" como reality em miniatura** (28/10). @povribeirao (342 mil).
-- **Série animada vertical de ficção como formato sem rosto** (28/10). @erapraser.normal (70 mil).
-- **Conteúdo-utilidade cívico gera repost extremo** (28/10). @desmistifica.br (307 repost/mil).
-- **Série numerada serial como prova de formato** (29/10). @the_fox_hd (parte 19, 37 mil), @luannb_ (parte 3, 7,4 mil).
-- **Tipografia cinética sem rosto como conteúdo de status** (29/10). @velosblack (85 mil, 61 repost/mil).
-- **Mashup musical nostálgico como conteúdo de curadoria** (29/10). @dj.al.jay (3,3 mil, 76 repost/mil).
-- **IA com demonstração prática de processo gera engagement em nicho** (29/10). @felp_ai, @brunoptrevisan (344 coment/mil), @fabianocarvalhojr (626 coment/mil).
+- **Simulação econômica com animação 3D como formato educativo** (30/10). @maxagroapp (61 mil, saldo decrescente como barra de progresso).
+- **Série de rebranding pessoal como reality de design** (30/10). @julialbergaria (4,2 mil, "Redesenhei o logo de 20 anos da pizzaria do meu pai").
+- **Comparação de IAs como tema de engagement orgânico** (30/10). @isadoradiogolenz (744, 84 coment/mil, "Por que escolhi Grok Bot e não Claude?").
+- **Sketch de dev como conteúdo de repost** (30/10). @sosohonorato.exe (2,3 mil, 75 repost/mil, sketch de elevador).
 - **Confronto direto com concorrente grande gera comentário e repost** (27/10). @olivia.sensata (vs. Primo Rico, 53 coment/mil).
 - **Brasileiros nos EUA com comida = orgulho nacional** (27/10). @oficial.sww (42 mil).
 - **Lista diagnóstica "Se [sintoma], é [causa]" prende por loop** (25/10). Cada item é um mini-hook.
@@ -52,6 +56,7 @@ Todo dia às 4h a VPS rola o feed de Reels do Instagram por 1 hora, coleta os da
 
 | Data | Reels | Hooks novos | Relatório |
 |------|-------|-------------|-----------|
+| 2026-10-30 | 58 (37 transcritos) | 14 (VE×3, NQ×4, SU, HP×3, AL, IA, HU) | [[Radar - 2026-10-30]] |
 | 2026-10-29 | 64 (37 transcritos) | 14 (HU×3, CT, NQ, AL, SU, HP, NU, PR, ID, BS, IA, MK) | [[Radar - 2026-10-29]] |
 | 2026-10-28 | 47 (37 transcritos) | 11 (OR, AF, ID, HP, SU, DB, IA×2, HU, NQ, IN) | [[Radar - 2026-10-28]] |
 | 2026-10-27 | 49 (40 transcritos) | 13 (NQ, SU, HP, PR, AL, CT, HU, MI, NU, AF, ID, MK, BS) | [[Radar - 2026-10-27]] |
@@ -60,9 +65,10 @@ Todo dia às 4h a VPS rola o feed de Reels do Instagram por 1 hora, coleta os da
 
 ## Propostas do radar
 
-Com 5 dias de coleta, 4 padrões sobem para candidatos a proposta de teoria:
+Com 6 dias de coleta, 5 padrões sobem para candidatos a proposta de teoria:
 
-1. **Receita/dica prática fura qualquer bolha temática.** Conteúdo-utilidade aparece no top 20 independente da pauta do dia (eleição, lazer, cotidiano). Formato: lista, tutorial ou resenha com valor imediato.
+1. **Receita/dica prática fura qualquer bolha temática.** Conteúdo-utilidade aparece no top 20 independente da pauta do dia. Formato: lista, tutorial ou resenha com valor imediato.
 2. **Texto na tela sincronizado com a fala multiplica retenção.** 100% dos top 10 com fala usam texto na tela. O texto ancora atenção visual mesmo quando o áudio não está ligado.
-3. **Opinião forte sobre política gera repost, não curtida.** Ratio repost/curtida de conteúdo político supera comentário/curtida em todos os 5 dias. Repost = concordância silenciosa.
+3. **Opinião forte sobre política gera repost, não curtida.** Ratio repost/curtida de conteúdo político supera comentário/curtida em todos os 6 dias. Repost = concordância silenciosa.
 4. **Conteúdo político que performa usa infográfico/humor, não panfleto.** Talking head político seco não entra nos rankings. Quem viraliza embala a opinião em dado visual, humor ou dança.
+5. **CTA "comenta X" gera volume oco — saturando.** 6 dias consecutivos. Ratio de comentário completamente inflado: os comentários são a palavra-chave repetida, não conversa.

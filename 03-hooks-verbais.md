@@ -2,23 +2,23 @@
 
 > Arquivo gerado por `scripts/hooks.py build` a partir de `data/hooks.json`. Edite o JSON, não este arquivo.
 
-**436 hooks** em **25 categorias**. **292** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
+**450 hooks** em **25 categorias**. **306** têm prova (hook real minerado no Instagram, com views e envios na data da coleta). Os demais são modelos escritos a partir dos mesmos padrões.
 
 Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você trocar o que está entre [colchetes]. **Prova** mostra de onde veio e quanto performou.
 
 ## Índice
 
-- [VE · Verdade escondida (dissonância cognitiva)](#ve) (19)
+- [VE · Verdade escondida (dissonância cognitiva)](#ve) (22)
 - [RV · Revelação de status (“agora é bilionário”, “agora é dono”)](#rv) (15)
 - [IN · Investigador (“quem é o dono”, “o que aconteceu com”)](#in) (15)
-- [NQ · Notícia quente (newsjacking com “acabou de”)](#nq) (28)
+- [NQ · Notícia quente (newsjacking com “acabou de”)](#nq) (32)
 - [FU · Futuro / contagem regressiva](#fu) (18)
 - [CT · Contrário (opinião impopular)](#ct) (24)
 - [EX · Experimento / teste ao vivo](#ex) (17)
 - [PR · Professor (lista, passo a passo, método)](#pr) (22)
-- [AL · Erro / alerta / dor](#al) (22)
-- [SU · Confirma a suspeita (o público usa você como argumento)](#su) (14)
-- [HP · História pessoal / vulnerabilidade](#hp) (21)
+- [AL · Erro / alerta / dor](#al) (23)
+- [SU · Confirma a suspeita (o público usa você como argumento)](#su) (15)
+- [HP · História pessoal / vulnerabilidade](#hp) (24)
 - [OR · Origem improvável (do zero ao topo)](#or) (18)
 - [NU · Número chocante](#nu) (17)
 - [BR · Brasil x mundo / regional](#br) (14)
@@ -27,11 +27,11 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 - [AF · Aforismo curto (vídeo de 8 a 30 segundos)](#af) (21)
 - [MI · Mito / desmistificação](#mi) (16)
 - [BS · Bastidores / exclusivo / segredo de mercado](#bs) (14)
-- [IA · Inteligência artificial (nicho)](#ia) (19)
+- [IA · Inteligência artificial (nicho)](#ia) (20)
 - [MK · Marketing, agência e negócios (nicho)](#mk) (20)
 - [PV · Prova visual / “olha isso”](#pv) (13)
 - [DB · Debate / divide opiniões](#db) (13)
-- [HU · Humor e cotidiano brasileiro](#hu) (19)
+- [HU · Humor e cotidiano brasileiro](#hu) (20)
 - [HZ · Formatos clássicos de Hormozi adaptados](#hz) (9)
 
 <a id="ve"></a>
@@ -64,6 +64,9 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | VE-17 | A pessoa mais rica de cada continente é um comprador de empresa, não um fundador de empresa. | A pessoa mais [rica/bem-sucedida] de cada [lugar] é [papel inesperado], não [papel óbvio]. | @denerlippert · 155 mil views · out/2026 (Claude in Chrome) |
 | VE-18 | O setor de alimentação fora do lar no Brasil faturou 495 bi em 2025. O número impressiona. | [Setor] faturou [número gigante]. O número impressiona. Agora, enquanto [métrica boa] sobe, [métrica real] está [caindo] em silêncio. | @camilafarani · 124 mil views · out/2026 (Claude in Chrome) |
 | VE-19 | Afinal de contas, o Nordeste é só bolsa-família ou tem empresa lá? | [Região/grupo] é só [estereótipo negativo], ou tem [realidade surpreendente] lá? | @fernandomiranda777 · 109 mil curtidas (radar 2026-10-26) |
+| VE-20 | Se você levantar quatro paredes de tijolo em um quadrado, você não vai ter um quarto. Vai ter um monte de entulho, porque a terra fofa afunda com o peso dos tijolos. | Se você [ação aparentemente simples], você não vai ter [resultado esperado]. Vai ter [resultado real], porque [explicação técnica acessível]. | @desmontandoomundo · 114 mil curtidas (radar 2026-10-30) |
+| VE-21 | Você ganhou 10 milhões de reais e comprou seu sonho, uma fazenda. Só que ela é isso aqui, 100 hectares de mato, 45 mil reais o hectare. Lá se foram 4,5 milhões, sobraram 5,5 milhões. | Você ganhou [valor alto] e comprou [sonho]. Só que [sonho] é isso aqui: [realidade decepcionante]. Lá se foram [valor], sobraram [resto]. | @maxagroapp · 61 mil curtidas (radar 2026-10-30) |
+| VE-22 | Para o homem, um motivo basta para decidir. Para a mulher, um motivo basta para desistir. | Para [grupo A], [ação] basta para [resultado]. Para [grupo B], [mesma ação] basta para [resultado oposto]. | @rafaelcenson · 12 mil curtidas (radar 2026-10-30) |
 
 <a id="rv"></a>
 ## RV · Revelação de status (“agora é bilionário”, “agora é dono”)
@@ -158,6 +161,10 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | NQ-26 | Chega de eleições e vamos para a próxima polêmica que interessa, o Natal! | Chega de [assunto saturado] e vamos para a próxima polêmica que interessa, [assunto novo]! | @marcio.zago · 31 mil curtidas (radar 2026-10-28) |
 | NQ-27 | Falta remédio no posto de saúde. Você votou. E agora, cobra de quem? | Falta [serviço essencial] no [lugar público]. Você votou. E agora, cobra de quem? | @desmistifica.br · 1,5 mil curtidas · 307 repost/mil (radar 2026-10-28) |
 | NQ-28 | E se eu te dissesse que o Maranhão pode virar um dos grandes motores econômicos do Brasil? Porto, ferrovia e petróleo sendo descoberto na nossa região. | E se eu te dissesse que [lugar subestimado] pode virar [posição impressionante]? [Dados concretos]. | @danielexplicaa · 3,1 mil curtidas · 111 repost/mil (radar 2026-10-29) |
+| NQ-29 | Todo mundo fala de ganhar dinheiro com inteligência artificial, mas ninguém te explica como. Eu vim te mostrar 6 maneiras de ganhar e 6 projetos gratuitos que vão te ajudar. | Todo mundo fala de [tema hype], mas ninguém te explica [parte prática]. Eu vim te mostrar [número] maneiras e [número] [recursos] que vão te ajudar. | @oigormsantos · 2,8 mil curtidas · 1080 coment/mil (radar 2026-10-30) |
+| NQ-30 | O Claude agora consegue construir apps inteiros de iPhone e instalar direto no seu celular. | [Ferramenta de IA] agora consegue [capacidade surpreendente] e instalar direto no seu [dispositivo]. | @fabianocarvalhojr · 1,5 mil curtidas · 260 coment/mil (radar 2026-10-30) |
+| NQ-31 | Nos últimos 30 dias já foi drenado do mercado mais de um trilhão de reais. O Google perdendo mais de 500 bilhões de valor de mercado. Sabe por conta de quem? Por conta da inteligência artificial. | Nos últimos [período] já foi [ação dramática] do mercado mais de [valor gigante]. [Nome de empresa] perdendo [valor] por conta de [causa]. | @matheusgomes · 1,2 mil curtidas (radar 2026-10-30) |
+| NQ-32 | No dia de ontem a Prefeitura Municipal de Paraibano fez diversas demissões dos servidores contratados. Eu recebi muitas mensagens e vou dar minha opinião de maneira real, coerente e respeitosa. | [Entidade pública] fez [ação impactante contra pessoas]. Eu recebi muitas mensagens e vou dar minha opinião de maneira [tom]. | @priscilaw_torres · 568 curtidas · 98 coment/mil · 59 repost/mil (radar 2026-10-30) |
 
 <a id="fu"></a>
 ## FU · Futuro / contagem regressiva
@@ -321,6 +328,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | AL-20 | Se você está a 100 por hora e o volante trepida, é balanceamento. Se você virar todo o volante pro lado e acelerar e ele fizer toque, toque, toque, é a junta homocinética. | Se você [situação cotidiana] e [sintoma], é [diagnóstico]. Se [outra situação] e [outro sintoma], é [outro diagnóstico]. | @gtech.s.a · 366 mil curtidas (radar 2026-10-25) |
 | AL-21 | Aqui tem um caldo de camarão sensacional que me falaram. | Aqui tem [comida/serviço] que me falaram. [Confirmação rápida]. | @roleslz · 19 mil curtidas (radar 2026-10-27) |
 | AL-22 | dos lugares mais baratos do mundo pra você comer. Caldinho grande, R$ 8, salgado, R$ 3. Aqui, bem no centro de Parnaíba no Piauí. | [Lugar] tem [comida/serviço] por [preço absurdamente baixo]. Aqui, bem no centro de [cidade] no [estado]. | @lucasthetraveller · 2,9 mil curtidas · 69 coment/mil · 62 repost/mil (radar 2026-10-29) |
+| AL-23 | Galera, esse restaurante aqui me deixou de queixo caído, fazia muito tempo que eu não encontrava um local com essa proposta. | Galera, esse [lugar] aqui me deixou de queixo caído, fazia muito tempo que eu não encontrava [surpresa]. | @turistandoslz · 5 mil curtidas · 22 coment/mil · 22 repost/mil (radar 2026-10-30) |
 
 <a id="su"></a>
 ## SU · Confirma a suspeita (o público usa você como argumento)
@@ -347,6 +355,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | SU-12 | Vocês estão ligados que existe uma mulher que incorpora um cacique com o poder de controlar o tempo e que muitas organizações pagam uma grana pra ela não fazer chover nos cantos? | Vocês tão ligados que existe [pessoa/entidade absurda] que [poder surreal] e que [consequência inesperada]? | @estrogonofedemiguel · 80 mil curtidas (radar 2026-10-27) |
 | SU-13 | Bons maridos estão sempre ocupados. Esse cara só passou o dia todo enfrentando problema que nem conta pra esposa. | [Bons + papel] estão sempre [estado negativo aparente]. [Explicação que vira a perspectiva]. | @lucasnetotribo · 24 mil curtidas · 106 repost/mil (radar 2026-10-28) |
 | SU-14 | Truques antiéticos que o governo não quer que você saiba a parte de 19. | [Tipo de truques] que [autoridade] não quer que você saiba, parte [número alto]. | @the_fox_hd · 37 mil curtidas (radar 2026-10-29) |
+| SU-15 | Coisas absolutamente normais na vida de um casal que a internet faz você acreditar que seu casamento é uma grande bosta. | Coisas absolutamente normais na vida de [grupo] que a internet faz você acreditar que [crença falsa negativa]. | @narah.alvess · 54 mil curtidas · 57 repost/mil (radar 2026-10-30) |
 
 <a id="hp"></a>
 ## HP · História pessoal / vulnerabilidade
@@ -380,6 +389,9 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | HP-19 | Todo fim de ano, meus amigos e eu, a gente se reúne pra passar um dia inteiro junto próximo ao Natal. E aí saiu uma pergunta que transformou de vez o que eu penso sobre mim mesmo. | Todo [período], [eu/nós] [ritual do grupo]. E aí [um dia] saiu [algo que mudou tudo]. | @hommiegandra · 21 mil curtidas (radar 2026-10-27) |
 | HP-20 | Rotina de uma jovem de 19 anos que mora na Espanha e trabalha em dois empregos. | Rotina de [pessoa + idade] que mora [lugar longe] e [realidade dura]. | @clarasoares.es · 39 mil curtidas (radar 2026-10-28) |
 | HP-21 | Buscar aquela paia, o meu sonho de conhecer o Carlinho Maia. Carlinho Maia, não sou melhor de quem ninguém, só quero fazer a minha parte. | [Sonho simples de pessoa humilde], o meu sonho de [ação com famoso]. [Fala com sotaque regional e humildade]. | @faiskamassacreoriginal · 10 mil curtidas (radar 2026-10-29) |
+| HP-22 | Eu recebi a missão mais importante da vida, mudar o logo da pizzaria do meu pai, que tem mais de 20 anos. | Eu recebi a missão [superlativo] da vida: [tarefa emocional ligada a família/herança que tem mais de [tempo]]. | @julialbergaria · 4,2 mil curtidas (radar 2026-10-30) |
+| HP-23 | Vou expor mesmo! Expondo haters! Eu nunca fiz isso na minha vida, essa vai ser a primeira vez! | [Decisão de confronto]! [Ação de expor]. Eu nunca fiz isso na minha vida, mas hoje não vai ser assim! | @_analaura.faria · 2,5 mil curtidas · 48 coment/mil (radar 2026-10-30) |
+| HP-24 | E se eu brotar aqui no Palácio dos Leões e fizer um arroz de cuxá com o mini camarão? Antes de começar, editor, solta aquela pedra! | E se eu brotar [em lugar improvável] e fizer [receita/atividade]? [Chamada para ação visual]. | @mc13_giovanni · 550 curtidas · 161 coment/mil · 80 repost/mil (radar 2026-10-30) |
 
 <a id="or"></a>
 ## OR · Origem improvável (do zero ao topo)
@@ -635,6 +647,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | IA-17 | Montei uma banca com 5 Claudes pra reprovar o seu código. | Montei [grupo de agentes de IA] pra [tarefa que humano faz] o seu [entregável]. | @clubedasskills · 4,5 mil curtidas · 1147 coment/mil (radar 2026-10-28) |
 | IA-18 | O Claude matou o Instagram. Agora ele escreve o conteúdo do seu Instagram inteiro. | O [ferramenta de IA] matou o [plataforma/profissão]. Agora [ação automatizada]. | @copfybr · 818 curtidas · 814 coment/mil (radar 2026-10-28) |
 | IA-19 | Um cliente me pediu pra refazer uma logo de AI e se liga no que eu entreguei. O italiano me mandou uma mensagem querendo que eu refizesse toda a marca dele. Ele tinha contratado uma agência e acabou não gostando do resultado, sabe? Tudo era feito com IA, a marca era amadora e sem nenhuma personalidade. | Um cliente me pediu pra refazer [trabalho de IA] e se liga no que eu entreguei. [Contexto do problema]. Tudo era feito com IA, [defeito]. Foi aí que ele me deu uma missão. | @ojuniorbessa · 3,2 mil curtidas · 56 coment/mil (radar 2026-10-29) |
+| IA-20 | Hoje eu vim responder a pergunta que mais me fazem aqui no Instagram. Por que eu escolhi o Grok Bot e não o Claude ou o ChatGPT? | Hoje eu vim responder a pergunta que mais me fazem: por que eu escolhi [ferramenta X] e não [Y] ou [Z]? | @isadoradiogolenz · 744 curtidas · 84 coment/mil (radar 2026-10-30) |
 
 <a id="mk"></a>
 ## MK · Marketing, agência e negócios (nicho)
@@ -748,6 +761,7 @@ Como ler: **Exemplo** é a frase pronta. **Template** é a estrutura pra você t
 | HU-17 | Permite-me apresentar Rubi Tsubasa, som crítico à mãe da culinária japonesa. Gostaria de conhecer a casa e sua identidade culinária. | [Personagem fictício com nome exótico] se apresenta como [profissional improvável] e pede [experiência completa] num [lugar comum]. | @rubynho8 · 210 mil curtidas (radar 2026-10-29) |
 | HU-18 | Pesquisas indicam que 100% das pessoas que morreram já estiveram vivas. Tragédia: dois caminhões caíram do penhasco. Um deles, porém, saiu ruando, pois era um caminhão pipa. | [Estatística óbvia como se fosse descoberta científica]. [Trocadilho com duplo sentido sobre tragédia]. | @orodrigo.01 · 131 mil curtidas (radar 2026-10-29) |
 | HU-19 | Meu celular, você não viu ele, não? — Eu não vi, não. — Ah, mas agora que eu peguei só duas parcelas. | [Pessoa desesperada] perdeu o [objeto caro recém-parcelado]. [Pedido de ajuda] pro [companheiro] que [não pode ajudar]. | @freddbenn · 94 mil curtidas (radar 2026-10-29) |
+| HU-20 | Eu sou um criador do conteúdo, tenho quase 20 milhões de seguidores, falta apenas uns detalhes. Vou fazer um vídeo, mostrando sua casa, seus melhores pratos. | [Profissão inventada com superlativos absurdos] se apresenta e pede [experiência completa] num [estabelecimento local]. | @rubynho8 · 56 mil curtidas (radar 2026-10-30) |
 
 <a id="hz"></a>
 ## HZ · Formatos clássicos de Hormozi adaptados
