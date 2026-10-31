@@ -2,9 +2,9 @@
 
 Todo dia às 4h a VPS rola o feed de Reels do Instagram por 1 hora, coleta os dados públicos (curtidas, comentários, reposts, áudio, legenda, transcrição da fala) e analisa tudo no dia seguinte. Este arquivo resume os padrões da semana e aponta para os relatórios completos no Second Brain.
 
-## Padrões da semana (25–30 de outubro de 2026)
+## Padrões da semana (25–31 de outubro de 2026)
 
-**Dados disponíveis:** 25/10, 26/10, 27/10, 28/10, 29/10 e 30/10 (6 dias de coleta).
+**Dados disponíveis:** 25/10, 26/10, 27/10, 28/10, 29/10, 30/10 e 31/10 (7 dias de coleta; dia 31 com falha parcial — apenas 1 reel com dados).
 
 ### Candidatos a proposta de teoria (6 dias)
 
@@ -56,6 +56,7 @@ Todo dia às 4h a VPS rola o feed de Reels do Instagram por 1 hora, coleta os da
 
 | Data | Reels | Hooks novos | Relatório |
 |------|-------|-------------|-----------|
+| 2026-10-31 | 61 (1 transcrito — falha parcial) | 0 (transcrição garbled) | [[Radar - 2026-10-31]] |
 | 2026-10-30 | 58 (37 transcritos) | 14 (VE×3, NQ×4, SU, HP×3, AL, IA, HU) | [[Radar - 2026-10-30]] |
 | 2026-10-29 | 64 (37 transcritos) | 14 (HU×3, CT, NQ, AL, SU, HP, NU, PR, ID, BS, IA, MK) | [[Radar - 2026-10-29]] |
 | 2026-10-28 | 47 (37 transcritos) | 11 (OR, AF, ID, HP, SU, DB, IA×2, HU, NQ, IN) | [[Radar - 2026-10-28]] |
